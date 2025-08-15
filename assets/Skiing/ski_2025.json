@@ -1,0 +1,458 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "username": "sarah_winter",
+      "displayName": "Sarah Winter",
+      "avatar": "assets/Skiing/1/user.jpg",
+      "backgroundImage": "assets/Skiing/1/userbg.jpg",
+      "bio": "Professional skier and mountain enthusiast. Living the dream in the Alps! 🏔️⛷️",
+      "location": "Chamonix, France",
+      "followers": 12450,
+      "following": 892,
+      "posts": [
+        {
+          "id": "post_001",
+          "content": "Perfect powder day in Chamonix! The conditions were absolutely incredible today. Fresh tracks all morning long! 🎿❄️ #Chamonix #PowderDay #Skiing",
+          "images": [
+            "assets/Skiing/1/post_1.jpg",
+            "assets/Skiing/1/post_2.jpg",
+            "assets/Skiing/1/post_3.jpg"
+          ],
+          "timestamp": "2024-01-15T09:30:00Z",
+          "likes": 342,
+          "comments": 28,
+          "location": "Chamonix-Mont-Blanc",
+          "tags": ["skiing", "powder", "chamonix", "alps", "winter"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_002",
+      "username": "mike_snowboarder",
+      "displayName": "Mike Johnson",
+      "avatar": "assets/Skiing/2/user.jpg",
+      "backgroundImage": "assets/Skiing/2/userbg.jpg",
+      "bio": "Snowboard instructor and backcountry explorer. Sharing the stoke! 🏂",
+      "location": "Whistler, Canada",
+      "followers": 8760,
+      "following": 654,
+      "posts": [
+        {
+          "id": "post_002",
+          "content": "Epic backcountry session today! Found some untouched lines and the snow was perfect. Nothing beats the feeling of riding fresh powder! ❄️ #Backcountry #Whistler #Snowboarding",
+          "images": [
+            "assets/Skiing/2/post_1.jpg",
+            "assets/Skiing/2/post_2.jpg",
+            "assets/Skiing/2/post_3.jpg"
+          ],
+          "timestamp": "2024-01-14T14:15:00Z",
+          "likes": 289,
+          "comments": 19,
+          "location": "Whistler Blackcomb",
+          "tags": ["snowboarding", "backcountry", "whistler", "powder", "adventure"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_003",
+      "username": "anna_freerider",
+      "displayName": "Anna Rodriguez",
+      "avatar": "assets/Skiing/3/user.jpg",
+      "backgroundImage": "assets/Skiing/3/userbg.jpg",
+      "bio": "Freeride skier and mountain guide. Exploring the world's best ski destinations! ⛷️🌍",
+      "location": "Aspen, Colorado",
+      "followers": 15680,
+      "following": 1123,
+      "posts": [
+        {
+          "id": "post_003",
+          "content": "Incredible day on the mountain! The views were absolutely breathtaking and the snow conditions were perfect for some challenging runs. Love this mountain life! 🏔️⛷️ #Aspen #Freeride #MountainLife",
+          "images": [
+            "assets/Skiing/3/post_1.jpg",
+            "assets/Skiing/3/post_2.jpg",
+            "assets/Skiing/3/post_3.jpg"
+          ],
+          "timestamp": "2024-01-13T11:45:00Z",
+          "likes": 567,
+          "comments": 42,
+          "location": "Aspen Snowmass",
+          "tags": ["freeride", "aspen", "skiing", "mountains", "adventure"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_004",
+      "username": "tom_parkrider",
+      "displayName": "Tom Chen",
+      "avatar": "assets/Skiing/4/user.jpg",
+      "backgroundImage": "assets/Skiing/4/userbg.jpg",
+      "bio": "Park rider and trick master. Mastering new techniques on snow! 🎯",
+      "location": "Park City, Utah",
+      "followers": 9870,
+      "following": 756,
+      "posts": [
+        {
+          "id": "post_004",
+          "content": "New trick mastered today! The park was in perfect condition and I finally perfected that 720. The feeling of landing a new trick is absolutely incredible! 🏂 #ParkRiding #NewTrick #Snowboarding",
+          "images": [
+            "assets/Skiing/4/post_1.jpg",
+            "assets/Skiing/4/post_2.jpg",
+            "assets/Skiing/4/post_3.jpg"
+          ],
+          "timestamp": "2024-01-12T16:20:00Z",
+          "likes": 423,
+          "comments": 31,
+          "location": "Park City Mountain",
+          "tags": ["parkriding", "tricks", "snowboarding", "parkcity", "720"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_005",
+      "username": "lisa_alpine",
+      "displayName": "Lisa Müller",
+      "avatar": "assets/Skiing/5/user.jpg",
+      "backgroundImage": "assets/Skiing/5/userbg.jpg",
+      "bio": "Alpine ski racer and mountain lover. Speed and precision on the slopes! ⛷️⚡",
+      "location": "St. Anton, Austria",
+      "followers": 11230,
+      "following": 445,
+      "posts": [
+        {
+          "id": "post_005",
+          "content": "Racing down the legendary St. Anton slopes today! The groomers were perfect and the speed was incredible. This is what alpine skiing is all about! ⚡🎿 #AlpineSkiing #StAnton #Racing",
+          "images": [
+            "assets/Skiing/5/post_1.jpg",
+            "assets/Skiing/5/post_2.jpg",
+            "assets/Skiing/5/post_3.jpg"
+          ],
+          "timestamp": "2024-01-11T13:45:00Z",
+          "likes": 456,
+          "comments": 35,
+          "location": "St. Anton am Arlberg",
+          "tags": ["alpineskiing", "racing", "stanton", "groomers", "speed"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_006",
+      "username": "david_bigair",
+      "displayName": "David Kim",
+      "avatar": "assets/Skiing/6/user.jpg",
+      "backgroundImage": "assets/Skiing/6/userbg.jpg",
+      "bio": "Big air specialist and freestyle skier. Achieving new heights! 🎯",
+      "location": "Zermatt, Switzerland",
+      "followers": 8930,
+      "following": 678,
+      "posts": [
+        {
+          "id": "post_006",
+          "content": "Huge air session at Zermatt today! The jump was perfectly built and the landing was smooth. Nothing beats the feeling of floating through the air! ⛷️ #BigAir #Zermatt #Freestyle",
+          "images": [
+            "assets/Skiing/6/post_1.jpg",
+            "assets/Skiing/6/post_2.jpg",
+            "assets/Skiing/6/post_3.jpg"
+          ],
+          "timestamp": "2024-01-10T15:30:00Z",
+          "likes": 378,
+          "comments": 27,
+          "location": "Zermatt",
+          "tags": ["bigair", "freestyle", "zermatt", "jumps", "skiing"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_007",
+      "username": "emma_offpiste",
+      "displayName": "Emma Wilson",
+      "avatar": "assets/Skiing/7/user.jpg",
+      "backgroundImage": "assets/Skiing/7/userbg.jpg",
+      "bio": "Off-piste explorer and powder hunter. Finding the best lines in the backcountry!️",
+      "location": "Jackson Hole, Wyoming",
+      "followers": 13450,
+      "following": 892,
+      "posts": [
+        {
+          "id": "post_007",
+          "content": "Epic off-piste adventure in Jackson Hole! Found some incredible powder stashes and the terrain was absolutely mind-blowing. This is why we do this! 🏔️⛷️ #OffPiste #JacksonHole #Powder",
+          "images": [
+            "assets/Skiing/7/post_1.jpg",
+            "assets/Skiing/7/post_2.jpg",
+            "assets/Skiing/7/post_3.jpg"
+          ],
+          "timestamp": "2024-01-09T12:15:00Z",
+          "likes": 623,
+          "comments": 48,
+          "location": "Jackson Hole Mountain Resort",
+          "tags": ["offpiste", "powder", "jacksonhole", "backcountry", "adventure"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_008",
+      "username": "carlos_slope",
+      "displayName": "Carlos Martinez",
+      "avatar": "assets/Skiing/8/user.jpg",
+      "backgroundImage": "assets/Skiing/8/userbg.jpg",
+      "bio": "Slopestyle rider and trick innovator. Creating new moves on the mountain! 🎯",
+      "location": "Laax, Switzerland",
+      "followers": 7650,
+      "following": 543,
+      "posts": [
+        {
+          "id": "post_008",
+          "content": "Slopestyle session at Laax was absolutely amazing! The course was perfectly designed and I landed some new combinations. The progression in this sport is incredible! 🎯🏂 #Slopestyle #Laax #Progression",
+          "images": [
+            "assets/Skiing/8/post_1.jpg",
+            "assets/Skiing/8/post_2.jpg",
+            "assets/Skiing/8/post_3.jpg"
+          ],
+          "timestamp": "2024-01-08T14:45:00Z",
+          "likes": 334,
+          "comments": 22,
+          "location": "Laax",
+          "tags": ["slopestyle", "tricks", "laax", "snowboarding", "progression"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_009",
+      "username": "sophie_nordic",
+      "displayName": "Sophie Anderson",
+      "avatar": "assets/Skiing/9/user.jpg",
+      "backgroundImage": "assets/Skiing/9/userbg.jpg",
+      "bio": "Nordic skier and cross-country enthusiast. Exploring the wilderness on skis! ⛷️",
+      "location": "Tromsø, Norway",
+      "followers": 6540,
+      "following": 432,
+      "posts": [
+        {
+          "id": "post_009",
+          "content": "Beautiful cross-country skiing in the Norwegian wilderness today! The trails were perfect and the scenery was absolutely breathtaking. Nordic skiing is pure magic! ⛷️🌲 #NordicSkiing #Tromsø #CrossCountry",
+          "images": [
+            "assets/Skiing/9/post_1.jpg",
+            "assets/Skiing/9/post_2.jpg",
+            "assets/Skiing/9/post_3.jpg"
+          ],
+          "timestamp": "2024-01-07T10:30:00Z",
+          "likes": 287,
+          "comments": 18,
+          "location": "Tromsø",
+          "tags": ["nordicskiing", "crosscountry", "tromsø", "wilderness", "nature"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_010",
+      "username": "alex_heliski",
+      "displayName": "Alex Thompson",
+      "avatar": "assets/Skiing/10/user.jpg",
+      "backgroundImage": "assets/Skiing/10/userbg.jpg",
+      "bio": "Heli-skiing guide and extreme sports enthusiast. Accessing the most remote powder! 🚁",
+      "location": "Revelstoke, Canada",
+      "followers": 9870,
+      "following": 765,
+      "posts": [
+        {
+          "id": "post_010",
+          "content": "Heli-skiing adventure in Revelstoke! Dropped into some of the most remote and untouched powder I've ever seen. The helicopter access opens up incredible terrain! 🚁⛷️ #HeliSkiing #Revelstoke #Remote",
+          "images": [
+            "assets/Skiing/10/post_1.jpg",
+            "assets/Skiing/10/post_2.jpg",
+            "assets/Skiing/10/post_3.jpg"
+          ],
+          "timestamp": "2024-01-06T11:20:00Z",
+          "likes": 445,
+          "comments": 33,
+          "location": "Revelstoke",
+          "tags": ["heliskiing", "remote", "revelstoke", "powder", "adventure"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_011",
+      "username": "maria_telemark",
+      "displayName": "Maria Svensson",
+      "avatar": "assets/Skiing/11/user.jpg",
+      "backgroundImage": "assets/Skiing/11/userbg.jpg",
+      "bio": "Telemark skier and traditional technique master. Keeping the old ways alive! ⛷️",
+      "location": "Åre, Sweden",
+      "followers": 11200,
+      "following": 678,
+      "posts": [
+        {
+          "id": "post_011",
+          "content": "Telemark skiing in the beautiful Åre mountains! The traditional technique feels so natural and the freedom of movement is incredible. This is skiing in its purest form! ⛷️🏔️ #Telemark #Åre #Traditional",
+          "images": [
+            "assets/Skiing/11/post_1.jpg",
+            "assets/Skiing/11/post_2.jpg",
+            "assets/Skiing/11/post_3.jpg"
+          ],
+          "timestamp": "2024-01-05T13:10:00Z",
+          "likes": 389,
+          "comments": 29,
+          "location": "Åre",
+          "tags": ["telemark", "traditional", "åre", "sweden", "technique"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_012",
+      "username": "james_ski_tour",
+      "displayName": "James O'Connor",
+      "avatar": "assets/Skiing/12/user.jpg",
+      "backgroundImage": "assets/Skiing/12/userbg.jpg",
+      "bio": "Ski touring guide and mountain safety expert. Exploring the backcountry safely!️",
+      "location": "Chamonix, France",
+      "followers": 8760,
+      "following": 543,
+      "posts": [
+        {
+          "id": "post_012",
+          "content": "Ski touring adventure in the Chamonix backcountry! The skin up was challenging but the descent was absolutely worth it. Always remember to check conditions and travel safely!️⛷️ #SkiTouring #Chamonix #Safety",
+          "images": [
+            "assets/Skiing/12/post_1.jpg",
+            "assets/Skiing/12/post_2.jpg",
+            "assets/Skiing/12/post_3.jpg"
+          ],
+          "timestamp": "2024-01-04T08:45:00Z",
+          "likes": 312,
+          "comments": 25,
+          "location": "Chamonix-Mont-Blanc",
+          "tags": ["skitouring", "backcountry", "chamonix", "safety", "adventure"],
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "user_013",
+      "username": "nina_freestyle",
+      "displayName": "Nina Petrov",
+      "avatar": "assets/Skiing/13/user.jpg",
+      "backgroundImage": "assets/Skiing/13/userbg.jpg",
+      "bio": "Freestyle skier and trick innovator. Exploring new possibilities! 🎯",
+      "location": "Sochi, Russia",
+      "followers": 14560,
+      "following": 987,
+      "posts": [
+        {
+          "id": "post_013",
+          "content": "Incredible freestyle session today! The tricks were flowing perfectly and the energy was electric. Watch this epic run from start to finish! 🎯⛷️ #Freestyle #Sochi #Tricks #Skiing",
+          "video": "assets/Skiing/13/video.mp4",
+          "videoThumbnail": "assets/Skiing/13/user.jpg",
+          "videoDuration": "00:45",
+          "timestamp": "2024-01-03T16:30:00Z",
+          "likes": 743,
+          "comments": 56,
+          "location": "Rosa Khutor",
+          "tags": ["freestyle", "tricks", "sochi", "skiing", "video"],
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "user_014",
+      "username": "lucas_powder",
+      "displayName": "Lucas Silva",
+      "avatar": "assets/Skiing/14/user.jpg",
+      "backgroundImage": "assets/Skiing/14/userbg.jpg",
+      "bio": "Powder hound and backcountry explorer. Living for those deep powder days!️",
+      "location": "Hakuba, Japan",
+      "followers": 9870,
+      "following": 654,
+      "posts": [
+        {
+          "id": "post_014",
+          "content": "Epic powder day in Hakuba! The Japanese powder is absolutely legendary. Watch this incredible line through the trees - pure magic!️⛷️ #Hakuba #Powder #Japan #Backcountry",
+          "video": "assets/Skiing/14/video.mp4",
+          "videoThumbnail": "assets/Skiing/14/user.jpg",
+          "videoDuration": "00:32",
+          "timestamp": "2024-01-02T12:45:00Z",
+          "likes": 324,
+          "comments": 41,
+          "location": "Hakuba Valley",
+          "tags": ["powder", "hakuba", "japan", "backcountry", "treeskiing"],
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "user_015",
+      "username": "zoe_snowboard",
+      "displayName": "Zoe Williams",
+      "avatar": "assets/Skiing/15/user.jpg",
+      "backgroundImage": "assets/Skiing/15/userbg.jpg",
+      "bio": "Professional snowboarder and mountain lifestyle enthusiast. Riding the world's best terrain! 🏂",
+      "location": "Banff, Canada",
+      "followers": 12340,
+      "following": 876,
+      "posts": [
+        {
+          "id": "post_015",
+          "content": "Amazing snowboarding session in Banff! The terrain here is absolutely incredible and the snow conditions were perfect. Check out this smooth run down the mountain! 🏂🏔️ #Banff #Snowboarding #MountainLife",
+          "video": "assets/Skiing/15/video.mp4",
+          "videoThumbnail": "assets/Skiing/15/user.jpg",
+          "videoDuration": "00:28",
+          "timestamp": "2024-01-01T14:20:00Z",
+          "likes": 634,
+          "comments": 38,
+          "location": "Banff National Park",
+          "tags": ["snowboarding", "banff", "canada", "mountain", "terrain"],
+          "type": "video"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "totalUsers": 15,
+    "totalPosts": 15,
+    "imagePosts": 12,
+    "videoPosts": 3,
+    "generatedAt": "2024-01-15T10:00:00Z",
+    "description": "Comprehensive skiing and snowboarding social media posts with images and videos from international users",
+    "categories": {
+      "alpineSkiing": 2,
+      "snowboarding": 4,
+      "freeride": 2,
+      "parkRiding": 2,
+      "nordicSkiing": 1,
+      "heliskiing": 1,
+      "telemark": 1,
+      "freestyle": 1,
+      "powder": 1
+    },
+    "contentTypes": {
+      "image": 12,
+      "video": 3
+    },
+    "locations": [
+      "Chamonix, France",
+      "Whistler, Canada", 
+      "Aspen, Colorado",
+      "Park City, Utah",
+      "St. Anton, Austria",
+      "Zermatt, Switzerland",
+      "Jackson Hole, Wyoming",
+      "Laax, Switzerland",
+      "Tromsø, Norway",
+      "Revelstoke, Canada",
+      "Åre, Sweden",
+      "Chamonix, France",
+      "Sochi, Russia",
+      "Hakuba, Japan",
+      "Banff, Canada"
+    ]
+  }
+}
