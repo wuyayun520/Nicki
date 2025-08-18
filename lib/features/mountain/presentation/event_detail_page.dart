@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../domain/event.dart';
+import '../../profile/presentation/subscriptions_page.dart';
 
 class EventDetailPage extends StatefulWidget {
   final Event event;
@@ -10,13 +11,17 @@ class EventDetailPage extends StatefulWidget {
   State<EventDetailPage> createState() => _EventDetailPageState();
 }
 
-class _EventDetailPageState extends State<EventDetailPage> {
+class _EventDetailPageState extends State<EventDetailPage> with WidgetsBindingObserver {
   bool _joined = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadJoined();
+    _loadVipStatus();
   }
 
   Future<void> _loadJoined() async {
@@ -32,6 +37,113 @@ class _EventDetailPageState extends State<EventDetailPage> {
       _joined = !_joined;
     });
     await prefs.setBool('joined_${widget.event.id}', _joined);
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    super.didChangeAppLifecycleState(state);
+    if (state == AppLifecycleState.resumed) {
+      _loadVipStatus();
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final SharedPreferences prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    });
+  }
+
+  bool _isMonthlyVip() {
+    if (!_isVip || _vipExpiry == null) return false;
+    
+    // 检查是否是月订阅（有效期超过7天）
+    final daysUntilExpiry = _vipExpiry!.difference(DateTime.now()).inDays;
+    return daysUntilExpiry > 7;
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            children: [
+              const Icon(Icons.ac_unit, color: Color(0xFF3F4BFF)),
+              const SizedBox(width: 8),
+              Expanded(
+                child: const Text(
+                  'Monthly Premium Required',
+                  style: TextStyle(fontSize: 18),
+                ),
+              ),
+            ],
+          ),
+          content: const Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Only Monthly Premium members can join skiing activities!',
+                style: TextStyle(fontSize: 16),
+              ),
+              SizedBox(height: 16),
+              Row(
+                children: [
+                  Icon(Icons.ac_unit, color: Color(0xFF3F4BFF), size: 20),
+                  SizedBox(width: 8),
+                  Text('Monthly: \$49.99', style: TextStyle(fontWeight: FontWeight.bold)),
+                ],
+              ),
+             
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF3F4BFF),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+              ),
+              child: const Text('Subscribe Now'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _handleJoin() {
+    if (_isMonthlyVip()) {
+      _toggleJoin();
+    } else {
+      _showVipDialog();
+    }
   }
 
   @override
@@ -229,7 +341,7 @@ class _EventDetailPageState extends State<EventDetailPage> {
                       width: double.infinity,
                       height: 56,
                       child: ElevatedButton(
-                        onPressed: _toggleJoin,
+                        onPressed: _handleJoin,
                         style: ElevatedButton.styleFrom(
                           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(28)),
                           padding: EdgeInsets.zero,

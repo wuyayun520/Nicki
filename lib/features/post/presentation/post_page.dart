@@ -5,6 +5,7 @@ import '../data/video_post_repository.dart';
 import '../domain/video_post.dart';
 import '../domain/feed_post.dart';
 import 'post_detail_page.dart';
+import '../../profile/presentation/subscriptions_page.dart';
 
 class PostPage extends StatefulWidget {
   const PostPage({super.key});
@@ -13,7 +14,7 @@ class PostPage extends StatefulWidget {
   State<PostPage> createState() => _PostPageState();
 }
 
-class _PostPageState extends State<PostPage> {
+class _PostPageState extends State<PostPage> with WidgetsBindingObserver {
   final VideoPostRepository _repo = VideoPostRepository();
   late Future<List<VideoPost>> _futureTop;
   late Future<List<FeedPost>> _futureGrid;
@@ -23,11 +24,14 @@ class _PostPageState extends State<PostPage> {
   List<String> _blockedUsers = [];
   List<String> _reportedPosts = [];
   Map<String, bool> _likedPosts = {}; // 存储点赞状态
+  bool _isVip = false;
 
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadFilterData();
+    _loadVipStatus();
     _futureTop = _repo.fetchLastThreeVideos();
     _futureGrid = _repo.fetchNextTwelveFeedPosts();
     _pageController = PageController(viewportFraction: 0.85);
@@ -44,6 +48,98 @@ class _PostPageState extends State<PostPage> {
         likedPostIds.map((id) => MapEntry(id, true))
       );
     });
+  }
+
+  Future<void> _loadVipStatus() async {
+    final SharedPreferences prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+    });
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.ac_unit, color: Color(0xFF3F4BFF)),
+              SizedBox(width: 8),
+              Text('Ski Premium Required'),
+            ],
+          ),
+          content: const Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Unlock unlimited access to all skiing content with Ski Premium!',
+                style: TextStyle(fontSize: 16),
+              ),
+              SizedBox(height: 16),
+              Row(
+                children: [
+                  Icon(Icons.ac_unit, color: Color(0xFF3F4BFF), size: 20),
+                  SizedBox(width: 8),
+                  Text('Weekly: \$12.99', style: TextStyle(fontWeight: FontWeight.bold)),
+                ],
+              ),
+              SizedBox(height: 8),
+              Row(
+                children: [
+                  Icon(Icons.ac_unit, color: Color(0xFF3F4BFF), size: 20),
+                  SizedBox(width: 8),
+                  Text('Monthly: \$49.99', style: TextStyle(fontWeight: FontWeight.bold)),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF3F4BFF),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+              ),
+              child: const Text('Subscribe Now'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _navigateToDetail(dynamic post, bool isVideo) {
+    if (_isVip) {
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => PostDetailPage(
+            post: post,
+            isVideo: isVideo,
+          ),
+        ),
+      );
+    } else {
+      _showVipDialog();
+    }
   }
 
   List<VideoPost> _filterVideoPosts(List<VideoPost> posts) {
@@ -108,9 +204,18 @@ class _PostPageState extends State<PostPage> {
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     _autoTimer?.cancel();
     _pageController.dispose();
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    super.didChangeAppLifecycleState(state);
+    if (state == AppLifecycleState.resumed) {
+      _loadVipStatus();
+    }
   }
 
   @override
@@ -206,16 +311,7 @@ class _PostPageState extends State<PostPage> {
                                 width: 343,
                                 height: 343,
                                 child: GestureDetector(
-                                  onTap: () {
-                                    Navigator.of(context).push(
-                                      MaterialPageRoute(
-                                        builder: (context) => PostDetailPage(
-                                          post: posts[index],
-                                          isVideo: true,
-                                        ),
-                                      ),
-                                    );
-                                  },
+                                  onTap: () => _navigateToDetail(posts[index], true),
                                   child: _VideoSquareCard(
                                     post: posts[index],
                                     isLiked: _likedPosts[posts[index].id] ?? false,
@@ -251,16 +347,7 @@ class _PostPageState extends State<PostPage> {
                             itemCount: items.length,
                             itemBuilder: (BuildContext context, int i) {
                               return GestureDetector(
-                                onTap: () {
-                                  Navigator.of(context).push(
-                                    MaterialPageRoute(
-                                      builder: (context) => PostDetailPage(
-                                        post: items[i],
-                                        isVideo: false,
-                                      ),
-                                    ),
-                                  );
-                                },
+                                onTap: () => _navigateToDetail(items[i], false),
                                 child: _FeedGridCard(
                                   post: items[i],
                                   isLiked: _likedPosts[items[i].id] ?? false,

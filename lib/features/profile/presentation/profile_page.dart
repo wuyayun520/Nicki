@@ -6,6 +6,8 @@ import 'package:path_provider/path_provider.dart';
 import 'package:audioplayers/audioplayers.dart';
 import '../../legal/presentation/privacy_page.dart';
 import '../../legal/presentation/terms_page.dart';
+import 'in_app_purchases_page.dart';
+import 'subscriptions_page.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
@@ -14,10 +16,11 @@ class ProfilePage extends StatefulWidget {
   State<ProfilePage> createState() => _ProfilePageState();
 }
 
-class _ProfilePageState extends State<ProfilePage> {
+class _ProfilePageState extends State<ProfilePage> with WidgetsBindingObserver {
   String _userName = 'Username';
   String _avatarPath = 'assets/Skiing/1/user.jpg';
   final ImagePicker _picker = ImagePicker();
+  bool _isVip = false;
   
   // 音乐播放器相关
   final AudioPlayer _audioPlayer = AudioPlayer();
@@ -45,14 +48,25 @@ class _ProfilePageState extends State<ProfilePage> {
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _loadUserData();
+    _loadVipStatus();
     _initializeAudioPlayer();
   }
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     _audioPlayer.dispose();
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    super.didChangeAppLifecycleState(state);
+    if (state == AppLifecycleState.resumed) {
+      _loadVipStatus();
+    }
   }
 
   void _initializeAudioPlayer() {
@@ -335,6 +349,13 @@ class _ProfilePageState extends State<ProfilePage> {
     });
   }
 
+  Future<void> _loadVipStatus() async {
+    final SharedPreferences prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+    });
+  }
+
   Future<void> _saveUserData() async {
     final SharedPreferences prefs = await SharedPreferences.getInstance();
     await prefs.setString('user_name', _userName);
@@ -383,6 +404,84 @@ class _ProfilePageState extends State<ProfilePage> {
           ),
         );
       }
+    }
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Row(
+            children: [
+              Icon(Icons.ac_unit, color: Color(0xFF3F4BFF)),
+              SizedBox(width: 8),
+              Text('Ski Premium Required'),
+            ],
+          ),
+          content: const Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Unlock unlimited avatar customization with Ski Premium!',
+                style: TextStyle(fontSize: 16),
+              ),
+              SizedBox(height: 16),
+              Row(
+                children: [
+                  Icon(Icons.ac_unit, color: Color(0xFF3F4BFF), size: 20),
+                  SizedBox(width: 8),
+                  Text('Weekly: \$12.99', style: TextStyle(fontWeight: FontWeight.bold)),
+                ],
+              ),
+              SizedBox(height: 8),
+              Row(
+                children: [
+                  Icon(Icons.ac_unit, color: Color(0xFF3F4BFF), size: 20),
+                  SizedBox(width: 8),
+                  Text('Monthly: \$49.99', style: TextStyle(fontWeight: FontWeight.bold)),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF3F4BFF),
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
+                ),
+              ),
+              child: const Text('Subscribe Now'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _handleAvatarTap() {
+    if (_isVip) {
+      _pickImage();
+    } else {
+      _showVipDialog();
     }
   }
 
@@ -549,6 +648,22 @@ class _ProfilePageState extends State<ProfilePage> {
     );
   }
 
+  void _navigateToMyWallet() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const InAppPurchasesPage(),
+      ),
+    );
+  }
+
+  void _navigateToMyVip() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final double topSafe = MediaQuery.of(context).viewPadding.top;
@@ -596,7 +711,7 @@ class _ProfilePageState extends State<ProfilePage> {
                          Expanded(
                            child: Center(
                              child: GestureDetector(
-                               onTap: _pickImage,
+                               onTap: _handleAvatarTap,
                                child: Stack(
                                  children: [
                                    Container(
@@ -719,6 +834,18 @@ class _ProfilePageState extends State<ProfilePage> {
                           ),
                           child: Column(
                             children: [
+                              _buildListTileWithImage(
+                                imagePath: 'assets/images/nicki_me_wallet.png',
+                                title: 'My Wallet',
+                                onTap: () => _navigateToMyWallet(),
+                              ),
+                              _buildDivider(),
+                              _buildListTileWithImage(
+                                imagePath: 'assets/images/nicki_me_vip.png',
+                                title: 'My VIP',
+                                onTap: () => _navigateToMyVip(),
+                              ),
+                              _buildDivider(),
                               _buildListTileWithImage(
                                 imagePath: 'assets/images/nicki_privacy_policy.png',
                                 title: 'Privacy Policy',
