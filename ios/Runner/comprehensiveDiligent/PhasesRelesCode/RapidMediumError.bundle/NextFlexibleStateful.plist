@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushViaCycle</key>
+	<string>awaitParamBorder</string>
+	<key>builderAndFramework</key>
+	<string>asynchronousAllocatorOffset</string>
+	<key>completerStateRate</key>
+	<string>integerViaType</string>
+	<key>progressbarPhaseTheme</key>
+	<string>ternaryDecoratorStyle</string>
+	<key>signInVariable</key>
+	<string>painterSystemVelocity</string>
+	<key>sineLayerColor</key>
+	<string>callbackActivityKind</string>
+	<key>unactivatedFrameName</key>
+	<string>temporaryHandlerTint</string>
+</dict>
+</plist>

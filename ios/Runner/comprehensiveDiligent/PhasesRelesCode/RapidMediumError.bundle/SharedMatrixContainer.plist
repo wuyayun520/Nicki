@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediatePreviewShade</key>
+	<string>mutableExtensionLocation</string>
+	<key>mapMementoStyle</key>
+	<string>pointAroundPattern</string>
+	<key>robustCubitVisible</key>
+	<string>widgetVarFeedback</string>
+</dict>
+</plist>

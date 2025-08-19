@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectCompositePadding</key>
+	<string>operationContainPhase</string>
+	<key>keyTransitionCoord</key>
+	<string>denseHistogramState</string>
+	<key>metadataMediatorFeedback</key>
+	<string>desktopSizeFrequency</string>
+	<key>navigationBridgeTheme</key>
+	<string>gridViaBridge</string>
+	<key>normalChallengeFrequency</key>
+	<string>coordinatorParamHead</string>
+	<key>plateLevelCenter</key>
+	<string>lazyViewTint</string>
+	<key>textInsideMode</key>
+	<string>compositionOutsideMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStageVisibility</key>
+	<string>explicitParticleDuration</string>
+	<key>mobileGridviewFormat</key>
+	<string>scrollableTickerMargin</string>
+	<key>nodeDuringPrototype</key>
+	<string>clipperPrototypeOrientation</string>
+	<key>queueFrameworkLeft</key>
+	<string>priorLabelName</string>
+	<key>semanticHandlerRotation</key>
+	<string>resilientTableLocation</string>
+	<key>vectorStageRotation</key>
+	<string>lastDependencyDensity</string>
+</dict>
+</plist>

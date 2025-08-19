@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransitionOrigin</key>
+	<string>delegatePatternStatus</string>
+	<key>arithmeticStructureShade</key>
+	<string>spriteBridgeMode</string>
+	<key>associatedRiverpodTransparency</key>
+	<string>threadSinceStrategy</string>
+	<key>dimensionByBuffer</key>
+	<string>rapidAxisScale</string>
+	<key>rowOutsidePrototype</key>
+	<string>crucialAllocatorPosition</string>
+	<key>textureVarOrigin</key>
+	<string>semanticContainerCenter</string>
+</dict>
+</plist>
