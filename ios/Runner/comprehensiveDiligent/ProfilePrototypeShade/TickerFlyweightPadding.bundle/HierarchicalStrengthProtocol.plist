@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAwaitShape</key>
+	<string>euclideanModelResponse</string>
+	<key>menuMementoDepth</key>
+	<string>discardedLayoutSkewx</string>
+	<key>navigatorParameterFrequency</key>
+	<string>statelessUntilCycle</string>
+	<key>tensorFutureInteraction</key>
+	<string>euclideanControllerAlignment</string>
+</dict>
+</plist>

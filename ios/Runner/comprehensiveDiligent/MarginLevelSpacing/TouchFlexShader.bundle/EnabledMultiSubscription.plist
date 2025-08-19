@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInCycle</key>
+	<string>containerContainPhase</string>
+	<key>clipperMementoDuration</key>
+	<string>commandDespitePlatform</string>
+	<key>displayableSingletonTheme</key>
+	<string>fragmentStageScale</string>
+	<key>graphAsMediator</key>
+	<string>viewChainTag</string>
+	<key>mobileHashSpacing</key>
+	<string>positionedAsFunction</string>
+	<key>profileMethodSkewy</key>
+	<string>customizedTextIndex</string>
+	<key>storyboardFlyweightMargin</key>
+	<string>asyncRequestOffset</string>
+	<key>variantPrototypeType</key>
+	<string>pivotalChecklistLeft</string>
+</dict>
+</plist>

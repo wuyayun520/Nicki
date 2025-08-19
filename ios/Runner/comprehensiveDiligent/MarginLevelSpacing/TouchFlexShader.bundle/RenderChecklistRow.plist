@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVariableHead</key>
+	<string>standaloneScreenStatus</string>
+	<key>customizedHashOffset</key>
+	<string>crudeCollectionDelay</string>
+	<key>directMovementHue</key>
+	<string>positionPlatformColor</string>
+	<key>exceptionMementoVisible</key>
+	<string>localManagerBound</string>
+	<key>layoutMethodVelocity</key>
+	<string>offsetBeyondFunction</string>
+	<key>requestPrototypeOrigin</key>
+	<string>visibleManagerSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableVariantLocation</key>
+	<string>ignoredFrameTop</string>
+	<key>mobxLayerSaturation</key>
+	<string>progressbarAsNumber</string>
+	<key>painterParamBound</key>
+	<string>statelessDrawerHead</string>
+	<key>pointIncludeComposite</key>
+	<string>customMenuShape</string>
+	<key>transitionAmongKind</key>
+	<string>alertShapeKind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetModeRight</key>
+	<string>similarSizeTheme</string>
+	<key>completerObserverPadding</key>
+	<string>immutableModelValidation</string>
+	<key>dependencyFormLeft</key>
+	<string>collectionBesideMediator</string>
+	<key>diversifiedImageRotation</key>
+	<string>commonSubscriptionDelay</string>
+	<key>errorModePosition</key>
+	<string>labelContainStrategy</string>
+	<key>iconPlatformRate</key>
+	<string>hierarchicalViewDuration</string>
+	<key>routerCommandOrientation</key>
+	<string>viewStructureMargin</string>
+	<key>titleVisitorSpeed</key>
+	<string>webAssetDuration</string>
+</dict>
+</plist>

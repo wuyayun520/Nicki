@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constRouteAppearance</key>
+	<string>cubeAsEnvironment</string>
+	<key>deferredLabelAppearance</key>
+	<string>intuitiveButtonIndex</string>
+	<key>dimensionSinceCycle</key>
+	<string>titleCompositeAlignment</string>
+	<key>resizableFlexRate</key>
+	<string>anchorContextScale</string>
+</dict>
+</plist>

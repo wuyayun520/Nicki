@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResponseFeedback</key>
+	<string>segueAmongForm</string>
+	<key>gridFormVisibility</key>
+	<string>accessoryOutsideShape</string>
+	<key>mainPresenterInteraction</key>
+	<string>gridParamFlags</string>
+	<key>nextLossFeedback</key>
+	<string>tensorTransitionPadding</string>
+	<key>seamlessGiftRate</key>
+	<string>particleByDecorator</string>
+	<key>toolAsComposite</key>
+	<string>curveFlyweightSkewx</string>
+	<key>widgetContextEdge</key>
+	<string>menuPerValue</string>
+</dict>
+</plist>

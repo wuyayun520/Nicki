@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTypeDelay</key>
+	<string>modulusActivityTransparency</string>
+	<key>repositoryIncludeMediator</key>
+	<string>publicRadiusSaturation</string>
+	<key>scrollableHeapSkewy</key>
+	<string>cellParamTag</string>
+</dict>
+</plist>

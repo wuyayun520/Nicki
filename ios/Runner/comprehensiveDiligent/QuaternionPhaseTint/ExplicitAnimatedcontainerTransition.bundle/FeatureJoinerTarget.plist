@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalTickerBorder</key>
+	<string>denseEquipmentOrigin</string>
+	<key>textBufferShape</key>
+	<string>chapterNearOperation</string>
+	<key>transitionInFlyweight</key>
+	<string>multiplicationDuringPrototype</string>
+	<key>webNavigatorAppearance</key>
+	<string>optimizerViaVisitor</string>
+</dict>
+</plist>

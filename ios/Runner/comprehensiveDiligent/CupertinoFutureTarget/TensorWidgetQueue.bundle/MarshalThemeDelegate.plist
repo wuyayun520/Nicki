@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelIncludeMediator</key>
+	<string>easyFrameSpeed</string>
+	<key>mobileContractionTension</key>
+	<string>groupValueDistance</string>
+	<key>pinchableEntitySpacing</key>
+	<string>zoneLikeTask</string>
+	<key>sharedTransitionMomentum</key>
+	<string>synchronousPriorityRotation</string>
+	<key>utilAgainstStrategy</key>
+	<string>nextGridForce</string>
+</dict>
+</plist>

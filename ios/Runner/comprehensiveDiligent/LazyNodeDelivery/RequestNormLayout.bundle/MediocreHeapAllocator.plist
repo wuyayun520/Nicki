@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleDuration</key>
+	<string>displayableWorkflowInset</string>
+	<key>commandViaFacade</key>
+	<string>elasticGesturedetectorPadding</string>
+	<key>constraintFromCommand</key>
+	<string>smallScaffoldIndex</string>
+	<key>dropdownbuttonExceptStyle</key>
+	<string>signatureExceptFlyweight</string>
+	<key>immutableActivityDensity</key>
+	<string>directBaselinePosition</string>
+	<key>riverpodFrameworkPressure</key>
+	<string>uniformProviderFeedback</string>
+	<key>rowTempleShape</key>
+	<string>signatureForObserver</string>
+	<key>streamOrValue</key>
+	<string>responseFacadeSaturation</string>
+	<key>unaryTierAcceleration</key>
+	<string>transformerAlongBridge</string>
+	<key>uniformRichtextPadding</key>
+	<string>unsortedStateSaturation</string>
+</dict>
+</plist>

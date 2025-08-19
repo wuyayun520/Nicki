@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLayoutDirection</key>
+	<string>resizableOverlayInset</string>
+	<key>cacheAsTier</key>
+	<string>storeForPattern</string>
+	<key>getxStageBehavior</key>
+	<string>exponentAlongContext</string>
+	<key>liteDocumentSize</key>
+	<string>alertMementoTop</string>
+	<key>offsetInterpreterPressure</key>
+	<string>iconOfAction</string>
+	<key>rectContainState</key>
+	<string>providerOfLevel</string>
+	<key>tickerFromMemento</key>
+	<string>profileThanFacade</string>
+	<key>unaryNearObserver</key>
+	<string>roleParamFrequency</string>
+</dict>
+</plist>

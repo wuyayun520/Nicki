@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCertificateOrigin</key>
+	<string>eventAndLayer</string>
+	<key>descriptionDespiteShape</key>
+	<string>bitrateFromNumber</string>
+	<key>dimensionObserverPosition</key>
+	<string>imageLevelDistance</string>
+	<key>imageTierBehavior</key>
+	<string>pageviewNearSingleton</string>
+	<key>matrixNearStrategy</key>
+	<string>liteWidgetPadding</string>
+	<key>navigatorWorkStyle</key>
+	<string>finalRichtextDensity</string>
+	<key>rectBeyondChain</key>
+	<string>serviceAgainstPhase</string>
+	<key>transitionWithPlatform</key>
+	<string>transformerTempleFeedback</string>
+</dict>
+</plist>

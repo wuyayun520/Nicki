@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitThroughParameter</key>
+	<string>cubitParamScale</string>
+	<key>dynamicServiceOffset</key>
+	<string>taskNumberOrientation</string>
+	<key>imperativeCacheStyle</key>
+	<string>blocDecoratorInteraction</string>
+	<key>requiredSpecifierMode</key>
+	<string>cubitObserverVelocity</string>
+	<key>resultLikeDecorator</key>
+	<string>tabbarDuringValue</string>
+	<key>smallApertureContrast</key>
+	<string>cartesianInterfaceTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAmongFacade</key>
+	<string>declarativeStoryboardOrigin</string>
+	<key>draggableNotificationFrequency</key>
+	<string>accessibleBatchRight</string>
+	<key>independentProjectDirection</key>
+	<string>actionCommandRotation</string>
+	<key>reducerKindScale</key>
+	<string>mutableRadiusSaturation</string>
+	<key>serviceCompositeInset</key>
+	<string>viewPrototypeMode</string>
+	<key>topicFrameworkIndex</key>
+	<string>notificationDespiteSingleton</string>
+</dict>
+</plist>

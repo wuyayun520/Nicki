@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPerTier</key>
+	<string>metadataWithScope</string>
+	<key>bufferAndFlyweight</key>
+	<string>screenExceptFunction</string>
+	<key>deferredCertificateCount</key>
+	<string>expandedIncludeComposite</string>
+	<key>delegateThroughBridge</key>
+	<string>managerThroughPrototype</string>
+	<key>missedDocumentOffset</key>
+	<string>mediaFromActivity</string>
+	<key>repositoryAdapterIndex</key>
+	<string>responseActivityDepth</string>
+</dict>
+</plist>

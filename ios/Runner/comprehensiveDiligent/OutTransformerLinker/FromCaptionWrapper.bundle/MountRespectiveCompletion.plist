@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorUntilStyle</key>
+	<string>keyAppbarHue</string>
+	<key>currentModelEdge</key>
+	<string>navigationPrototypeValidation</string>
+	<key>cursorTierLeft</key>
+	<string>backwardButtonColor</string>
+	<key>navigatorThroughForm</key>
+	<string>gesturedetectorByPrototype</string>
+	<key>remainderAsTask</key>
+	<string>sizeShapeFrequency</string>
+</dict>
+</plist>

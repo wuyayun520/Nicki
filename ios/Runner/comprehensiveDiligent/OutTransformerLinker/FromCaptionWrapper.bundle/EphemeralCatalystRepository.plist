@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitExceptStage</key>
+	<string>animationWithProcess</string>
+	<key>completerInsideBuffer</key>
+	<string>delegateContainEnvironment</string>
+	<key>indicatorBeyondPhase</key>
+	<string>entityDespiteSingleton</string>
+	<key>stampAtBridge</key>
+	<string>semanticsFlyweightRight</string>
+	<key>vectorOrVisitor</key>
+	<string>primaryContractionRight</string>
+</dict>
+</plist>

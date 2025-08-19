@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBufferSpacing</key>
+	<string>relationalCubitVisible</string>
+	<key>enabledQueueDensity</key>
+	<string>layerAlongMemento</string>
+	<key>logarithmAdapterAppearance</key>
+	<string>localSceneAcceleration</string>
+	<key>sliderStyleAcceleration</key>
+	<string>bitrateAsVisitor</string>
+	<key>streamLayerForce</key>
+	<string>loopLayerOpacity</string>
+</dict>
+</plist>

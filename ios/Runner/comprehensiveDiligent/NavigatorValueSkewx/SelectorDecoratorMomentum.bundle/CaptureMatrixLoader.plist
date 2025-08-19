@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanInjectionOpacity</key>
+	<string>sizeInSingleton</string>
+	<key>grayscaleSingletonDirection</key>
+	<string>spriteTempleAppearance</string>
+	<key>remainderMementoSpeed</key>
+	<string>cupertinoValueDistance</string>
+	<key>sliderBridgeTint</key>
+	<string>coordinatorNumberInset</string>
+	<key>tweenVarType</key>
+	<string>dropdownbuttonContextDepth</string>
+</dict>
+</plist>

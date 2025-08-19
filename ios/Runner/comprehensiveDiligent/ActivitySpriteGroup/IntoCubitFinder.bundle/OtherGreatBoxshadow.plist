@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilShape</key>
+	<string>directGemVisibility</string>
+	<key>curveStrategyHead</key>
+	<string>drawerParameterPosition</string>
+	<key>draggableLocalizationLocation</key>
+	<string>intensityBeyondStrategy</string>
+	<key>fusedMethodFeedback</key>
+	<string>autoCollectionColor</string>
+	<key>gestureFromBuffer</key>
+	<string>progressbarAdapterTail</string>
+</dict>
+</plist>

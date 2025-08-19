@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetModeMode</key>
+	<string>promiseThroughMemento</string>
+	<key>collectionAsPattern</key>
+	<string>callbackAsVariable</string>
+	<key>containerDuringComposite</key>
+	<string>curveStrategyOpacity</string>
+	<key>independentStoreTheme</key>
+	<string>symmetricKernelOffset</string>
+	<key>interpolationAroundPlatform</key>
+	<string>compositionalAnchorSaturation</string>
+	<key>lossAtTier</key>
+	<string>remainderJobSpeed</string>
+	<key>pivotalScaffoldVisible</key>
+	<string>visibleKernelTop</string>
+	<key>sharedSwitchMode</key>
+	<string>isolateViaStructure</string>
+	<key>significantRepositoryBound</key>
+	<string>navigatorInsideTier</string>
+	<key>staticTextfieldVisibility</key>
+	<string>nodeFunctionDuration</string>
+</dict>
+</plist>

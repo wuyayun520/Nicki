@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetUntilFunction</key>
+	<string>grainUntilFunction</string>
+	<key>dropdownbuttonActionBehavior</key>
+	<string>accordionMapShape</string>
+	<key>easyGraphSpeed</key>
+	<string>cubitByScope</string>
+	<key>labelAroundNumber</key>
+	<string>cubitVariableBorder</string>
+	<key>mainBulletPosition</key>
+	<string>tappableLabelForce</string>
+	<key>singletonOperationCount</key>
+	<string>callbackFrameworkShade</string>
+	<key>ternaryPerFramework</key>
+	<string>marginThroughFramework</string>
+</dict>
+</plist>

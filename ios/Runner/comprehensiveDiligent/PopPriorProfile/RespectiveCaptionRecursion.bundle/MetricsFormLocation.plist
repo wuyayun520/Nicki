@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlongEnvironment</key>
+	<string>reducerCommandDirection</string>
+	<key>cardIncludeType</key>
+	<string>awaitModeInteraction</string>
+	<key>euclideanSingletonHue</key>
+	<string>sceneStyleEdge</string>
+	<key>instructionInsideEnvironment</key>
+	<string>navigatorLayerDistance</string>
+	<key>localizationLevelInteraction</key>
+	<string>featureSinceFacade</string>
+</dict>
+</plist>

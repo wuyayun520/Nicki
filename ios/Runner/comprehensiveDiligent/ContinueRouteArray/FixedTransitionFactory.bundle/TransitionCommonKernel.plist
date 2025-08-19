@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsIncludeFacade</key>
+	<string>vectorInPhase</string>
+	<key>chartInsideComposite</key>
+	<string>previewAboutFlyweight</string>
+	<key>completerSingletonSize</key>
+	<string>capsuleExceptStrategy</string>
+	<key>normalDescriptionBound</key>
+	<string>resizablePlaybackInset</string>
+	<key>remainderFunctionOffset</key>
+	<string>navigatorAboutMediator</string>
+	<key>subsequentLocalizationName</key>
+	<string>criticalSymbolVelocity</string>
+	<key>tensorCurveContrast</key>
+	<string>resolverOutsideMode</string>
+</dict>
+</plist>

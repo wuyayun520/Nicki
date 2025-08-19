@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCoordinatorTint</key>
+	<string>rowOutsideFacade</string>
+	<key>matrixEnvironmentFrequency</key>
+	<string>storePhaseState</string>
+	<key>oldBufferType</key>
+	<string>difficultAnimatedcontainerRotation</string>
+	<key>permanentNotifierTheme</key>
+	<string>controllerShapeBorder</string>
+	<key>reductionBesideMode</key>
+	<string>seamlessInterfaceAcceleration</string>
+	<key>subpixelNearStyle</key>
+	<string>enabledRiverpodBorder</string>
+</dict>
+</plist>

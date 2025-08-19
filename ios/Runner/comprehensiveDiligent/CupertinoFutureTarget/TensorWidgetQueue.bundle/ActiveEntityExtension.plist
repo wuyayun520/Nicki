@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchExceptMediator</key>
+	<string>robustCapacitiesDirection</string>
+	<key>disabledBulletTail</key>
+	<string>invisibleListviewTheme</string>
+	<key>dynamicHeapAppearance</key>
+	<string>progressbarTaskLocation</string>
+	<key>featureOrDecorator</key>
+	<string>eagerPreviewAppearance</string>
+	<key>integerPlatformHead</key>
+	<string>commonStatefulInteraction</string>
+</dict>
+</plist>

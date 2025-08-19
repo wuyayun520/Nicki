@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateAgainstOperation</key>
+	<string>customProgressbarValidation</string>
+	<key>numericalApertureRotation</key>
+	<string>tickerModeRotation</string>
+	<key>pointFormSize</key>
+	<string>listenerExceptObserver</string>
+	<key>routeOrStyle</key>
+	<string>graphPerStage</string>
+	<key>taskAboutFramework</key>
+	<string>layerAtVar</string>
+</dict>
+</plist>

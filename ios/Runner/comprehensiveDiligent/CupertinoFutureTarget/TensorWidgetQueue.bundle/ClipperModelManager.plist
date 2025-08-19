@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorVersusComposite</key>
+	<string>adaptiveTextureFeedback</string>
+	<key>menuTierCoord</key>
+	<string>actionAwayType</string>
+	<key>tickerViaPlatform</key>
+	<string>channelKindHue</string>
+	<key>topicOperationMode</key>
+	<string>constGrayscaleCount</string>
+</dict>
+</plist>

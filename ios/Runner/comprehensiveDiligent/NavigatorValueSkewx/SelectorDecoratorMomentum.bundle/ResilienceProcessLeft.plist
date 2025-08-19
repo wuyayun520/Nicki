@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFacadeBehavior</key>
+	<string>standaloneCompositionTop</string>
+	<key>custompaintVarPosition</key>
+	<string>configurationFlyweightDensity</string>
+	<key>eagerCompleterInteraction</key>
+	<string>layoutActivityLocation</string>
+	<key>explicitBaselineDensity</key>
+	<string>characterModeSpeed</string>
+	<key>immediateStorageAlignment</key>
+	<string>controllerJobSize</string>
+	<key>reducerObserverBound</key>
+	<string>builderDecoratorRotation</string>
+	<key>seamlessPaddingTail</key>
+	<string>similarBuilderInset</string>
+	<key>subpixelTypeTint</key>
+	<string>crudeBitrateIndex</string>
+	<key>usecaseAwayProxy</key>
+	<string>baseViaVisitor</string>
+</dict>
+</plist>

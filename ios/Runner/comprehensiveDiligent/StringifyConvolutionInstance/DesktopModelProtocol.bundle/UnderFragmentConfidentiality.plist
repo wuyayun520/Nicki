@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitModeEdge</key>
+	<string>intensityCompositeHue</string>
+	<key>greatPlaybackVisible</key>
+	<string>promiseValueSpeed</string>
+	<key>interactorPerParameter</key>
+	<string>threadFlyweightTag</string>
+	<key>iterativeBlocResponse</key>
+	<string>managerStyleOffset</string>
+	<key>robustDecorationAlignment</key>
+	<string>catalystDecoratorTransparency</string>
+	<key>segueParameterDirection</key>
+	<string>behaviorAsFramework</string>
+	<key>textSystemCount</key>
+	<string>associatedBlocInteraction</string>
+</dict>
+</plist>

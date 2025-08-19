@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedBehaviorShape</key>
+	<string>disparateTaskColor</string>
+	<key>fusedMatrixSpacing</key>
+	<string>mobileInPattern</string>
+	<key>primaryLayerBorder</key>
+	<string>commandBesideTemple</string>
+	<key>temporaryTickerType</key>
+	<string>sliderFromParameter</string>
+	<key>textBridgeTint</key>
+	<string>sessionContainFacade</string>
+	<key>transformerByPattern</key>
+	<string>nativeMobileResponse</string>
+</dict>
+</plist>

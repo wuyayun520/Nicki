@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorEnvironmentDelay</key>
+	<string>completerAwayNumber</string>
+	<key>constraintExceptPrototype</key>
+	<string>notifierExceptFacade</string>
+	<key>cubitPerAdapter</key>
+	<string>ignoredHeroBehavior</string>
+	<key>exceptionStyleFeedback</key>
+	<string>decorationProxyVisible</string>
+	<key>largeFactoryOrigin</key>
+	<string>cosineAdapterLocation</string>
+	<key>offsetDuringContext</key>
+	<string>multiParticleRate</string>
+	<key>providerModeOffset</key>
+	<string>fragmentMediatorHead</string>
+	<key>tableOfBuffer</key>
+	<string>responsiveNavigationDepth</string>
+</dict>
+</plist>

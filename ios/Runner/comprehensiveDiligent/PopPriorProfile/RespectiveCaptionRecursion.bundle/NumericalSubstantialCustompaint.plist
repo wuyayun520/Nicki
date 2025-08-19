@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPatternAppearance</key>
+	<string>containerPlatformInset</string>
+	<key>declarativeRouterDelay</key>
+	<string>repositoryJobOpacity</string>
+	<key>heapOperationOrigin</key>
+	<string>delegateInActivity</string>
+	<key>managerOutsideMethod</key>
+	<string>constCoordinatorSkewx</string>
+	<key>metadataExceptAction</key>
+	<string>decorationIncludeAction</string>
+	<key>scrollablePositionSkewy</key>
+	<string>layerViaFlyweight</string>
+	<key>symbolThanStyle</key>
+	<string>managerFlyweightOrigin</string>
+	<key>unsortedCanvasBrightness</key>
+	<string>semanticsAgainstEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapFlyweightPadding</key>
+	<string>toolOrValue</string>
+	<key>originalEquipmentTransparency</key>
+	<string>completerContainPattern</string>
+	<key>sliderPlatformBrightness</key>
+	<string>observerByLevel</string>
+	<key>statefulAlignmentTransparency</key>
+	<string>integerInStyle</string>
+	<key>themeCompositeFeedback</key>
+	<string>providerActionPosition</string>
+	<key>zoneNearLevel</key>
+	<string>persistentSubscriptionDelay</string>
+</dict>
+</plist>

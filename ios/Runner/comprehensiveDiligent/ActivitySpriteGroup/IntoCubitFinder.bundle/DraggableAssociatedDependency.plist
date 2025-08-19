@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredLayoutPadding</key>
+	<string>pageviewAgainstValue</string>
+	<key>diversifiedTernaryBehavior</key>
+	<string>resilientModulusRotation</string>
+	<key>fragmentUntilActivity</key>
+	<string>visibleInterfaceResponse</string>
+	<key>heroTypePadding</key>
+	<string>handlerStructureType</string>
+	<key>mediumFeatureAcceleration</key>
+	<string>activityTempleTop</string>
+	<key>statefulGramInteraction</key>
+	<string>asynchronousFeatureEdge</string>
+	<key>utilThroughFramework</key>
+	<string>mediumChannelBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStyleDuration</key>
+	<string>explicitRectDensity</string>
+	<key>interfaceDecoratorAppearance</key>
+	<string>keyHandlerBrightness</string>
+	<key>iterativeHashOrientation</key>
+	<string>normAsStyle</string>
+	<key>missionAmongAction</key>
+	<string>graphicAdapterTheme</string>
+	<key>requestParameterMargin</key>
+	<string>resourceKindValidation</string>
+	<key>tangentBesideCommand</key>
+	<string>basicPointLocation</string>
+</dict>
+</plist>

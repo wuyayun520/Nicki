@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionParamFlags</key>
+	<string>pointTaskOrigin</string>
+	<key>navigationViaParam</key>
+	<string>deferredChartTransparency</string>
+	<key>prevClipperPressure</key>
+	<string>mediaLevelEdge</string>
+	<key>reusableTransformerCoord</key>
+	<string>observerNearDecorator</string>
+	<key>routerNearScope</key>
+	<string>missedGridTop</string>
+</dict>
+</plist>

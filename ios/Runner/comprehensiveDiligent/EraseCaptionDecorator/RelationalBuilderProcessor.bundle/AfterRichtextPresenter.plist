@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFactoryRotation</key>
+	<string>diffableFeatureCoord</string>
+	<key>delegateVarFlags</key>
+	<string>storageExceptVariable</string>
+	<key>dynamicWidgetSpeed</key>
+	<string>animatedRadioShade</string>
+	<key>handlerVersusWork</key>
+	<string>nextViewLocation</string>
+	<key>menuDespiteObserver</key>
+	<string>mainProviderVisible</string>
+	<key>methodTypeBrightness</key>
+	<string>transitionAroundOperation</string>
+	<key>utilSystemTint</key>
+	<string>directButtonSpacing</string>
+</dict>
+</plist>

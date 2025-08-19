@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVarBehavior</key>
+	<string>matrixModeContrast</string>
+	<key>grayscaleCycleDelay</key>
+	<string>contractionContainBuffer</string>
+	<key>immutableLayoutVisible</key>
+	<string>singletonEnvironmentHead</string>
+	<key>independentZoneDepth</key>
+	<string>asynchronousCommandDelay</string>
+	<key>mediaFunctionIndex</key>
+	<string>asyncStageTransparency</string>
+	<key>signatureShapeSaturation</key>
+	<string>difficultSizedboxTint</string>
+	<key>swiftContainActivity</key>
+	<string>subscriptionViaContext</string>
+	<key>tabviewOperationLocation</key>
+	<string>robustModulusTag</string>
+</dict>
+</plist>

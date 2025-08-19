@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVersusSingleton</key>
+	<string>appbarBesideStrategy</string>
+	<key>callbackAndBridge</key>
+	<string>routerDespiteScope</string>
+	<key>effectBufferLeft</key>
+	<string>arithmeticNearScope</string>
+	<key>entropyBesideAdapter</key>
+	<string>widgetLayerTransparency</string>
+	<key>expandedStrategyLeft</key>
+	<string>storagePrototypeOpacity</string>
+	<key>explicitControllerVelocity</key>
+	<string>queryStateFlags</string>
+	<key>hierarchicalChallengeTension</key>
+	<string>unsortedExponentLocation</string>
+	<key>localizationBridgeMomentum</key>
+	<string>hardPopupInterval</string>
+	<key>retainedEquipmentName</key>
+	<string>assetBridgeName</string>
+</dict>
+</plist>

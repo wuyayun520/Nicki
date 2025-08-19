@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLikeMode</key>
+	<string>cubitBufferLocation</string>
+	<key>contractionObserverSkewy</key>
+	<string>gestureFlyweightDensity</string>
+	<key>delegateExceptStyle</key>
+	<string>momentumContainForm</string>
+	<key>reusableGradientSize</key>
+	<string>asyncWidgetOpacity</string>
+	<key>timerCycleDistance</key>
+	<string>dependencyContainType</string>
+	<key>timerVariableRight</key>
+	<string>gridviewFlyweightMargin</string>
+</dict>
+</plist>

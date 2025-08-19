@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTierBorder</key>
+	<string>modelNearOperation</string>
+	<key>immutableProviderFlags</key>
+	<string>sizedboxAtPhase</string>
+	<key>materialNumberRate</key>
+	<string>statelessGateSpeed</string>
+	<key>standaloneDialogsIndex</key>
+	<string>reactiveDialogsDuration</string>
+</dict>
+</plist>

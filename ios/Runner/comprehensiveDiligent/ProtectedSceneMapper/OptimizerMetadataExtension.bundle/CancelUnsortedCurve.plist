@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCommandValidation</key>
+	<string>interactorAsCycle</string>
+	<key>builderStylePadding</key>
+	<string>skinParameterAlignment</string>
+	<key>cacheVersusFlyweight</key>
+	<string>movementAsPhase</string>
+	<key>documentMementoCenter</key>
+	<string>decorationInDecorator</string>
+	<key>globalMapTransparency</key>
+	<string>spriteDecoratorDepth</string>
+	<key>multiplicationPatternDepth</key>
+	<string>pointPlatformValidation</string>
+	<key>resolverOperationScale</key>
+	<string>dynamicExpandedPressure</string>
+	<key>routerScopeLocation</key>
+	<string>reactiveTransitionAcceleration</string>
+	<key>stackBeyondVar</key>
+	<string>operationVersusFacade</string>
+	<key>stateLikeFramework</key>
+	<string>smartBoxAlignment</string>
+</dict>
+</plist>

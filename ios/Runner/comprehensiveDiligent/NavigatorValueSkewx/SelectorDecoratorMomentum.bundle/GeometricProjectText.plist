@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTransitionFrequency</key>
+	<string>imperativeStreamOpacity</string>
+	<key>buttonIncludeInterpreter</key>
+	<string>segueOfAdapter</string>
+	<key>draggableCustompaintShape</key>
+	<string>tickerInsideMethod</string>
+	<key>dynamicHandlerVelocity</key>
+	<string>dropdownbuttonForNumber</string>
+	<key>eagerCoordinatorColor</key>
+	<string>prevChapterPosition</string>
+	<key>effectContextCoord</key>
+	<string>singletonValueTag</string>
+	<key>listenerAlongStrategy</key>
+	<string>controllerInterpreterInset</string>
+	<key>previewWithSingleton</key>
+	<string>nibVariableIndex</string>
+	<key>screenOfInterpreter</key>
+	<string>immediateCurveOpacity</string>
+</dict>
+</plist>

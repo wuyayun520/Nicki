@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorChainTension</key>
+	<string>positionLikeParam</string>
+	<key>buttonLayerRate</key>
+	<string>chapterPerProcess</string>
+	<key>gradientThroughComposite</key>
+	<string>interpolationOrAdapter</string>
+	<key>standaloneCupertinoVisibility</key>
+	<string>sizedboxIncludeFunction</string>
+	<key>synchronousChannelMode</key>
+	<string>routeStrategyScale</string>
+</dict>
+</plist>

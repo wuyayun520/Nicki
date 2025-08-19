@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOfValue</key>
+	<string>staticIntensityPressure</string>
+	<key>commonIsolateOffset</key>
+	<string>radioDecoratorDistance</string>
+	<key>cupertinoColumnAlignment</key>
+	<string>typicalCubitBottom</string>
+	<key>cupertinoIntensitySkewx</key>
+	<string>semanticPromisePosition</string>
+	<key>curveMethodCenter</key>
+	<string>statelessAlphaFlags</string>
+	<key>largeChallengeOrigin</key>
+	<string>sensorParamBehavior</string>
+	<key>providerBridgeHue</key>
+	<string>providerLayerRate</string>
+	<key>storeDecoratorVisible</key>
+	<string>resourceStyleAppearance</string>
+</dict>
+</plist>

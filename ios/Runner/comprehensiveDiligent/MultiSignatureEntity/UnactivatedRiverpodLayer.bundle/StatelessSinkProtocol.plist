@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorTop</key>
+	<string>factoryProcessRate</string>
+	<key>intensityStyleVisibility</key>
+	<string>fixedBoxshadowOpacity</string>
+	<key>mediaqueryPerPhase</key>
+	<string>metadataWorkFlags</string>
+	<key>semanticsActivityOffset</key>
+	<string>actionLayerIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationThroughSystem</key>
+	<string>borderVersusMode</string>
+	<key>resolverNumberTransparency</key>
+	<string>layoutOrOperation</string>
+	<key>responsiveChecklistColor</key>
+	<string>deferredConstraintBorder</string>
+	<key>sequentialStateTag</key>
+	<string>workflowKindCenter</string>
+	<key>smallConfigurationSize</key>
+	<string>asyncFacadeBottom</string>
+	<key>tangentProcessDuration</key>
+	<string>nativeTransformerRight</string>
+</dict>
+</plist>

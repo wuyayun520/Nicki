@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionExceptionInset</key>
+	<string>routeKindAlignment</string>
+	<key>cycleStrategyAppearance</key>
+	<string>presenterAgainstActivity</string>
+	<key>injectionScopeAppearance</key>
+	<string>singletonWithState</string>
+	<key>nextPopupPadding</key>
+	<string>memberOrFramework</string>
+</dict>
+</plist>

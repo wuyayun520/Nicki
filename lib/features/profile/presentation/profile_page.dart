@@ -33,7 +33,6 @@ class _ProfilePageState extends State<ProfilePage> with WidgetsBindingObserver {
     'music/music_1.mp3',
     'music/music_2.mp3',
     'music/music_3.mp3',
-    'music/music_4.mp3',
     'music/music_5.mp3',
   ];
 
@@ -41,7 +40,6 @@ class _ProfilePageState extends State<ProfilePage> with WidgetsBindingObserver {
     'Alpine Adventure',
     'Snow Peak Serenity',
     'Mountain Echo',
-    'Powder Dreams',
     'Ski Lodge Vibes',
   ];
 

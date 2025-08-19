@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCapacitiesAppearance</key>
+	<string>alphaKindBottom</string>
+	<key>coordinatorChainSpeed</key>
+	<string>playbackStageOrigin</string>
+	<key>difficultTaskHead</key>
+	<string>profileLikeLevel</string>
+	<key>frameChainEdge</key>
+	<string>difficultLocalizationSpeed</string>
+	<key>reusableActionSkewx</key>
+	<string>segueAmongMode</string>
+	<key>swiftScopePressure</key>
+	<string>delegateOrBuffer</string>
+</dict>
+</plist>

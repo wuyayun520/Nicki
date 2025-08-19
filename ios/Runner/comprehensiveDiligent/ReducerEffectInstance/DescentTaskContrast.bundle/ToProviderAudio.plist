@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCubitInset</key>
+	<string>exceptionTaskTheme</string>
+	<key>hierarchicalBoxshadowVisibility</key>
+	<string>themeScopeInteraction</string>
+	<key>inactiveBehaviorVisibility</key>
+	<string>semanticCanvasType</string>
+	<key>inheritedConsumerVisibility</key>
+	<string>tabbarMementoFeedback</string>
+	<key>navigationWorkShade</key>
+	<string>queueFunctionVisibility</string>
+	<key>seamlessBulletCount</key>
+	<string>delegateVersusStage</string>
+	<key>topicFormScale</key>
+	<string>techniqueWithoutWork</string>
+	<key>workflowValueEdge</key>
+	<string>webNodeName</string>
+</dict>
+</plist>

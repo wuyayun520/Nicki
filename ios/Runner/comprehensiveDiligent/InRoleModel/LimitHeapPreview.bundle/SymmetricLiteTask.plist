@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTouchVisible</key>
+	<string>rectInAction</string>
+	<key>configurationByMethod</key>
+	<string>denseReducerTheme</string>
+	<key>directViewAppearance</key>
+	<string>catalystByDecorator</string>
+	<key>modelAtObserver</key>
+	<string>diversifiedBaseBorder</string>
+	<key>webSingletonTransparency</key>
+	<string>firstBoxshadowFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleModeRate</key>
+	<string>timerAgainstMode</string>
+	<key>concreteResponseResponse</key>
+	<string>overlayInDecorator</string>
+	<key>configurationPerParameter</key>
+	<string>cursorMediatorDistance</string>
+	<key>contractionAsTask</key>
+	<string>euclideanGridLocation</string>
+	<key>inactiveStreamPosition</key>
+	<string>petDuringJob</string>
+	<key>popupAwayMemento</key>
+	<string>singletonAtMemento</string>
+	<key>subpixelKindVelocity</key>
+	<string>awaitSystemSpacing</string>
+</dict>
+</plist>

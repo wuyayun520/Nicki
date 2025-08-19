@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBeyondContext</key>
+	<string>hardCoordinatorMargin</string>
+	<key>graphicOrMode</key>
+	<string>graphInterpreterTheme</string>
+	<key>pageviewVarVisible</key>
+	<string>labelAroundForm</string>
+	<key>reactiveProviderInteraction</key>
+	<string>geometricManagerScale</string>
+	<key>screenDuringStructure</key>
+	<string>aspectFunctionValidation</string>
+	<key>stateForComposite</key>
+	<string>standaloneFeatureFormat</string>
+	<key>storeWithVisitor</key>
+	<string>persistentMediaCount</string>
+	<key>symmetricLocalizationBrightness</key>
+	<string>capacitiesPerObserver</string>
+</dict>
+</plist>

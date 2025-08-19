@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionValueFrequency</key>
+	<string>cacheAgainstChain</string>
+	<key>frameActivityTransparency</key>
+	<string>nativeCommandHead</string>
+	<key>functionalOverlaySpacing</key>
+	<string>cupertinoModulusInteraction</string>
+	<key>hashInKind</key>
+	<string>alphaStyleFormat</string>
+	<key>listviewStructureOpacity</key>
+	<string>declarativeNormShade</string>
+	<key>lostLabelDelay</key>
+	<string>navigatorPrototypeStatus</string>
+	<key>retainedCacheTension</key>
+	<string>decorationOfParameter</string>
+	<key>tweenChainResponse</key>
+	<string>projectionJobBound</string>
+</dict>
+</plist>

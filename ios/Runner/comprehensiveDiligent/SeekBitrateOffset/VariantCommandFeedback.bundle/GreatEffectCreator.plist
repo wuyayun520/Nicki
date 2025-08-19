@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredEffectMargin</key>
+	<string>staticInkwellTail</string>
+	<key>immutablePlaybackScale</key>
+	<string>configurationThroughChain</string>
+	<key>menuAndKind</key>
+	<string>builderInsideVisitor</string>
+	<key>utilByFunction</key>
+	<string>currentLayerOrientation</string>
+</dict>
+</plist>

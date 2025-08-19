@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationScopeBottom</key>
+	<string>intermediateConsumerAppearance</string>
+	<key>builderCommandShade</key>
+	<string>mediaqueryAndSystem</string>
+	<key>compositionalScrollBorder</key>
+	<string>graphVisitorInteraction</string>
+	<key>criticalAxisDuration</key>
+	<string>independentSampleContrast</string>
+	<key>currentTouchOrientation</key>
+	<string>mobileListviewTop</string>
+	<key>handlerVersusPrototype</key>
+	<string>cubeByMethod</string>
+	<key>pivotalSinkPosition</key>
+	<string>completionExceptFacade</string>
+	<key>relationalListenerRotation</key>
+	<string>storageExceptPrototype</string>
+	<key>repositoryPerAdapter</key>
+	<string>previewExceptFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFeatureIndex</key>
+	<string>gridviewDuringCommand</string>
+	<key>backwardGraphTop</key>
+	<string>navigatorAmongCommand</string>
+	<key>inheritedErrorScale</key>
+	<string>builderBufferCenter</string>
+	<key>popupSingletonIndex</key>
+	<string>activatedRowCenter</string>
+</dict>
+</plist>

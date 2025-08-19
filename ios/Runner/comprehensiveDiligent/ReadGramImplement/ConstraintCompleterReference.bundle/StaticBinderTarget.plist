@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBySingleton</key>
+	<string>controllerLayerDistance</string>
+	<key>eventVariableInterval</key>
+	<string>oldContainerInterval</string>
+	<key>layerSystemOrigin</key>
+	<string>controllerCycleDelay</string>
+	<key>resilientSensorStatus</key>
+	<string>reducerIncludePlatform</string>
+</dict>
+</plist>

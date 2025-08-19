@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleThroughVariable</key>
+	<string>overlayPrototypeDensity</string>
+	<key>injectionSystemMode</key>
+	<string>draggableDropdownbuttonInteraction</string>
+	<key>positionedAgainstStyle</key>
+	<string>actionPerKind</string>
+	<key>sinkVisitorAppearance</key>
+	<string>cubitParameterDirection</string>
+	<key>taskFormMode</key>
+	<string>firstMetadataOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAmongType</key>
+	<string>sequentialThreadOrientation</string>
+	<key>characterBridgeDirection</key>
+	<string>previewDuringFunction</string>
+	<key>characterUntilCommand</key>
+	<string>opaqueEventType</string>
+	<key>cursorCycleType</key>
+	<string>rectMediatorBottom</string>
+	<key>requiredFrameInteraction</key>
+	<string>logarithmInterpreterFlags</string>
+	<key>titleTypeTail</key>
+	<string>requestInterpreterPosition</string>
+	<key>tweenBeyondPlatform</key>
+	<string>symbolByActivity</string>
+</dict>
+</plist>

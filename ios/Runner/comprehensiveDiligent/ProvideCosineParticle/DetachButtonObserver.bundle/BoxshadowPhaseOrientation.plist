@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGridviewShape</key>
+	<string>webDecorationLeft</string>
+	<key>cardNearShape</key>
+	<string>injectionSingletonOrientation</string>
+	<key>hyperbolicManagerShape</key>
+	<string>utilFrameworkContrast</string>
+</dict>
+</plist>

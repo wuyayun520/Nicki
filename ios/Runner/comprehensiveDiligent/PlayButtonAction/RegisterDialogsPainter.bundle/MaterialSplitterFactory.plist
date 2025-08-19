@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterValueTransparency</key>
+	<string>modalVersusMediator</string>
+	<key>previewStateTransparency</key>
+	<string>curveThroughCommand</string>
+	<key>sceneBufferSkewx</key>
+	<string>isolateExceptScope</string>
+	<key>spotSystemOrigin</key>
+	<string>durationFrameworkState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSymbolBrightness</key>
+	<string>crucialScaffoldTheme</string>
+	<key>builderTaskOpacity</key>
+	<string>finalQueueTransparency</string>
+	<key>denseConstraintCount</key>
+	<string>buttonPatternPadding</string>
+	<key>iconLayerSpacing</key>
+	<string>nodeAsBridge</string>
+	<key>newestInterpolationContrast</key>
+	<string>retainedMenuStyle</string>
+	<key>singleReductionPressure</key>
+	<string>subtleStackOrigin</string>
+	<key>standaloneCurvePosition</key>
+	<string>previewPerVariable</string>
+	<key>textFrameworkShape</key>
+	<string>matrixWithFunction</string>
+</dict>
+</plist>

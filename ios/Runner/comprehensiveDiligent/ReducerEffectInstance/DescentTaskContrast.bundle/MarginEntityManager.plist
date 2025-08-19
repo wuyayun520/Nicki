@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorThanBridge</key>
+	<string>taskScopeVelocity</string>
+	<key>controllerAtStage</key>
+	<string>responsiveHeroTint</string>
+	<key>directAlignmentSaturation</key>
+	<string>scaffoldExceptStrategy</string>
+	<key>dynamicResourceBrightness</key>
+	<string>backwardCompleterFormat</string>
+	<key>metadataPhaseTail</key>
+	<string>persistentViewLocation</string>
+	<key>routerNumberVisibility</key>
+	<string>greatSpecifierCount</string>
+	<key>rowLikeLayer</key>
+	<string>intermediateCommandDepth</string>
+	<key>webCycleVelocity</key>
+	<string>coordinatorNearOperation</string>
+</dict>
+</plist>

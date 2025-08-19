@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableBuilderSaturation</key>
+	<string>ternaryFrameworkSaturation</string>
+	<key>routerContainLevel</key>
+	<string>viewAndDecorator</string>
+</dict>
+</plist>

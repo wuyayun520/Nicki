@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSampleVisible</key>
+	<string>completerPerVariable</string>
+	<key>ephemeralControllerHue</key>
+	<string>lastCallbackResponse</string>
+	<key>lastMobxRate</key>
+	<string>positionScopeCount</string>
+	<key>otherResultForce</key>
+	<string>navigatorTaskVisible</string>
+	<key>sequentialLabelCoord</key>
+	<string>cubitCompositeOrigin</string>
+	<key>subtleArithmeticVisibility</key>
+	<string>dialogsObserverType</string>
+	<key>synchronousStatelessShape</key>
+	<string>retainedTransitionPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalReducerInteraction</key>
+	<string>particleMethodPadding</string>
+	<key>memberFunctionFrequency</key>
+	<string>referenceScopeBehavior</string>
+	<key>reducerThroughBuffer</key>
+	<string>eagerCompositionTint</string>
+	<key>streamOutsideDecorator</key>
+	<string>builderVersusShape</string>
+	<key>subscriptionInsideCycle</key>
+	<string>associatedMobxRight</string>
+</dict>
+</plist>

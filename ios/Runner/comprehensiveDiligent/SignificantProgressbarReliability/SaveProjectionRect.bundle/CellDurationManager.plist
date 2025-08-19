@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPetPressure</key>
+	<string>petWithoutComposite</string>
+	<key>layoutShapeBottom</key>
+	<string>controllerSinceSingleton</string>
+	<key>normAsContext</key>
+	<string>desktopRowOrigin</string>
+	<key>requiredDecorationKind</key>
+	<string>indicatorChainInterval</string>
+	<key>segueStrategyVisibility</key>
+	<string>standaloneBlocFormat</string>
+	<key>spineInMemento</key>
+	<string>labelVarSpacing</string>
+</dict>
+</plist>

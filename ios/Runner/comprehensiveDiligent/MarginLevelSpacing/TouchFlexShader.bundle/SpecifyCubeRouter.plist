@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariableAppearance</key>
+	<string>brushDuringStage</string>
+	<key>currentSessionOpacity</key>
+	<string>intuitiveSegmentSaturation</string>
+	<key>menuAgainstAction</key>
+	<string>eventAndMemento</string>
+	<key>sophisticatedKernelContrast</key>
+	<string>durationInAction</string>
+	<key>streamThroughProcess</key>
+	<string>activeCoordinatorResponse</string>
+	<key>switchProxySaturation</key>
+	<string>interactorThroughVariable</string>
+	<key>textAdapterBehavior</key>
+	<string>routeAsFunction</string>
+	<key>toolEnvironmentRotation</key>
+	<string>exceptionStageFormat</string>
+</dict>
+</plist>

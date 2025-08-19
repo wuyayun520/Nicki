@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCommandColor</key>
+	<string>semanticInstructionFlags</string>
+	<key>expandedVersusShape</key>
+	<string>positionedOrContext</string>
+	<key>inactiveRichtextName</key>
+	<string>promiseVersusValue</string>
+	<key>labelWithoutKind</key>
+	<string>particlePatternPosition</string>
+	<key>particleAlongInterpreter</key>
+	<string>intensityAgainstActivity</string>
+	<key>serviceLevelRight</key>
+	<string>constNormPadding</string>
+	<key>zoneForKind</key>
+	<string>scrollVersusShape</string>
+</dict>
+</plist>

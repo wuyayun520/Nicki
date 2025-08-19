@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheActivityPadding</key>
+	<string>signAboutScope</string>
+	<key>declarativeOptimizerInterval</key>
+	<string>tabbarLevelContrast</string>
+	<key>directlyConvolutionEdge</key>
+	<string>segmentVariableEdge</string>
+	<key>flexiblePetRight</key>
+	<string>gridviewByStructure</string>
+	<key>liteResourceInteraction</key>
+	<string>giftNearFlyweight</string>
+	<key>referenceLikeMediator</key>
+	<string>diffableCompleterRight</string>
+	<key>referenceStateShade</key>
+	<string>enabledLabelBottom</string>
+</dict>
+</plist>

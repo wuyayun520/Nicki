@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMapDirection</key>
+	<string>cartesianEntityContrast</string>
+	<key>euclideanAnimationTheme</key>
+	<string>normThroughMediator</string>
+	<key>exponentDuringChain</key>
+	<string>concurrentTextOrientation</string>
+	<key>interactiveCursorKind</key>
+	<string>independentProjectMode</string>
+	<key>layerStructureTension</key>
+	<string>cardAndScope</string>
+</dict>
+</plist>

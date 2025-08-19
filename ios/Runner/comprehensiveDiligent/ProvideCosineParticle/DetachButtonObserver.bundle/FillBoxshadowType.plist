@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAsProcess</key>
+	<string>notifierPlatformRate</string>
+	<key>immediateListenerMode</key>
+	<string>monsterUntilStrategy</string>
+	<key>keyIsolateTransparency</key>
+	<string>sceneInterpreterVisibility</string>
+	<key>mutableListviewMode</key>
+	<string>oldMonsterFrequency</string>
+	<key>sceneAlongStyle</key>
+	<string>particleAtValue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorNearValue</key>
+	<string>specifyApertureTail</string>
+	<key>intermediateApertureOpacity</key>
+	<string>respectivePreviewScale</string>
+	<key>kernelMediatorKind</key>
+	<string>resourceContainBuffer</string>
+	<key>mediaqueryAsSingleton</key>
+	<string>displayableUnaryPressure</string>
+	<key>methodVarSpeed</key>
+	<string>metadataInterpreterRate</string>
+	<key>scaffoldPerBridge</key>
+	<string>notificationPrototypeScale</string>
+	<key>viewIncludeEnvironment</key>
+	<string>navigatorStateSaturation</string>
+</dict>
+</plist>

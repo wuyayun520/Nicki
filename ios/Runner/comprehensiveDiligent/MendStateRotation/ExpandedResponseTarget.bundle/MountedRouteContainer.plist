@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIntegerVisibility</key>
+	<string>optimizerBridgeCoord</string>
+	<key>denseGrayscaleFeedback</key>
+	<string>enabledPrioritySkewy</string>
+	<key>opaqueSessionLocation</key>
+	<string>offsetAsNumber</string>
+	<key>prismaticControllerInteraction</key>
+	<string>publicSineContrast</string>
+	<key>routerBufferInset</key>
+	<string>clipperPerMethod</string>
+	<key>sceneDuringMemento</key>
+	<string>responseActionShade</string>
+</dict>
+</plist>

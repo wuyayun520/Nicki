@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerCheckboxRotation</key>
+	<string>seamlessDocumentSaturation</string>
+	<key>equalizationActionResponse</key>
+	<string>otherContainerDepth</string>
+	<key>eventBesideCommand</key>
+	<string>routeLevelSkewy</string>
+	<key>fixedHeroAcceleration</key>
+	<string>textChainRate</string>
+	<key>mutableCheckboxOpacity</key>
+	<string>hardProviderDistance</string>
+	<key>observerParameterHue</key>
+	<string>inkwellByFunction</string>
+	<key>shaderPhaseTransparency</key>
+	<string>grainTierHead</string>
+	<key>sinkStyleKind</key>
+	<string>buttonJobOffset</string>
+</dict>
+</plist>

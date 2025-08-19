@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsProcessName</key>
+	<string>commandAwayAction</string>
+	<key>lazyDelegateInterval</key>
+	<string>appbarScopeTop</string>
+	<key>reducerStrategyDensity</key>
+	<string>eagerEffectDepth</string>
+	<key>topicInsideStrategy</key>
+	<string>segmentThanStage</string>
+</dict>
+</plist>

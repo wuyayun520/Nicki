@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianActivitySkewy</key>
+	<string>delegateVersusJob</string>
+	<key>commandViaInterpreter</key>
+	<string>sinkViaWork</string>
+	<key>enabledHandlerBound</key>
+	<string>concurrentCheckboxDuration</string>
+	<key>invisibleConfigurationRate</key>
+	<string>frameOfValue</string>
+	<key>missionObserverRate</key>
+	<string>mobileSinceContext</string>
+	<key>projectKindDuration</key>
+	<string>progressbarLikePlatform</string>
+	<key>queryModeSkewx</key>
+	<string>inactiveTangentBehavior</string>
+	<key>sizeDecoratorDirection</key>
+	<string>queueForParameter</string>
+</dict>
+</plist>

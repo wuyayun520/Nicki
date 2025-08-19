@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandMediatorPressure</key>
+	<string>cubeCommandFlags</string>
+	<key>completerProcessFlags</key>
+	<string>completerIncludeInterpreter</string>
+	<key>originalResultAcceleration</key>
+	<string>oldModelTop</string>
+	<key>tableExceptPlatform</key>
+	<string>arithmeticTaskTag</string>
+	<key>visibleIconBound</key>
+	<string>swiftFlyweightFormat</string>
+	<key>workflowPerLevel</key>
+	<string>resultAwayChain</string>
+</dict>
+</plist>

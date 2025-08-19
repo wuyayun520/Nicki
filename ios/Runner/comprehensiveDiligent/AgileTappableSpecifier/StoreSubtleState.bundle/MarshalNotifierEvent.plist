@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredQueueStyle</key>
+	<string>arithmeticStructureTint</string>
+	<key>delegatePerVisitor</key>
+	<string>gateActionRate</string>
+	<key>diffableRoleDirection</key>
+	<string>contractionPhaseHue</string>
+	<key>fixedOffsetPressure</key>
+	<string>repositoryParamAcceleration</string>
+	<key>grayscaleParamDepth</key>
+	<string>animatedIconResponse</string>
+	<key>positionedBesideMemento</key>
+	<string>semanticsLevelDirection</string>
+	<key>positionedOfCommand</key>
+	<string>stateIncludeState</string>
+	<key>taskFacadeState</key>
+	<string>delegateOutsideVisitor</string>
+	<key>touchStrategyResponse</key>
+	<string>permanentStepFlags</string>
+</dict>
+</plist>

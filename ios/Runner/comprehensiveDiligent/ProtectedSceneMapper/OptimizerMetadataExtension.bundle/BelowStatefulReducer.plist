@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directUsageIndex</key>
+	<string>stepAroundCycle</string>
+	<key>listviewAroundCycle</key>
+	<string>specifierActionName</string>
+	<key>missedScrollBrightness</key>
+	<string>lastMonsterDepth</string>
+	<key>resilientAppbarKind</key>
+	<string>gridviewFunctionName</string>
+	<key>scrollPlatformRotation</key>
+	<string>immediateModalBehavior</string>
+	<key>vectorFromStyle</key>
+	<string>statelessWorkInset</string>
+	<key>workflowThanPlatform</key>
+	<string>streamMethodValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAsFacade</key>
+	<string>advancedCheckboxValidation</string>
+	<key>composableLayerMode</key>
+	<string>webMasterMode</string>
+	<key>drawerUntilStructure</key>
+	<string>loopLikeObserver</string>
+	<key>easyEntityStyle</key>
+	<string>opaqueNavigatorDirection</string>
+	<key>independentAllocatorMargin</key>
+	<string>resultMementoName</string>
+	<key>menuDuringMemento</key>
+	<string>iterativeSpritePadding</string>
+	<key>semanticsInEnvironment</key>
+	<string>vectorShapeStatus</string>
+</dict>
+</plist>

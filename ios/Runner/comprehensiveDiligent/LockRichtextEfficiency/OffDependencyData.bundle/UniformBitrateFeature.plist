@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePlateDistance</key>
+	<string>graphAgainstInterpreter</string>
+	<key>cosineActivityContrast</key>
+	<string>graphFlyweightSkewx</string>
+	<key>discardedStorageDistance</key>
+	<string>nextObserverContrast</string>
+	<key>instructionVersusSystem</key>
+	<string>sampleExceptCommand</string>
+	<key>mobileTimerTop</key>
+	<string>permanentCurveTransparency</string>
+	<key>navigatorFunctionInterval</key>
+	<string>observerCompositeShape</string>
+	<key>projectionWorkDirection</key>
+	<string>associatedConvolutionCoord</string>
+	<key>sensorThroughScope</key>
+	<string>eventOperationStyle</string>
+	<key>specifierMethodSkewx</key>
+	<string>backwardStorageDuration</string>
+</dict>
+</plist>

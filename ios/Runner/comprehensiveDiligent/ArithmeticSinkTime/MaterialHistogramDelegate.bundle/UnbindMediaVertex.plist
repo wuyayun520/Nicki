@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisContextBehavior</key>
+	<string>toolAwayState</string>
+	<key>isolateOrCommand</key>
+	<string>rapidCellSpeed</string>
+	<key>otherNormAlignment</key>
+	<string>stepDecoratorDuration</string>
+	<key>persistentQueueCenter</key>
+	<string>catalystForPhase</string>
+	<key>riverpodEnvironmentTransparency</key>
+	<string>buttonAboutComposite</string>
+</dict>
+</plist>

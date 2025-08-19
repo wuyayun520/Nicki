@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStyleOrigin</key>
+	<string>subsequentTitleBrightness</string>
+	<key>customizedGrainDensity</key>
+	<string>customizedSkinOrientation</string>
+	<key>directTechniqueSpeed</key>
+	<string>compositionalQueueKind</string>
+	<key>expandedAgainstEnvironment</key>
+	<string>reactiveQueuePressure</string>
+	<key>ignoredChapterHue</key>
+	<string>rowByParam</string>
+	<key>intuitiveGridDirection</key>
+	<string>topicOperationColor</string>
+	<key>retainedLayoutStatus</key>
+	<string>futureForVisitor</string>
+	<key>sharedFeatureSaturation</key>
+	<string>axisNearVariable</string>
+</dict>
+</plist>

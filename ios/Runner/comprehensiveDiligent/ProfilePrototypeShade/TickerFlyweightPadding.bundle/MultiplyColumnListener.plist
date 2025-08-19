@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveDrawerRate</key>
+	<string>asyncUntilPhase</string>
+	<key>keyResourceFlags</key>
+	<string>cubeVarOrientation</string>
+	<key>spotCompositeMode</key>
+	<string>mapSinceFlyweight</string>
+	<key>spotWorkOrigin</key>
+	<string>certificateWithMemento</string>
+	<key>statefulCycleDistance</key>
+	<string>routeTaskKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphAlongPlatform</key>
+	<string>spineThroughLayer</string>
+	<key>observerStyleValidation</key>
+	<string>completerMementoKind</string>
+	<key>routerNumberOrigin</key>
+	<string>roleVersusChain</string>
+	<key>rowActivityBrightness</key>
+	<string>retainedRadioCount</string>
+</dict>
+</plist>

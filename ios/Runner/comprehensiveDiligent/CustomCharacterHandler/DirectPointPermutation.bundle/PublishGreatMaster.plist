@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOrChain</key>
+	<string>requiredMovementResponse</string>
+	<key>declarativeSampleOffset</key>
+	<string>curveStateInteraction</string>
+	<key>gesturedetectorNearPlatform</key>
+	<string>progressbarNumberPosition</string>
+	<key>radiusAtPlatform</key>
+	<string>discardedChannelsBottom</string>
+	<key>rolePerKind</key>
+	<string>appbarByState</string>
+</dict>
+</plist>

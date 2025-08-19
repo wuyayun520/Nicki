@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintThroughStyle</key>
+	<string>radioSinceFacade</string>
+	<key>invisibleResultStyle</key>
+	<string>entityAmongCycle</string>
+	<key>layoutFunctionOrigin</key>
+	<string>cubitObserverName</string>
+	<key>listviewAgainstJob</key>
+	<string>gemAgainstLayer</string>
+	<key>lostPointDirection</key>
+	<string>widgetFunctionDirection</string>
+	<key>presenterMementoValidation</key>
+	<string>canvasPatternDuration</string>
+	<key>radiusDuringComposite</key>
+	<string>retainedDecorationName</string>
+	<key>stampInsideTemple</key>
+	<string>descriptionObserverRate</string>
+</dict>
+</plist>

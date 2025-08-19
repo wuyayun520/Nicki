@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMediatorPadding</key>
+	<string>gateJobInteraction</string>
+	<key>featureObserverFeedback</key>
+	<string>builderTierSaturation</string>
+	<key>gridOrCommand</key>
+	<string>arithmeticSemanticsOrientation</string>
+	<key>instructionTierKind</key>
+	<string>buttonNumberOffset</string>
+	<key>statelessActionDepth</key>
+	<string>gestureAmongNumber</string>
+</dict>
+</plist>

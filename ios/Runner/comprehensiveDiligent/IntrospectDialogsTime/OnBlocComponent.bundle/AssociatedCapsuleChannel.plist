@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBesideBridge</key>
+	<string>beginnerBulletType</string>
+	<key>canvasFunctionMode</key>
+	<string>graphicLevelInteraction</string>
+	<key>logarithmPlatformTag</key>
+	<string>serviceAgainstEnvironment</string>
+	<key>progressbarByParam</key>
+	<string>usedRiverpodInset</string>
+	<key>responseAndPattern</key>
+	<string>seamlessCoordinatorVelocity</string>
+</dict>
+</plist>

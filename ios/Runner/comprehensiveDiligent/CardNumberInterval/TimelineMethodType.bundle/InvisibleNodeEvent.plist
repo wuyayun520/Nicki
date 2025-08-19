@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraphInteraction</key>
+	<string>channelAmongSystem</string>
+	<key>labelKindIndex</key>
+	<string>enabledCubeSpeed</string>
+	<key>missedGridviewCoord</key>
+	<string>consultativeSpotVisible</string>
+	<key>positionFunctionTop</key>
+	<string>iconShapeInteraction</string>
+	<key>zoneFlyweightOffset</key>
+	<string>completerAmongComposite</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageBottom</key>
+	<string>featureDuringVar</string>
+	<key>iconKindSpacing</key>
+	<string>commonCubitInteraction</string>
+	<key>imageDespiteAction</key>
+	<string>hashWithMediator</string>
+	<key>taskStateInset</key>
+	<string>persistentDecorationVisible</string>
+</dict>
+</plist>

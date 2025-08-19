@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStrategyStatus</key>
+	<string>completerFromInterpreter</string>
+	<key>optionViaProcess</key>
+	<string>agileLossBrightness</string>
+	<key>requestInterpreterStyle</key>
+	<string>characterDespiteCommand</string>
+	<key>responseAtKind</key>
+	<string>tangentContainAdapter</string>
+	<key>stampAboutLevel</key>
+	<string>builderSingletonAlignment</string>
+</dict>
+</plist>

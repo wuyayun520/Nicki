@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAlertFeedback</key>
+	<string>adaptiveSizeTheme</string>
+	<key>protocolVersusMode</key>
+	<string>missedCharacterTail</string>
+	<key>spotBufferSpacing</key>
+	<string>bitrateAtJob</string>
+	<key>streamParameterIndex</key>
+	<string>responsiveTextBound</string>
+	<key>transformerVisitorVelocity</key>
+	<string>configurationDecoratorColor</string>
+</dict>
+</plist>

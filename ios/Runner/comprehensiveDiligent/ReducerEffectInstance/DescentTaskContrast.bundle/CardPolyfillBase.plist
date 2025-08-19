@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLayerVelocity</key>
+	<string>gridBesideJob</string>
+	<key>desktopNibLeft</key>
+	<string>groupWithoutPhase</string>
+	<key>durationOutsideContext</key>
+	<string>transitionPerCycle</string>
+	<key>grainOrOperation</key>
+	<string>baselineWithMode</string>
+	<key>localAllocatorScale</key>
+	<string>toolDuringTask</string>
+	<key>plateKindSize</key>
+	<string>keyAnimationShape</string>
+	<key>resizableMatrixSkewx</key>
+	<string>composableChartName</string>
+	<key>sliderViaMethod</key>
+	<string>visibleSpriteContrast</string>
+	<key>usageAgainstWork</key>
+	<string>viewObserverDuration</string>
+</dict>
+</plist>

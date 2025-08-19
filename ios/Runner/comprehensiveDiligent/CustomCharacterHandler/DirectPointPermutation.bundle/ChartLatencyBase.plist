@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSizeAlignment</key>
+	<string>skirtOrLayer</string>
+	<key>groupStructureSize</key>
+	<string>textDuringFramework</string>
+	<key>lazyResolverVisibility</key>
+	<string>fragmentViaVisitor</string>
+	<key>materialListenerEdge</key>
+	<string>descriptionExceptStructure</string>
+	<key>radiusFlyweightRate</key>
+	<string>inkwellBufferIndex</string>
+	<key>riverpodLikeBuffer</key>
+	<string>eagerSingletonPressure</string>
+	<key>symmetricDecorationRight</key>
+	<string>beginnerEffectInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleShaderLocation</key>
+	<string>tableExceptEnvironment</string>
+	<key>allocatorOrParam</key>
+	<string>listenerPerFunction</string>
+	<key>expandedVersusActivity</key>
+	<string>anchorProxyHue</string>
+	<key>handlerFormFeedback</key>
+	<string>permanentSizeInterval</string>
+	<key>interactorAboutStructure</key>
+	<string>seamlessGemScale</string>
+	<key>nativeLayoutAlignment</key>
+	<string>visibleMaterialVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAboutStructure</key>
+	<string>widgetTypeBottom</string>
+	<key>dimensionModeSkewx</key>
+	<string>decorationByLayer</string>
+	<key>drawerProcessDelay</key>
+	<string>workflowFunctionBehavior</string>
+	<key>elasticCurveSkewx</key>
+	<string>rowByProcess</string>
+	<key>flexKindDuration</key>
+	<string>constWidgetPosition</string>
+	<key>fragmentTypeIndex</key>
+	<string>parallelProviderAppearance</string>
+	<key>instructionLevelType</key>
+	<string>beginnerCoordinatorPosition</string>
+	<key>lostAlphaBorder</key>
+	<string>referenceWorkRight</string>
+	<key>switchMementoInteraction</key>
+	<string>durationWithoutStructure</string>
+	<key>tappableGradientTail</key>
+	<string>channelObserverPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterScale</key>
+	<string>notifierChainOrigin</string>
+	<key>brushCycleSpeed</key>
+	<string>iconNumberHead</string>
+	<key>draggablePreviewAcceleration</key>
+	<string>taskIncludeAction</string>
+	<key>retainedAxisInteraction</key>
+	<string>tabviewDecoratorInset</string>
+	<key>titleTierBrightness</key>
+	<string>interfaceStateSkewy</string>
+</dict>
+</plist>

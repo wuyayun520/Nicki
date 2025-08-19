@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAdapterHue</key>
+	<string>interactorAgainstActivity</string>
+	<key>bufferInsideSingleton</key>
+	<string>normActivityFormat</string>
+	<key>containerJobValidation</key>
+	<string>streamAboutSingleton</string>
+	<key>elasticInkwellFormat</key>
+	<string>controllerTaskTop</string>
+	<key>nodePatternRotation</key>
+	<string>composableAxisContrast</string>
+	<key>pivotalDependencySaturation</key>
+	<string>alignmentJobTransparency</string>
+	<key>requestFunctionDensity</key>
+	<string>materialSceneBorder</string>
+	<key>smallCharacterTail</key>
+	<string>hardObserverBound</string>
+</dict>
+</plist>

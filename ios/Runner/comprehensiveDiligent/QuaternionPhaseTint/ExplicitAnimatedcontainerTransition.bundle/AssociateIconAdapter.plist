@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileThreadOffset</key>
+	<string>finalBulletHue</string>
+	<key>delegateOfWork</key>
+	<string>accessibleRouteLocation</string>
+	<key>elasticRouteStatus</key>
+	<string>hardNormState</string>
+	<key>offsetContextScale</key>
+	<string>rowSinceWork</string>
+	<key>slashFlyweightRight</key>
+	<string>concurrentRoutePressure</string>
+</dict>
+</plist>

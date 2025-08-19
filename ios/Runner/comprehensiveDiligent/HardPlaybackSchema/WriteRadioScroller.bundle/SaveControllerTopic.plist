@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleSpacing</key>
+	<string>skirtByDecorator</string>
+	<key>aspectPhaseDelay</key>
+	<string>compositionalLoopName</string>
+	<key>granularActivityAlignment</key>
+	<string>batchWithoutType</string>
+	<key>localSemanticsLocation</key>
+	<string>hierarchicalServiceOrientation</string>
+	<key>skirtDuringOperation</key>
+	<string>repositoryAndEnvironment</string>
+	<key>sophisticatedViewRotation</key>
+	<string>granularModelDirection</string>
+	<key>storyboardLevelTag</key>
+	<string>notificationWithoutParam</string>
+	<key>sustainableFutureOpacity</key>
+	<string>cacheNearOperation</string>
+	<key>synchronousButtonStyle</key>
+	<string>sessionExceptOperation</string>
+</dict>
+</plist>

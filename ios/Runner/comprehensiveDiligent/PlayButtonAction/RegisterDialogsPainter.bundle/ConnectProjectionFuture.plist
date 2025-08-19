@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureDecoratorFormat</key>
+	<string>lastMethodDepth</string>
+	<key>cycleVersusContext</key>
+	<string>presenterIncludeVariable</string>
+	<key>fixedGridFormat</key>
+	<string>missedPreviewCoord</string>
+	<key>independentProfileBorder</key>
+	<string>requiredSegmentName</string>
+	<key>observerCompositeBehavior</key>
+	<string>baseThanSingleton</string>
+	<key>sensorAboutJob</key>
+	<string>effectAmongFramework</string>
+	<key>significantMasterTension</key>
+	<string>errorForJob</string>
+	<key>smartPopupTag</key>
+	<string>layerFlyweightAlignment</string>
+	<key>usedMobxTag</key>
+	<string>navigationAgainstSystem</string>
+</dict>
+</plist>

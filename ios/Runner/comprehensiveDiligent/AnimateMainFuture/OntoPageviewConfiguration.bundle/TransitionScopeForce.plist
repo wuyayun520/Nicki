@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesIncludePrototype</key>
+	<string>projectAlongNumber</string>
+	<key>consumerMementoAppearance</key>
+	<string>transitionFlyweightVelocity</string>
+	<key>navigationPhaseFlags</key>
+	<string>gridviewAgainstStage</string>
+	<key>projectAndStage</key>
+	<string>transformerThroughMethod</string>
+	<key>screenParamDirection</key>
+	<string>custompaintMethodOpacity</string>
+	<key>slashMementoTint</key>
+	<string>alignmentAsSystem</string>
+	<key>storageCompositeOpacity</key>
+	<string>sizeDecoratorBehavior</string>
+	<key>taskThroughParam</key>
+	<string>blocContextDepth</string>
+</dict>
+</plist>

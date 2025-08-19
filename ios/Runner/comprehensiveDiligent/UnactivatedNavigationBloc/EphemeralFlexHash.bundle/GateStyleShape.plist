@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAdapterVisibility</key>
+	<string>widgetAndBuffer</string>
+	<key>characterActionVisible</key>
+	<string>discardedUtilMode</string>
+	<key>checkboxAtTier</key>
+	<string>flexibleEntitySpeed</string>
+	<key>groupAboutObserver</key>
+	<string>interfaceWorkShade</string>
+	<key>imperativeNotifierInterval</key>
+	<string>sharedResponseName</string>
+</dict>
+</plist>

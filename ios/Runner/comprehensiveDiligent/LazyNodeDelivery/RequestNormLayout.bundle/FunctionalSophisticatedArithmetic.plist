@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintNearFunction</key>
+	<string>zoneAmongLevel</string>
+	<key>disabledSignType</key>
+	<string>intensitySystemBrightness</string>
+	<key>tabbarBeyondFacade</key>
+	<string>nativeBoxName</string>
+	<key>threadAgainstType</key>
+	<string>reusableMonsterCount</string>
+	<key>transformerThroughObserver</key>
+	<string>mapForSingleton</string>
+	<key>unactivatedStampPadding</key>
+	<string>queueBufferDepth</string>
+</dict>
+</plist>

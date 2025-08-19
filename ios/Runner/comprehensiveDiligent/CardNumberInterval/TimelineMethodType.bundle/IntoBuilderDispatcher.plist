@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorWithoutCommand</key>
+	<string>heapAwayMode</string>
+	<key>cubitAsTask</key>
+	<string>threadOrPhase</string>
+	<key>interactiveRadiusValidation</key>
+	<string>criticalCellRotation</string>
+	<key>normFacadeRight</key>
+	<string>reducerFormKind</string>
+	<key>routerBridgeType</key>
+	<string>primaryMemberPadding</string>
+	<key>seamlessResourceValidation</key>
+	<string>futureAndState</string>
+	<key>serviceModeHead</key>
+	<string>prevLabelBorder</string>
+	<key>subscriptionActivityShape</key>
+	<string>cursorOfJob</string>
+	<key>symmetricSlashFrequency</key>
+	<string>mainActivityKind</string>
+</dict>
+</plist>

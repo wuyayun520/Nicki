@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAndPattern</key>
+	<string>modulusSystemOffset</string>
+	<key>basicTextureFrequency</key>
+	<string>fixedAssetSpacing</string>
+	<key>directStreamResponse</key>
+	<string>arithmeticStyleShade</string>
+	<key>offsetVariableDepth</key>
+	<string>threadInShape</string>
+	<key>sortedHashHue</key>
+	<string>notifierCompositeSize</string>
+	<key>subsequentInkwellFormat</key>
+	<string>autoMetadataForce</string>
+	<key>viewViaStructure</key>
+	<string>symbolExceptCommand</string>
+</dict>
+</plist>

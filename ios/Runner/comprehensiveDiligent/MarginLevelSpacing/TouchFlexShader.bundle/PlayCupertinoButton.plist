@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentObserverEdge</key>
+	<string>tweenJobShade</string>
+	<key>dependencyExceptMediator</key>
+	<string>parallelSizeStyle</string>
+	<key>resourceMediatorPosition</key>
+	<string>widgetWithMode</string>
+	<key>shaderCycleDepth</key>
+	<string>taskInterpreterHue</string>
+	<key>tappableConsumerFeedback</key>
+	<string>richtextFormPosition</string>
+</dict>
+</plist>

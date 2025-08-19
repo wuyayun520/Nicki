@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStorageHead</key>
+	<string>nibNearSingleton</string>
+	<key>boxPerTask</key>
+	<string>positionedNumberEdge</string>
+	<key>canvasNumberTheme</key>
+	<string>inheritedPositionedVisibility</string>
+	<key>numericalChartName</key>
+	<string>movementContextInset</string>
+	<key>repositoryForFlyweight</key>
+	<string>stateTypeScale</string>
+	<key>seamlessMediaqueryRotation</key>
+	<string>transformerWithoutLevel</string>
+	<key>secondApertureAcceleration</key>
+	<string>queryStateValidation</string>
+	<key>significantRouteVisible</key>
+	<string>durationVersusPhase</string>
+	<key>similarButtonTail</key>
+	<string>constraintVersusStructure</string>
+	<key>usageOrForm</key>
+	<string>resultModeValidation</string>
+</dict>
+</plist>

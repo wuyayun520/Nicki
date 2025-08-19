@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBulletKind</key>
+	<string>listenerWithoutComposite</string>
+	<key>contractionModeVisibility</key>
+	<string>consumerStyleInteraction</string>
+	<key>elasticContractionInterval</key>
+	<string>menuFormValidation</string>
+	<key>musicVisitorAlignment</key>
+	<string>equalizationWithoutShape</string>
+	<key>respectiveCycleBrightness</key>
+	<string>signAlongLayer</string>
+</dict>
+</plist>

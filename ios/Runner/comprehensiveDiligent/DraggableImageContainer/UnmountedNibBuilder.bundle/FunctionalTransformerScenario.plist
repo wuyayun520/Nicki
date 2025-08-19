@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitModeTop</key>
+	<string>progressbarThroughMethod</string>
+	<key>dialogsFlyweightSpeed</key>
+	<string>curveAndPhase</string>
+	<key>dropdownbuttonLikeTemple</key>
+	<string>autoEqualizationShape</string>
+	<key>integerNearValue</key>
+	<string>timerCycleOrigin</string>
+	<key>parallelGateInset</key>
+	<string>visibleTextureScale</string>
+	<key>primaryContainerFormat</key>
+	<string>decorationSystemFlags</string>
+	<key>stampAroundProxy</key>
+	<string>taskCompositeAppearance</string>
+</dict>
+</plist>

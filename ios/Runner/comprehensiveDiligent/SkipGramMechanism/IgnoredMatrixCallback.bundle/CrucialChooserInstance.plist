@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFormInteraction</key>
+	<string>timerWorkVisibility</string>
+	<key>featureFlyweightName</key>
+	<string>storyboardBufferFlags</string>
+	<key>listenerOperationDirection</key>
+	<string>asyncChannelMode</string>
+	<key>loopPerParam</key>
+	<string>animationAsInterpreter</string>
+	<key>providerLayerShade</key>
+	<string>unsortedTweenDirection</string>
+	<key>sliderBesideTask</key>
+	<string>richtextDecoratorScale</string>
+	<key>specifyBoxshadowAcceleration</key>
+	<string>imperativeSensorMargin</string>
+</dict>
+</plist>

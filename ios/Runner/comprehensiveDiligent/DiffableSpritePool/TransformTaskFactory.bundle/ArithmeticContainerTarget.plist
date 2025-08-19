@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSkinTheme</key>
+	<string>tweenAgainstPrototype</string>
+	<key>diffableLoopFlags</key>
+	<string>gridBesidePattern</string>
+	<key>fusedDelegateInteraction</key>
+	<string>builderPlatformInterval</string>
+	<key>remainderAdapterRight</key>
+	<string>channelsInFramework</string>
+	<key>spotValueLocation</key>
+	<string>reducerThroughPattern</string>
+	<key>statefulPositionResponse</key>
+	<string>blocMethodDuration</string>
+	<key>tweenAsJob</key>
+	<string>characterOrWork</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredResourceMomentum</key>
+	<string>textDuringVar</string>
+	<key>metadataActionSpeed</key>
+	<string>sliderOutsideStyle</string>
+	<key>normalRepositoryLeft</key>
+	<string>grayscaleOperationType</string>
+	<key>popupFlyweightResponse</key>
+	<string>dependencyOutsideMode</string>
+	<key>statelessOutsideInterpreter</key>
+	<string>bitrateDespiteNumber</string>
+</dict>
+</plist>

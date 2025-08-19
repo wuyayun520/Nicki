@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGetxDelay</key>
+	<string>completionSystemFrequency</string>
+	<key>dropdownbuttonByFlyweight</key>
+	<string>captionAgainstCycle</string>
+	<key>gridAroundDecorator</key>
+	<string>previewSinceFlyweight</string>
+	<key>interactorPatternEdge</key>
+	<string>certificateWithoutDecorator</string>
+	<key>largeResolverVelocity</key>
+	<string>substantialInterfaceVisibility</string>
+	<key>mediaIncludeProcess</key>
+	<string>transitionLevelState</string>
+	<key>previewVariableTag</key>
+	<string>animatedHistogramShade</string>
+	<key>primarySineSpeed</key>
+	<string>liteRichtextTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePrototypeHue</key>
+	<string>lazyCardVisible</string>
+	<key>consultativeBoxDelay</key>
+	<string>crudeEffectDelay</string>
+	<key>deferredCupertinoOffset</key>
+	<string>asyncInterfaceRotation</string>
+	<key>desktopTitleSkewx</key>
+	<string>tabviewBufferSaturation</string>
+	<key>elasticAlertAcceleration</key>
+	<string>mediaFacadeBottom</string>
+	<key>subsequentTextureDirection</key>
+	<string>persistentCoordinatorDistance</string>
+	<key>techniqueBesideParam</key>
+	<string>modelJobSpeed</string>
+	<key>toolNumberTop</key>
+	<string>resourceMethodStatus</string>
+</dict>
+</plist>

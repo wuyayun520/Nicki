@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledControllerDirection</key>
+	<string>interfaceTaskStatus</string>
+	<key>factoryStateTransparency</key>
+	<string>observerLayerLocation</string>
+	<key>reductionBridgeLocation</key>
+	<string>previewBySystem</string>
+	<key>routerMethodDensity</key>
+	<string>managerPhaseFlags</string>
+	<key>sequentialMarginCoord</key>
+	<string>statefulDespiteParam</string>
+	<key>staticMatrixTail</key>
+	<string>injectionProcessSize</string>
+	<key>usecaseWithPlatform</key>
+	<string>contractionExceptParam</string>
+</dict>
+</plist>

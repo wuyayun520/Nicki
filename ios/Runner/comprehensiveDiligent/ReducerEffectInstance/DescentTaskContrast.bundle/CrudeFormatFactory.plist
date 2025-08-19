@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAroundPattern</key>
+	<string>inheritedQueueFormat</string>
+	<key>equalizationFunctionRate</key>
+	<string>permanentMethodAppearance</string>
+	<key>integerActivityVelocity</key>
+	<string>actionInOperation</string>
+	<key>listviewAgainstState</key>
+	<string>callbackDuringShape</string>
+	<key>temporaryKernelForce</key>
+	<string>accessibleModelDelay</string>
+</dict>
+</plist>

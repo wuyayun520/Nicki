@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannelSpeed</key>
+	<string>semanticProfileSpeed</string>
+	<key>buttonActivitySpeed</key>
+	<string>sustainableOptimizerPressure</string>
+	<key>fusedSpriteStatus</key>
+	<string>effectParameterColor</string>
+	<key>storeOutsideActivity</key>
+	<string>firstInterfacePosition</string>
+	<key>synchronousProgressbarHead</key>
+	<string>descriptionActionType</string>
+	<key>textfieldFunctionRotation</key>
+	<string>sessionFlyweightInset</string>
+</dict>
+</plist>

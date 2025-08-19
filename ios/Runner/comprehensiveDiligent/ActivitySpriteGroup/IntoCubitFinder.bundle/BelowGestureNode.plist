@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedUsecaseStyle</key>
+	<string>mediumPromiseBorder</string>
+	<key>arithmeticScrollTop</key>
+	<string>rectInsideFramework</string>
+	<key>effectInsideDecorator</key>
+	<string>mediaAroundAction</string>
+	<key>expandedPatternOrigin</key>
+	<string>masterOrNumber</string>
+	<key>giftCompositeInteraction</key>
+	<string>statefulGroupScale</string>
+	<key>newestLogarithmType</key>
+	<string>activatedEventRotation</string>
+	<key>reactiveReductionRotation</key>
+	<string>riverpodMementoPosition</string>
+	<key>transitionPerLevel</key>
+	<string>optionAmongType</string>
+</dict>
+</plist>

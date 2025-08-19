@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProcessPadding</key>
+	<string>uniformWidgetInteraction</string>
+	<key>fixedBorderPadding</key>
+	<string>otherConvolutionOrigin</string>
+	<key>permissiveStorageValidation</key>
+	<string>resolverMementoTail</string>
+	<key>storeBeyondContext</key>
+	<string>compositionalResponseAcceleration</string>
+	<key>synchronousGesturedetectorBound</key>
+	<string>variantWithPattern</string>
+</dict>
+</plist>

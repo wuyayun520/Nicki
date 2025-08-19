@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredGroupName</key>
+	<string>imageAtKind</string>
+	<key>kernelOutsideStage</key>
+	<string>modelVisitorInset</string>
+	<key>progressbarCompositeBound</key>
+	<string>advancedTransitionVelocity</string>
+	<key>queueForState</key>
+	<string>controllerScopeVisibility</string>
+	<key>scrollableBuilderRotation</key>
+	<string>listviewVariableSaturation</string>
+	<key>singleFrameOffset</key>
+	<string>borderModeDuration</string>
+</dict>
+</plist>

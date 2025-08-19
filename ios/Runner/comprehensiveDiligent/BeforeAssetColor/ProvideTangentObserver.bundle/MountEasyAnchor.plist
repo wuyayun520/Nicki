@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventOrDecorator</key>
+	<string>exceptionExceptChain</string>
+	<key>invisibleSpineTail</key>
+	<string>effectBeyondAction</string>
+	<key>loopFormDepth</key>
+	<string>discardedReducerFeedback</string>
+	<key>observerParamTint</key>
+	<string>asynchronousMediaTension</string>
+	<key>persistentRouterSaturation</key>
+	<string>storeVariablePadding</string>
+	<key>retainedChartAlignment</key>
+	<string>permanentScaffoldShape</string>
+</dict>
+</plist>

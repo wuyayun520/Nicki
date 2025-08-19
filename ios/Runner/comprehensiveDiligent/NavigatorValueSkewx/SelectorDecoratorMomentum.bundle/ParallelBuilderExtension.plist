@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectShapeAlignment</key>
+	<string>baselineCycleBound</string>
+	<key>flexibleRowAcceleration</key>
+	<string>localizationInCommand</string>
+	<key>handlerThanDecorator</key>
+	<string>isolateWithoutPattern</string>
+	<key>normAsPhase</key>
+	<string>decorationInsideObserver</string>
+	<key>painterFrameworkKind</key>
+	<string>projectSingletonOpacity</string>
+	<key>rectContextSpeed</key>
+	<string>cubeOperationDepth</string>
+	<key>resolverOfMode</key>
+	<string>overlayDuringFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSystemValidation</key>
+	<string>sensorProcessOpacity</string>
+	<key>contractionAdapterRotation</key>
+	<string>mobileExpandedSpeed</string>
+	<key>getxParamScale</key>
+	<string>curveCompositeFlags</string>
+	<key>indicatorActionAlignment</key>
+	<string>radioShapeInteraction</string>
+	<key>offsetWithInterpreter</key>
+	<string>rapidStoreRight</string>
+	<key>seamlessIntensityForce</key>
+	<string>characterSingletonInterval</string>
+	<key>slashAndEnvironment</key>
+	<string>sliderAmongContext</string>
+	<key>viewLikeValue</key>
+	<string>signaturePhaseTheme</string>
+</dict>
+</plist>

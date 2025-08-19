@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRequestColor</key>
+	<string>autoTopicEdge</string>
+	<key>appbarChainForce</key>
+	<string>dependencyInLayer</string>
+	<key>layoutIncludePrototype</key>
+	<string>dependencyAndComposite</string>
+	<key>primaryGiftHue</key>
+	<string>handlerThanMediator</string>
+	<key>rowFunctionTop</key>
+	<string>rectAlongBridge</string>
+	<key>tabviewBeyondStyle</key>
+	<string>rowKindOrigin</string>
+	<key>temporarySinkCount</key>
+	<string>stackVariableIndex</string>
+	<key>threadCompositeTint</key>
+	<string>interfaceTierStyle</string>
+</dict>
+</plist>

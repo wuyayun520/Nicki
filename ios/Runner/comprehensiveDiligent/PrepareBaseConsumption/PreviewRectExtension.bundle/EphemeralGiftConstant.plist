@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBaseRotation</key>
+	<string>pointPerPlatform</string>
+	<key>cartesianTouchTop</key>
+	<string>substantialPopupSpeed</string>
+	<key>frameAboutAction</key>
+	<string>visibleCurveState</string>
+	<key>gestureByCommand</key>
+	<string>movementFrameworkState</string>
+	<key>themeBeyondForm</key>
+	<string>rectProcessSize</string>
+</dict>
+</plist>

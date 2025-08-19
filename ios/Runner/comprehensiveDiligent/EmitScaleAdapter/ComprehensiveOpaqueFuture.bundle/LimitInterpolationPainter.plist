@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryForKind</key>
+	<string>canvasAgainstMemento</string>
+	<key>indicatorPrototypePadding</key>
+	<string>stateValueIndex</string>
+	<key>injectionAndVar</key>
+	<string>primaryStoryboardBorder</string>
+	<key>interactiveTimerMargin</key>
+	<string>routerBesidePhase</string>
+	<key>layerLevelFormat</key>
+	<string>eagerGridInset</string>
+	<key>modelWithoutMemento</key>
+	<string>delicateReducerBorder</string>
+	<key>paddingVersusMethod</key>
+	<string>binaryChainTransparency</string>
+	<key>providerParameterVelocity</key>
+	<string>routeFromFlyweight</string>
+	<key>statelessIncludeBridge</key>
+	<string>routeInterpreterTheme</string>
+</dict>
+</plist>

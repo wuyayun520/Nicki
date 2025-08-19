@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAndFramework</key>
+	<string>utilAboutActivity</string>
+	<key>ignoredAlertTheme</key>
+	<string>chartExceptBuffer</string>
+	<key>inactiveSingletonOrientation</key>
+	<string>rectMediatorInteraction</string>
+	<key>localServiceBottom</key>
+	<string>localizationVersusStyle</string>
+	<key>sizeAtStage</key>
+	<string>seamlessSliderTransparency</string>
+	<key>taskBridgeMargin</key>
+	<string>finalExponentInset</string>
+</dict>
+</plist>

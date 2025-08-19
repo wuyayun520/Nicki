@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeTaskSize</key>
+	<string>fusedCompletionCount</string>
+	<key>petVariableCount</key>
+	<string>equipmentOutsideMode</string>
+	<key>scaleTaskContrast</key>
+	<string>resultVariableMargin</string>
+	<key>sliderIncludeWork</key>
+	<string>loopLayerTint</string>
+	<key>stackFrameworkTransparency</key>
+	<string>vectorInPrototype</string>
+	<key>textfieldMementoBehavior</key>
+	<string>diffableAssetIndex</string>
+</dict>
+</plist>

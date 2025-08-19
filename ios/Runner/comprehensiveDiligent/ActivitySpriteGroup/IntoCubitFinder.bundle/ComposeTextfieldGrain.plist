@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAroundContext</key>
+	<string>asyncAsActivity</string>
+	<key>delegateFromObserver</key>
+	<string>threadViaParameter</string>
+	<key>intermediateHashHead</key>
+	<string>mediumConsumerBrightness</string>
+	<key>localizationVisitorValidation</key>
+	<string>handlerDecoratorDistance</string>
+	<key>multiplicationAlongEnvironment</key>
+	<string>histogramFacadeDuration</string>
+	<key>nodeThroughPrototype</key>
+	<string>tickerStageFeedback</string>
+	<key>rapidRouterColor</key>
+	<string>taskStructureFormat</string>
+	<key>scaleBufferFrequency</key>
+	<string>constSignOrigin</string>
+	<key>serviceCommandPosition</key>
+	<string>diffableMapRotation</string>
+	<key>unactivatedRepositoryForce</key>
+	<string>semanticRequestMode</string>
+</dict>
+</plist>

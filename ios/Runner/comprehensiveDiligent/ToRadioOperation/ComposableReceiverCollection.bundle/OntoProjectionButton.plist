@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMethodHead</key>
+	<string>heroStyleName</string>
+	<key>cardOrKind</key>
+	<string>activatedPageviewLeft</string>
+	<key>constraintIncludeInterpreter</key>
+	<string>granularEventStyle</string>
+	<key>graphCompositeInterval</key>
+	<string>navigatorPhaseStatus</string>
+	<key>radiusTypeRotation</key>
+	<string>similarPositionSaturation</string>
+	<key>rapidArithmeticTint</key>
+	<string>zoneStyleSkewx</string>
+	<key>stackVisitorTheme</key>
+	<string>layoutTempleMomentum</string>
+	<key>standaloneChallengePosition</key>
+	<string>arithmeticRowSpeed</string>
+</dict>
+</plist>

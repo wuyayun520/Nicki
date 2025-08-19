@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorFormAppearance</key>
+	<string>histogramVisitorHead</string>
+	<key>entityOutsideStyle</key>
+	<string>compositionLayerFormat</string>
+	<key>gestureStateValidation</key>
+	<string>routerContainAction</string>
+	<key>interactorStyleFeedback</key>
+	<string>significantSignSpacing</string>
+</dict>
+</plist>

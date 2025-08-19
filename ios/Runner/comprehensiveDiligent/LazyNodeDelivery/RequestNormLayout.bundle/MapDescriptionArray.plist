@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskName</key>
+	<string>signAroundBuffer</string>
+	<key>coordinatorVersusOperation</key>
+	<string>positionShapeTag</string>
+	<key>handlerAtComposite</key>
+	<string>imperativeTimerVisibility</string>
+	<key>invisibleScaffoldCount</key>
+	<string>textBridgeTheme</string>
+	<key>mediaqueryVersusStage</key>
+	<string>scrollFromEnvironment</string>
+	<key>progressbarChainContrast</key>
+	<string>customizedDependencyInterval</string>
+	<key>sortedFrameTag</key>
+	<string>repositoryAroundTask</string>
+	<key>toolModeVisibility</key>
+	<string>viewForDecorator</string>
+</dict>
+</plist>

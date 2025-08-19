@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConsumerPadding</key>
+	<string>screenFrameworkTag</string>
+	<key>popupActivityDepth</key>
+	<string>beginnerTimerVisible</string>
+	<key>projectionLevelLocation</key>
+	<string>explicitCollectionRight</string>
+</dict>
+</plist>

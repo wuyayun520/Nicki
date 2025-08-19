@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGraphicTag</key>
+	<string>nextEntityType</string>
+	<key>discardedStateFrequency</key>
+	<string>interfaceBesideMemento</string>
+	<key>draggableGestureKind</key>
+	<string>taskScopeAlignment</string>
+	<key>heapEnvironmentDelay</key>
+	<string>activeCellSaturation</string>
+	<key>notificationAmongFlyweight</key>
+	<string>integerPhaseCenter</string>
+	<key>temporarySegmentBound</key>
+	<string>slashThroughMode</string>
+</dict>
+</plist>

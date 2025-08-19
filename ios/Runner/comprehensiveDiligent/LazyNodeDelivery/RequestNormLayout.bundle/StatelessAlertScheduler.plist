@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughPlatform</key>
+	<string>remainderAndBuffer</string>
+	<key>asyncGridAppearance</key>
+	<string>stackVisitorTag</string>
+	<key>drawerParamTransparency</key>
+	<string>stateTypeFlags</string>
+	<key>durationOfStrategy</key>
+	<string>priorityOfVisitor</string>
+</dict>
+</plist>

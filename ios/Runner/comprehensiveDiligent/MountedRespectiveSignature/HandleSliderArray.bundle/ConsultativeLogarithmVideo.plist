@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopProviderName</key>
+	<string>mobileRadiusBehavior</string>
+	<key>disabledOverlayInterval</key>
+	<string>transitionPerEnvironment</string>
+	<key>entropyFlyweightSize</key>
+	<string>offsetShapeResponse</string>
+	<key>intensityActivityOrigin</key>
+	<string>notifierLikeFacade</string>
+	<key>logarithmLikeContext</key>
+	<string>positionAmongMode</string>
+	<key>musicProxyStyle</key>
+	<string>scaffoldInsideActivity</string>
+	<key>opaqueBuilderVisible</key>
+	<string>riverpodStrategyTransparency</string>
+	<key>pinchableSingletonCoord</key>
+	<string>associatedOverlayVisibility</string>
+	<key>skinVersusType</key>
+	<string>reductionByFacade</string>
+	<key>statelessAmongActivity</key>
+	<string>segmentMementoScale</string>
+</dict>
+</plist>

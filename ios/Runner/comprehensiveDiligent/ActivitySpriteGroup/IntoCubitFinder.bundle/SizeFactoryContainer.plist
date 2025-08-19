@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistNearDecorator</key>
+	<string>independentEntitySpacing</string>
+	<key>discardedAlphaSize</key>
+	<string>mediocreSinkRight</string>
+	<key>hardSampleRate</key>
+	<string>uniqueSwiftOffset</string>
+	<key>interactiveIsolateAppearance</key>
+	<string>certificatePlatformInteraction</string>
+	<key>singleStoreSaturation</key>
+	<string>diversifiedMonsterResponse</string>
+	<key>spriteCycleVisibility</key>
+	<string>tappableLayerInset</string>
+	<key>spriteThroughStrategy</key>
+	<string>instructionForMethod</string>
+	<key>switchViaBuffer</key>
+	<string>riverpodFromMethod</string>
+</dict>
+</plist>

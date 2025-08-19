@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directFragmentHue</key>
+	<string>mediaAtKind</string>
+	<key>equalizationActivityOrientation</key>
+	<string>baselineScopeOrigin</string>
+	<key>optimizerLikeInterpreter</key>
+	<string>backwardMediaSize</string>
+	<key>threadTaskOrigin</key>
+	<string>compositionOrState</string>
+	<key>usedRequestSize</key>
+	<string>discardedLoopSaturation</string>
+	<key>zoneForTask</key>
+	<string>blocKindOffset</string>
+</dict>
+</plist>

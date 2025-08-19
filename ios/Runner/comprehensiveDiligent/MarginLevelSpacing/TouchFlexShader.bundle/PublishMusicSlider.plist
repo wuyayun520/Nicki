@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartProcessSpeed</key>
+	<string>liteHandlerName</string>
+	<key>curveFromEnvironment</key>
+	<string>indicatorOutsideComposite</string>
+	<key>ephemeralHeapSkewx</key>
+	<string>disabledRepositoryTransparency</string>
+	<key>nativeListenerFrequency</key>
+	<string>granularQueryDirection</string>
+	<key>overlayOfInterpreter</key>
+	<string>brushAdapterStatus</string>
+</dict>
+</plist>

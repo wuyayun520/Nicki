@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAmongLevel</key>
+	<string>smartTransitionKind</string>
+	<key>largeConstraintDistance</key>
+	<string>alignmentSingletonTheme</string>
+	<key>pinchableTaskTail</key>
+	<string>asyncCompositeCenter</string>
+	<key>reducerInBuffer</key>
+	<string>symmetricReductionCenter</string>
+	<key>tappableReducerFeedback</key>
+	<string>beginnerUsecaseMomentum</string>
+</dict>
+</plist>

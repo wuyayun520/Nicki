@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerCommandStatus</key>
+	<string>plateLevelSaturation</string>
+	<key>durationCommandFeedback</key>
+	<string>nativeMediaFormat</string>
+	<key>functionalEntropyDelay</key>
+	<string>radioAgainstSingleton</string>
+	<key>graphIncludeComposite</key>
+	<string>variantNearComposite</string>
+	<key>handlerOfMode</key>
+	<string>workflowAgainstNumber</string>
+	<key>metadataFormTension</key>
+	<string>radiusAboutType</string>
+	<key>opaqueTickerOrientation</key>
+	<string>ternaryPerCycle</string>
+	<key>popupLayerAppearance</key>
+	<string>independentCapacitiesMomentum</string>
+	<key>usageThroughVisitor</key>
+	<string>graphAwayScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLikeLevel</key>
+	<string>greatZoneKind</string>
+	<key>groupNumberKind</key>
+	<string>radioPlatformContrast</string>
+	<key>interpolationBeyondParameter</key>
+	<string>routeScopeDistance</string>
+	<key>sizeOperationInset</key>
+	<string>timerSinceBuffer</string>
+</dict>
+</plist>

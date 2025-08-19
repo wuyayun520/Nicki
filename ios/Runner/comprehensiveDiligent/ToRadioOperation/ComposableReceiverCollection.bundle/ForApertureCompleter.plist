@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerKind</key>
+	<string>layoutOfJob</string>
+	<key>parallelRequestPressure</key>
+	<string>subscriptionCommandBorder</string>
+	<key>reactiveTopicVisibility</key>
+	<string>customizedPointFrequency</string>
+	<key>resourceInterpreterScale</key>
+	<string>decorationVersusLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelMethodValidation</key>
+	<string>timerWithoutTier</string>
+	<key>curveMementoTransparency</key>
+	<string>fixedIntegerShape</string>
+	<key>interactorProcessMargin</key>
+	<string>queryBesidePhase</string>
+	<key>screenBufferPadding</key>
+	<string>prismaticGetxTag</string>
+	<key>symmetricNormRate</key>
+	<string>chapterSincePhase</string>
+</dict>
+</plist>

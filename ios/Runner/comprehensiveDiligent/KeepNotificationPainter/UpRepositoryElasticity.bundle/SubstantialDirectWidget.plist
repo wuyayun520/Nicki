@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAdapterAlignment</key>
+	<string>switchFrameworkAppearance</string>
+	<key>coordinatorByAction</key>
+	<string>disparateExponentCoord</string>
+	<key>grayscalePerMode</key>
+	<string>switchTaskVisibility</string>
+	<key>greatBuilderOpacity</key>
+	<string>advancedNavigatorCoord</string>
+	<key>localizationActivityVisibility</key>
+	<string>consumerProcessVisibility</string>
+	<key>routerPhaseSize</key>
+	<string>symbolParamInterval</string>
+	<key>routerThroughBridge</key>
+	<string>significantSceneCenter</string>
+	<key>serviceAsMediator</key>
+	<string>statefulGateAlignment</string>
+	<key>spriteProcessOpacity</key>
+	<string>chapterThroughAdapter</string>
+	<key>transitionAndSystem</key>
+	<string>intensityLikeNumber</string>
+</dict>
+</plist>

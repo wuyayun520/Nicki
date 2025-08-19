@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBehaviorDepth</key>
+	<string>usedMobileCoord</string>
+	<key>getxLikeValue</key>
+	<string>completerStyleSaturation</string>
+	<key>lazyConvolutionAcceleration</key>
+	<string>awaitAmongAdapter</string>
+	<key>pivotalContractionContrast</key>
+	<string>queueFormAlignment</string>
+	<key>singletonDecoratorHue</key>
+	<string>configurationActionOrientation</string>
+	<key>storyboardStageSkewx</key>
+	<string>discardedLayerColor</string>
+	<key>tabbarStyleTint</key>
+	<string>cupertinoMethodBrightness</string>
+	<key>titleVarSkewy</key>
+	<string>specifierPlatformBehavior</string>
+</dict>
+</plist>

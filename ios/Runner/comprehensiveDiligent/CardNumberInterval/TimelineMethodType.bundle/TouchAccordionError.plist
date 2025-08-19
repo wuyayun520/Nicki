@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitSessionDistance</key>
+	<string>integerViaMediator</string>
+	<key>gesturedetectorWithoutBridge</key>
+	<string>animationChainDensity</string>
+	<key>interfaceIncludePattern</key>
+	<string>asyncCursorMargin</string>
+	<key>publicGrayscaleColor</key>
+	<string>errorSingletonSkewx</string>
+	<key>routeDecoratorEdge</key>
+	<string>easyAwaitTag</string>
+	<key>sortedArithmeticShade</key>
+	<string>lazyWidgetSaturation</string>
+	<key>threadTaskSize</key>
+	<string>awaitCommandSpeed</string>
+	<key>timerStructureName</key>
+	<string>mobileFrameworkShade</string>
+	<key>transitionNearKind</key>
+	<string>textAboutStage</string>
+</dict>
+</plist>

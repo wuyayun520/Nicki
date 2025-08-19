@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDrawerRate</key>
+	<string>completionActivityHead</string>
+	<key>blocActivityAcceleration</key>
+	<string>builderScopeCenter</string>
+	<key>largeGradientBottom</key>
+	<string>explicitBulletAppearance</string>
+	<key>nativeBehaviorForce</key>
+	<string>widgetChainShade</string>
+	<key>numericalFactoryTail</key>
+	<string>transformerAroundProxy</string>
+</dict>
+</plist>

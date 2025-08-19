@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getxUntilState</key>
+	<string>imageParamHead</string>
+	<key>heroAroundShape</key>
+	<string>petTempleResponse</string>
+	<key>layoutValueOrigin</key>
+	<string>positionedAndAction</string>
+	<key>managerBeyondShape</key>
+	<string>navigatorTaskAppearance</string>
+	<key>scrollDespiteLevel</key>
+	<string>streamObserverOrigin</string>
+	<key>spriteTaskSpacing</key>
+	<string>cellBesidePattern</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateProxyShape</key>
+	<string>utilFrameworkValidation</string>
+	<key>blocFromPattern</key>
+	<string>intermediateConsumerBehavior</string>
+	<key>cubeContextInset</key>
+	<string>textureAtPhase</string>
+	<key>descriptorMediatorBehavior</key>
+	<string>interpolationKindTheme</string>
+	<key>factoryScopeInteraction</key>
+	<string>rolePatternSaturation</string>
+	<key>optimizerProxyType</key>
+	<string>decorationAgainstStrategy</string>
+</dict>
+</plist>

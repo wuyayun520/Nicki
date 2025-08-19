@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintWorkKind</key>
+	<string>viewSinceComposite</string>
+	<key>factoryTaskValidation</key>
+	<string>basicHistogramVisible</string>
+	<key>otherDescriptionName</key>
+	<string>customizedPageviewShade</string>
+	<key>resizablePopupFeedback</key>
+	<string>composableExceptionInteraction</string>
+	<key>richtextBeyondState</key>
+	<string>utilAgainstTier</string>
+</dict>
+</plist>

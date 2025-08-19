@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContainPattern</key>
+	<string>geometricStorageOpacity</string>
+	<key>gateBesideActivity</key>
+	<string>positionAdapterSpeed</string>
+	<key>localizationInsideShape</key>
+	<string>timerFlyweightShape</string>
+	<key>offsetCycleHead</key>
+	<string>mobxProxyLocation</string>
+	<key>slashMementoSize</key>
+	<string>optimizerFunctionStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedControllerSkewx</key>
+	<string>directlyModelFrequency</string>
+	<key>blocPatternFormat</key>
+	<string>eagerTernaryScale</string>
+	<key>containerTypeShape</key>
+	<string>checklistInterpreterTheme</string>
+	<key>handlerBesideComposite</key>
+	<string>binaryViaOperation</string>
+	<key>sineFrameworkKind</key>
+	<string>channelsAlongDecorator</string>
+</dict>
+</plist>

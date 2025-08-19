@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitLayerMode</key>
+	<string>synchronousShaderOrientation</string>
+	<key>localUnaryBehavior</key>
+	<string>publicResultTint</string>
+	<key>nativeDescriptionDepth</key>
+	<string>animationEnvironmentTop</string>
+	<key>resizableSubscriptionPressure</key>
+	<string>chapterAsFacade</string>
+	<key>sceneAtValue</key>
+	<string>lastDependencyScale</string>
+</dict>
+</plist>

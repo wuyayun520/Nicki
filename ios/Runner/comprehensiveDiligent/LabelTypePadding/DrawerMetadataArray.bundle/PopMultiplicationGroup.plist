@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionDecoratorInteraction</key>
+	<string>sizeAwayMediator</string>
+	<key>consultativeOffsetFeedback</key>
+	<string>requestTierBrightness</string>
+	<key>greatManagerInteraction</key>
+	<string>tensorResolverCenter</string>
+	<key>interactiveTernaryRate</key>
+	<string>topicActivityBound</string>
+	<key>numericalDescriptionMode</key>
+	<string>borderStyleVisible</string>
+	<key>originalBrushFormat</key>
+	<string>statefulModelEdge</string>
+	<key>presenterLevelFlags</key>
+	<string>denseMobxLeft</string>
+	<key>semanticTransitionInset</key>
+	<string>loopStateShape</string>
+	<key>sliderModeBehavior</key>
+	<string>standaloneInteractorTag</string>
+</dict>
+</plist>

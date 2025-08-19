@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedUsecaseCount</key>
+	<string>sliderUntilScope</string>
+	<key>coordinatorVarVisible</key>
+	<string>dedicatedTitleFeedback</string>
+	<key>mobxInsidePlatform</key>
+	<string>catalystInterpreterBrightness</string>
+	<key>modulusDecoratorBound</key>
+	<string>elasticProgressbarStyle</string>
+	<key>singleExpandedOffset</key>
+	<string>tensorConstraintMargin</string>
+	<key>subscriptionBridgeSkewy</key>
+	<string>normalBoxshadowSkewy</string>
+	<key>unsortedProjectionOffset</key>
+	<string>pageviewInterpreterFormat</string>
+</dict>
+</plist>

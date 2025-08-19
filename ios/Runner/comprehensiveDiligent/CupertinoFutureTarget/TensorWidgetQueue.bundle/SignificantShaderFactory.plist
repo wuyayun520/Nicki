@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBuilderTheme</key>
+	<string>toolIncludeVisitor</string>
+	<key>convolutionAgainstTemple</key>
+	<string>lostTimerContrast</string>
+	<key>easyGrayscaleRate</key>
+	<string>navigatorStructureTransparency</string>
+	<key>errorFlyweightBorder</key>
+	<string>iterativeFlexEdge</string>
+	<key>scaffoldFacadeValidation</key>
+	<string>allocatorModeValidation</string>
+	<key>statefulContainerShade</key>
+	<string>gridSinceFunction</string>
+</dict>
+</plist>

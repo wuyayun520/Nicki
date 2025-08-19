@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStageVisibility</key>
+	<string>staticStreamPressure</string>
+	<key>blocThroughLevel</key>
+	<string>retainedOverlayMargin</string>
+	<key>modalNumberDepth</key>
+	<string>fragmentFacadeKind</string>
+	<key>publicFlexAppearance</key>
+	<string>taskAndEnvironment</string>
+	<key>resolverFormCoord</key>
+	<string>activeStatelessFormat</string>
+	<key>sineForMediator</key>
+	<string>actionActivityFrequency</string>
+	<key>synchronousMobileDepth</key>
+	<string>timerStageAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCardPressure</key>
+	<string>iconOutsideMode</string>
+	<key>frameUntilTask</key>
+	<string>checklistUntilContext</string>
+	<key>frameVersusComposite</key>
+	<string>modulusBesideSingleton</string>
+	<key>interactorFunctionDuration</key>
+	<string>animationTierFrequency</string>
+	<key>lastCurveFlags</key>
+	<string>builderEnvironmentDelay</string>
+	<key>mediaqueryAlongMemento</key>
+	<string>prismaticMetadataScale</string>
+	<key>mediocreIconHead</key>
+	<string>constDescriptionState</string>
+	<key>sharedRepositoryInset</key>
+	<string>crudeSensorBehavior</string>
+	<key>skinStrategyPosition</key>
+	<string>publicNormDelay</string>
+</dict>
+</plist>

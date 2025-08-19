@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInLayer</key>
+	<string>masterAroundCommand</string>
+	<key>customProtocolMode</key>
+	<string>tickerCommandFeedback</string>
+	<key>equipmentParameterInset</key>
+	<string>newestCellIndex</string>
+	<key>mobxKindRotation</key>
+	<string>staticSpineFlags</string>
+	<key>projectionAlongStage</key>
+	<string>uniformMemberTag</string>
+	<key>queryBridgeMargin</key>
+	<string>usageNumberResponse</string>
+	<key>similarPetSkewx</key>
+	<string>clipperBufferInteraction</string>
+</dict>
+</plist>

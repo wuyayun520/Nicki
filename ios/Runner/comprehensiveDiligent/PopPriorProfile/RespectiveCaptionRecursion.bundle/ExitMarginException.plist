@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateShapeRight</key>
+	<string>logarithmVersusShape</string>
+	<key>chartBridgeTag</key>
+	<string>animatedcontainerParamSize</string>
+	<key>mobileRouterMargin</key>
+	<string>buttonCommandDepth</string>
+	<key>nativeEventDuration</key>
+	<string>hierarchicalAwaitResponse</string>
+	<key>progressbarLayerDistance</key>
+	<string>delicateMatrixDirection</string>
+</dict>
+</plist>

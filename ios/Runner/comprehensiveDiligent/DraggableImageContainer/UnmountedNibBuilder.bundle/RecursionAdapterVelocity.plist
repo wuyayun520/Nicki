@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSingletonBehavior</key>
+	<string>backwardNodeTail</string>
+	<key>batchTaskDuration</key>
+	<string>transitionOutsideInterpreter</string>
+	<key>builderExceptDecorator</key>
+	<string>requiredPositionLeft</string>
+	<key>catalystProxyTint</key>
+	<string>cacheWithoutCommand</string>
+	<key>repositoryAgainstJob</key>
+	<string>iterativeNavigatorShape</string>
+	<key>smallNavigatorDistance</key>
+	<string>dynamicInjectionBorder</string>
+	<key>unaryBesideValue</key>
+	<string>delicateChallengeState</string>
+</dict>
+</plist>

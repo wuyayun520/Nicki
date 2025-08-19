@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAwayChain</key>
+	<string>certificateChainOrientation</string>
+	<key>draggableRoleMode</key>
+	<string>associatedActionRotation</string>
+	<key>interactorAmongState</key>
+	<string>threadActivityAcceleration</string>
+	<key>transformerValueResponse</key>
+	<string>fragmentAroundParameter</string>
+	<key>viewLevelVisible</key>
+	<string>navigationLayerSaturation</string>
+</dict>
+</plist>

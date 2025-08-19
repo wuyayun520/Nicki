@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSingletonState</key>
+	<string>mediocrePointBehavior</string>
+	<key>grayscaleInterpreterValidation</key>
+	<string>fixedPreviewMargin</string>
+	<key>largeSceneRate</key>
+	<string>capsuleLayerShade</string>
+	<key>listenerSingletonTop</key>
+	<string>providerCommandStatus</string>
+	<key>uniformTextMode</key>
+	<string>richtextAwayOperation</string>
+	<key>vectorParamSpacing</key>
+	<string>prismaticVectorFrequency</string>
+	<key>zoneStructureValidation</key>
+	<string>priorLayoutHue</string>
+</dict>
+</plist>

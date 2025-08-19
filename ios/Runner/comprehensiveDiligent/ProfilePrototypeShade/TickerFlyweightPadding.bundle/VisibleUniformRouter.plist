@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPositionForce</key>
+	<string>groupAlongProcess</string>
+	<key>musicPatternInset</key>
+	<string>slashShapeDepth</string>
+	<key>popupWithLevel</key>
+	<string>blocBesideTask</string>
+	<key>projectionOperationTag</key>
+	<string>marginTaskFrequency</string>
+	<key>protectedSampleFeedback</key>
+	<string>queueFormBehavior</string>
+	<key>sharedSpriteTail</key>
+	<string>reductionByEnvironment</string>
+</dict>
+</plist>

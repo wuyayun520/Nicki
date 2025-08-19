@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorLikeState</key>
+	<string>cubitModeLeft</string>
+	<key>lazySpecifierContrast</key>
+	<string>cartesianRowShape</string>
+	<key>listenerStageShape</key>
+	<string>materialCompleterOffset</string>
+	<key>responseAndMode</key>
+	<string>activeRowLeft</string>
+	<key>reusableConsumerDensity</key>
+	<string>configurationStyleAlignment</string>
+</dict>
+</plist>

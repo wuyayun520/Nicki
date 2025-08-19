@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterKindMomentum</key>
+	<string>singletonWithCycle</string>
+	<key>dynamicInterpolationVisibility</key>
+	<string>batchDuringDecorator</string>
+	<key>materialOutsideStructure</key>
+	<string>heapVersusStage</string>
+	<key>opaqueReductionState</key>
+	<string>similarUsecaseBorder</string>
+	<key>optionKindOrigin</key>
+	<string>basicPlaybackDepth</string>
+	<key>viewFromLayer</key>
+	<string>curveCommandOpacity</string>
+</dict>
+</plist>

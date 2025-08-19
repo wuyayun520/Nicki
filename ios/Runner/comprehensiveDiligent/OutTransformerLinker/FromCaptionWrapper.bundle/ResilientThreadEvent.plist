@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateSingletonCount</key>
+	<string>reusableTechniqueTheme</string>
+	<key>dialogsFlyweightKind</key>
+	<string>channelAsFramework</string>
+	<key>gridViaStyle</key>
+	<string>sizeByAction</string>
+	<key>mapObserverMomentum</key>
+	<string>delegateCompositeBehavior</string>
+	<key>rowVarMode</key>
+	<string>bulletFromShape</string>
+</dict>
+</plist>

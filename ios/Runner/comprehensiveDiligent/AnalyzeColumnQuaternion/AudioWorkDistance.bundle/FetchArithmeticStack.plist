@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>matrixOutsideProcess</key>
+	<string>methodWithProxy</string>
+	<key>notifierVisitorBehavior</key>
+	<string>pageviewAboutState</string>
+	<key>scaleVariableAppearance</key>
+	<string>navigationFormOpacity</string>
+	<key>statelessEffectScale</key>
+	<string>bulletMediatorPressure</string>
+</dict>
+</plist>

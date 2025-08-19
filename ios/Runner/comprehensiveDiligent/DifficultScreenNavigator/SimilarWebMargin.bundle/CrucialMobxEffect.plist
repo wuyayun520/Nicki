@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAndForm</key>
+	<string>zoneFacadeHead</string>
+	<key>layoutAsStage</key>
+	<string>advancedProviderCoord</string>
+	<key>mobileEffectOrigin</key>
+	<string>spriteTypeMargin</string>
+	<key>rowNearType</key>
+	<string>heroAndPhase</string>
+	<key>sharedGraphAlignment</key>
+	<string>rectCompositeSpacing</string>
+</dict>
+</plist>

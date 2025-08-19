@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOperationRate</key>
+	<string>plateForForm</string>
+	<key>bulletOrBuffer</key>
+	<string>dynamicConfigurationTint</string>
+	<key>directlyZoneBound</key>
+	<string>nativePaddingState</string>
+	<key>normProcessAlignment</key>
+	<string>gridTypeMode</string>
+	<key>resilientStatefulBehavior</key>
+	<string>navigatorVarOrientation</string>
+	<key>similarNavigatorFormat</key>
+	<string>statefulQueryScale</string>
+	<key>statelessCompositeAppearance</key>
+	<string>originalSignatureTail</string>
+</dict>
+</plist>

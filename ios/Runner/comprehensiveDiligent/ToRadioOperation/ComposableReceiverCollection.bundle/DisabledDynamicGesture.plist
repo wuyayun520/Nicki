@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarJobMargin</key>
+	<string>textVariableTop</string>
+	<key>granularModalInteraction</key>
+	<string>pageviewBesideWork</string>
+	<key>navigatorMementoIndex</key>
+	<string>batchPatternState</string>
+	<key>particleAndPattern</key>
+	<string>stackBeyondContext</string>
+	<key>sizedboxInterpreterScale</key>
+	<string>gateKindAcceleration</string>
+</dict>
+</plist>

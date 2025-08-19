@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBesideFramework</key>
+	<string>imageAndSingleton</string>
+	<key>capsuleModeTheme</key>
+	<string>temporaryBatchPosition</string>
+	<key>featureBufferDelay</key>
+	<string>unsortedDependencyCoord</string>
+	<key>integerTaskBottom</key>
+	<string>positionStateVelocity</string>
+	<key>intensitySystemHue</key>
+	<string>oldSkirtScale</string>
+	<key>pivotalChartMargin</key>
+	<string>storyboardFlyweightCenter</string>
+	<key>providerPhaseDelay</key>
+	<string>previewSinceLayer</string>
+	<key>richtextFunctionShade</key>
+	<string>transformerPatternPadding</string>
+	<key>standaloneFragmentFrequency</key>
+	<string>statefulVersusForm</string>
+	<key>variantFrameworkInteraction</key>
+	<string>fragmentForInterpreter</string>
+</dict>
+</plist>

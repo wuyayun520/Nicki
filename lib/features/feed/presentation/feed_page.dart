@@ -22,7 +22,6 @@ class _FeedPageState extends State<FeedPage> with WidgetsBindingObserver {
     'assets/technical/technical_3.mp4',
     'assets/technical/technical_4.mp4',
     'assets/technical/technical_5.mp4',
-    'assets/technical/technical_6.mp4',
     'assets/technical/technical_7.mp4',
     'assets/technical/technical_8.mp4',
     'assets/technical/technical_9.mp4',

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCompositeTheme</key>
+	<string>completerSinceStage</string>
+	<key>expandedFunctionPosition</key>
+	<string>blocOutsideVariable</string>
+	<key>frameByKind</key>
+	<string>backwardFeatureColor</string>
+	<key>intermediateViewBrightness</key>
+	<string>statefulObserverVisibility</string>
+	<key>labelFrameworkDirection</key>
+	<string>responsiveSpriteRotation</string>
+	<key>mediaInterpreterSkewx</key>
+	<string>batchFlyweightEdge</string>
+	<key>menuAdapterIndex</key>
+	<string>tickerViaPrototype</string>
+	<key>subscriptionParameterSpacing</key>
+	<string>providerProcessFrequency</string>
+	<key>unsortedBlocName</key>
+	<string>curveChainDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationStyleFeedback</key>
+	<string>semanticMethodBound</string>
+	<key>mediocreListenerDensity</key>
+	<string>immediateRectDuration</string>
+	<key>rapidAxisOffset</key>
+	<string>graphMementoOrigin</string>
+	<key>secondNodeBound</key>
+	<string>logAgainstEnvironment</string>
+</dict>
+</plist>

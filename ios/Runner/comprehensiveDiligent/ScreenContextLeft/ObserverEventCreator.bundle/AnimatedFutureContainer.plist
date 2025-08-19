@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInsideOperation</key>
+	<string>spotOfWork</string>
+	<key>flexiblePopupOffset</key>
+	<string>dropdownbuttonCommandInterval</string>
+	<key>mediaqueryLikeProcess</key>
+	<string>anchorStrategyMargin</string>
+	<key>nextObserverPosition</key>
+	<string>movementStrategyTop</string>
+	<key>observerNumberType</key>
+	<string>interpolationNearCycle</string>
+	<key>statelessLocalizationScale</key>
+	<string>persistentOverlayKind</string>
+</dict>
+</plist>

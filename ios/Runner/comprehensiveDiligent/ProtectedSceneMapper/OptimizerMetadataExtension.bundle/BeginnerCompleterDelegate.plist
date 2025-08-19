@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonExceptAction</key>
+	<string>protectedMovementCoord</string>
+	<key>checklistTaskAcceleration</key>
+	<string>textWorkTint</string>
+	<key>collectionStageLocation</key>
+	<string>greatLayoutAlignment</string>
+	<key>movementPrototypeRate</key>
+	<string>precisionTaskCount</string>
+	<key>repositoryAboutPrototype</key>
+	<string>gridWorkDepth</string>
+	<key>scaffoldMethodTag</key>
+	<string>binaryActionPosition</string>
+</dict>
+</plist>

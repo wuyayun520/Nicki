@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobAcceleration</key>
+	<string>taskLikeShape</string>
+	<key>animationStateEdge</key>
+	<string>semanticAlignmentRotation</string>
+	<key>asyncLevelDepth</key>
+	<string>cubitOutsideShape</string>
+	<key>dynamicMediaqueryName</key>
+	<string>permanentStorageResponse</string>
+	<key>heroDespiteBridge</key>
+	<string>presenterParamRight</string>
+	<key>popupTypeHue</key>
+	<string>transitionJobState</string>
+	<key>radiusPlatformState</key>
+	<string>criticalMovementMargin</string>
+	<key>resilientAlertMargin</key>
+	<string>singletonExceptStyle</string>
+	<key>screenShapeKind</key>
+	<string>descriptorProcessDirection</string>
+</dict>
+</plist>

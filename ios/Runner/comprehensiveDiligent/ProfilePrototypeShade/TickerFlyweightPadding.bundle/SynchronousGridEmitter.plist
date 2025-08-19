@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInsideType</key>
+	<string>richtextOperationDistance</string>
+	<key>baseMediatorOpacity</key>
+	<string>synchronousActivityTheme</string>
+	<key>directRowOpacity</key>
+	<string>inheritedScrollVelocity</string>
+	<key>displayableTopicSkewx</key>
+	<string>resilientSingletonDirection</string>
+	<key>inactiveSampleVisibility</key>
+	<string>unaryVersusStrategy</string>
+	<key>matrixScopeRight</key>
+	<string>streamChainBorder</string>
+	<key>navigationModeBound</key>
+	<string>navigatorContainVar</string>
+	<key>resourceTypePadding</key>
+	<string>exceptionJobInteraction</string>
+	<key>responseParameterShade</key>
+	<string>storageOutsideObserver</string>
+	<key>viewVarKind</key>
+	<string>permissiveTouchVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorProxyDensity</key>
+	<string>scrollableNotificationMomentum</string>
+	<key>blocPatternType</key>
+	<string>histogramFrameworkTheme</string>
+	<key>displayableExponentOrigin</key>
+	<string>resultDecoratorOffset</string>
+	<key>keyTabviewTag</key>
+	<string>navigationVarKind</string>
+</dict>
+</plist>

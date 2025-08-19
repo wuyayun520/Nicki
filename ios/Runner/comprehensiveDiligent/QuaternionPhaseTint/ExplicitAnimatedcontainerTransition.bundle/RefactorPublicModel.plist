@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileThreadFlags</key>
+	<string>lossObserverLeft</string>
+	<key>builderFormLeft</key>
+	<string>textureUntilPrototype</string>
+	<key>dedicatedConstraintBorder</key>
+	<string>factoryTierInset</string>
+	<key>expandedShapeInterval</key>
+	<string>sustainableSliderFormat</string>
+	<key>listenerProxyDensity</key>
+	<string>originalConstraintBorder</string>
+	<key>previewByCommand</key>
+	<string>menuWithoutState</string>
+	<key>requiredExpandedForce</key>
+	<string>listenerInWork</string>
+	<key>resizableActionPadding</key>
+	<string>persistentSinkFormat</string>
+	<key>sessionEnvironmentBrightness</key>
+	<string>responsiveContainerSkewx</string>
+	<key>usedEntityEdge</key>
+	<string>activatedCupertinoTransparency</string>
+</dict>
+</plist>

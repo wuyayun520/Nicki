@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAmongSystem</key>
+	<string>constraintPerAction</string>
+	<key>greatChapterTransparency</key>
+	<string>compositionVariableOpacity</string>
+	<key>mobxDuringFunction</key>
+	<string>monsterNumberBottom</string>
+	<key>offsetLayerAlignment</key>
+	<string>memberCommandLocation</string>
+	<key>synchronousIndicatorSkewy</key>
+	<string>durationOfPrototype</string>
+</dict>
+</plist>

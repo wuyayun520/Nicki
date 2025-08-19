@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryThanAdapter</key>
+	<string>menuAgainstTier</string>
+	<key>diffableCommandCount</key>
+	<string>declarativeBuilderTint</string>
+	<key>ignoredModelBehavior</key>
+	<string>specifyDelegateOrientation</string>
+	<key>persistentHandlerOpacity</key>
+	<string>ignoredProviderHue</string>
+	<key>viewUntilFunction</key>
+	<string>delegateKindPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVisitorFeedback</key>
+	<string>easyManagerTransparency</string>
+	<key>customizedServiceTint</key>
+	<string>scrollableBlocColor</string>
+	<key>featureWorkFlags</key>
+	<string>typicalPlateStyle</string>
+	<key>fixedCheckboxCoord</key>
+	<string>typicalControllerFeedback</string>
+	<key>normalTransitionSpacing</key>
+	<string>decorationProxySize</string>
+	<key>radioObserverInterval</key>
+	<string>numericalSensorMomentum</string>
+	<key>routerViaCycle</key>
+	<string>substantialEqualizationTail</string>
+	<key>touchAlongFacade</key>
+	<string>durationScopeFormat</string>
+	<key>vectorKindSize</key>
+	<string>globalRepositoryCenter</string>
+</dict>
+</plist>

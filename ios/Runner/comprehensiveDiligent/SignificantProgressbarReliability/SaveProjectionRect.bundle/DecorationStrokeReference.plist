@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTaskTransparency</key>
+	<string>disabledMissionEdge</string>
+	<key>concurrentCurvePressure</key>
+	<string>symmetricPositionFrequency</string>
+	<key>deferredConsumerTint</key>
+	<string>draggableServiceScale</string>
+	<key>directProviderAlignment</key>
+	<string>loopCommandCoord</string>
+	<key>functionalTextSpacing</key>
+	<string>imperativeCallbackKind</string>
+	<key>localizationOfStage</key>
+	<string>mediumStackHead</string>
+	<key>particleCompositeSkewx</key>
+	<string>activityFacadeRotation</string>
+	<key>previewThanPhase</key>
+	<string>gramAndKind</string>
+	<key>signSingletonLocation</key>
+	<string>greatCaptionSaturation</string>
+	<key>viewScopeRate</key>
+	<string>globalScaleAlignment</string>
+</dict>
+</plist>

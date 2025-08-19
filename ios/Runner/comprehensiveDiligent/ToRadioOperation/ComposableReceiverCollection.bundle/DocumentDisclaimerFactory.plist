@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedDecorationAppearance</key>
+	<string>flexAsLayer</string>
+	<key>hierarchicalSwiftInteraction</key>
+	<string>actionVisitorDepth</string>
+	<key>normalDependencyBorder</key>
+	<string>channelsExceptMemento</string>
+	<key>providerEnvironmentDuration</key>
+	<string>textTempleTag</string>
+	<key>sizedboxAsCommand</key>
+	<string>subscriptionDuringMemento</string>
+	<key>subsequentRequestOrigin</key>
+	<string>tickerLevelColor</string>
+</dict>
+</plist>

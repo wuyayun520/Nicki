@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReductionStyle</key>
+	<string>discardedMissionBehavior</string>
+	<key>compositionalTweenVelocity</key>
+	<string>interfaceBridgeMargin</string>
+	<key>crudeEventInset</key>
+	<string>listviewVarInteraction</string>
+	<key>featureParameterForce</key>
+	<string>ephemeralMomentumDirection</string>
+	<key>hierarchicalClipperShade</key>
+	<string>alignmentVersusComposite</string>
+	<key>invisibleStateLocation</key>
+	<string>momentumPatternCoord</string>
+	<key>iterativeResponseStatus</key>
+	<string>alignmentChainKind</string>
+	<key>topicVariableMomentum</key>
+	<string>presenterFrameworkTransparency</string>
+	<key>touchAlongInterpreter</key>
+	<string>animationAroundNumber</string>
+</dict>
+</plist>

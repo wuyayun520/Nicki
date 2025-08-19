@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePointPosition</key>
+	<string>asyncVectorPadding</string>
+	<key>decorationByComposite</key>
+	<string>gridByDecorator</string>
+	<key>groupContextSaturation</key>
+	<string>descriptionLayerPressure</string>
+	<key>relationalGroupSkewy</key>
+	<string>semanticDecorationIndex</string>
+	<key>transitionLayerHue</key>
+	<string>durationTierMode</string>
+</dict>
+</plist>

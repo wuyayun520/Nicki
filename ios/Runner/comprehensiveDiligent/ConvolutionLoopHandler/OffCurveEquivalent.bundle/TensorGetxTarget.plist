@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoServiceRotation</key>
+	<string>sinkBufferPosition</string>
+	<key>clipperInsideBridge</key>
+	<string>pivotalAllocatorDelay</string>
+	<key>controllerBesideVisitor</key>
+	<string>asyncFacadeKind</string>
+	<key>mutableLayoutTheme</key>
+	<string>gesturedetectorFormBehavior</string>
+	<key>seamlessPointLeft</key>
+	<string>subscriptionSinceStrategy</string>
+	<key>zoneOrMediator</key>
+	<string>pivotalAlignmentForce</string>
+</dict>
+</plist>

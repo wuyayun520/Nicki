@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationParameterBound</key>
+	<string>cursorParameterTransparency</string>
+	<key>constRadiusValidation</key>
+	<string>checklistContextScale</string>
+	<key>curvePatternTint</key>
+	<string>difficultStatelessHue</string>
+	<key>descriptionWithPrototype</key>
+	<string>retainedRepositoryOffset</string>
+	<key>geometricAxisCount</key>
+	<string>blocShapeTail</string>
+	<key>masterThroughAction</key>
+	<string>pivotalSymbolBrightness</string>
+	<key>previewSingletonRotation</key>
+	<string>dimensionCompositeVisibility</string>
+	<key>repositoryLevelKind</key>
+	<string>mutableCharacterBound</string>
+	<key>visibleReferenceDistance</key>
+	<string>usageOutsideTask</string>
+</dict>
+</plist>

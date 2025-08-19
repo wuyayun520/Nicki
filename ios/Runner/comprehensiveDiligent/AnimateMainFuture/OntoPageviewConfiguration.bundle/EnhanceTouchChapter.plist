@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandDuringDecorator</key>
+	<string>observerWithStage</string>
+	<key>composableSpriteVelocity</key>
+	<string>managerNearVariable</string>
+	<key>controllerThroughSystem</key>
+	<string>buttonFacadeColor</string>
+	<key>expandedMediatorOrigin</key>
+	<string>tickerFromSingleton</string>
+	<key>exponentMementoStatus</key>
+	<string>layoutAwayVisitor</string>
+	<key>localizationExceptAdapter</key>
+	<string>labelProcessCenter</string>
+	<key>nibFacadeMode</key>
+	<string>sensorPatternKind</string>
+	<key>roleInsideAdapter</key>
+	<string>curveBesideScope</string>
+	<key>swiftAndStructure</key>
+	<string>configurationObserverScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarOrientation</key>
+	<string>immutableContainerValidation</string>
+	<key>animationKindRotation</key>
+	<string>optimizerOrComposite</string>
+	<key>deferredLossBorder</key>
+	<string>cupertinoProxyInteraction</string>
+	<key>geometricRouterSpeed</key>
+	<string>deferredModulusColor</string>
+	<key>modalWithComposite</key>
+	<string>layerOrScope</string>
+	<key>previewInterpreterBound</key>
+	<string>stackOrParameter</string>
+	<key>semanticBaseSpeed</key>
+	<string>largeMovementTail</string>
+	<key>viewWithStrategy</key>
+	<string>projectionFacadePosition</string>
+</dict>
+</plist>

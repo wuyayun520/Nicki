@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInterpreterForce</key>
+	<string>chapterStyleName</string>
+	<key>columnNumberTint</key>
+	<string>variantMementoForce</string>
+	<key>directlySubpixelAlignment</key>
+	<string>parallelViewLocation</string>
+	<key>textVersusWork</key>
+	<string>alignmentAgainstEnvironment</string>
+	<key>titleBridgePosition</key>
+	<string>mutableTabbarShade</string>
+	<key>transformerNearSingleton</key>
+	<string>zoneThanPlatform</string>
+</dict>
+</plist>

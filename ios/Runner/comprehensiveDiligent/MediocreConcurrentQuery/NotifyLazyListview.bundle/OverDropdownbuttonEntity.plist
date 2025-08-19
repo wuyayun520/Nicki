@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAdapterTop</key>
+	<string>requiredInterfaceDensity</string>
+	<key>imperativeResourceBrightness</key>
+	<string>timerLevelMode</string>
+	<key>layoutLevelShape</key>
+	<string>groupJobFrequency</string>
+	<key>pageviewAtShape</key>
+	<string>pointAtJob</string>
+	<key>pageviewVarFlags</key>
+	<string>transformerAlongBridge</string>
+	<key>promiseTempleTail</key>
+	<string>titleModeDelay</string>
+	<key>symbolShapeCoord</key>
+	<string>disparateExponentSpacing</string>
+</dict>
+</plist>

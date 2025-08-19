@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitJobInteraction</key>
+	<string>zoneBesideSystem</string>
+	<key>finalZoneRight</key>
+	<string>documentViaOperation</string>
+	<key>heapAdapterTop</key>
+	<string>marginSystemTag</string>
+	<key>listviewPerPrototype</key>
+	<string>queryIncludeParam</string>
+	<key>mutableFactoryType</key>
+	<string>fragmentShapeScale</string>
+	<key>pointTierFormat</key>
+	<string>coordinatorNearPrototype</string>
+	<key>symbolPatternBottom</key>
+	<string>persistentSineEdge</string>
+	<key>tappableTweenName</key>
+	<string>priorResolverSkewx</string>
+</dict>
+</plist>

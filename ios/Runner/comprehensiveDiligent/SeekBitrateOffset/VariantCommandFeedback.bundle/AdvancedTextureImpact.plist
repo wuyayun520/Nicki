@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerPopupKind</key>
+	<string>sinkOrBridge</string>
+	<key>immutableFactoryPosition</key>
+	<string>rectCycleStatus</string>
+	<key>resilientGridviewPressure</key>
+	<string>symmetricOptimizerDuration</string>
+	<key>singleChannelTheme</key>
+	<string>textfieldPlatformTheme</string>
+	<key>utilAmongPattern</key>
+	<string>nibActionState</string>
+</dict>
+</plist>

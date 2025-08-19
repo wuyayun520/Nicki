@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleForContext</key>
+	<string>iconNearPlatform</string>
+	<key>interfaceAlongDecorator</key>
+	<string>vectorContainTemple</string>
+	<key>particleContainParam</key>
+	<string>statefulTextureInteraction</string>
+	<key>petInProcess</key>
+	<string>rowBridgeDirection</string>
+</dict>
+</plist>

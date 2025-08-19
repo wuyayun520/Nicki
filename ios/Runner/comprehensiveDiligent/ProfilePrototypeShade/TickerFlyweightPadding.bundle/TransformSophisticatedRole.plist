@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasCompositeTransparency</key>
+	<string>cursorVarDepth</string>
+	<key>firstPresenterStyle</key>
+	<string>explicitPositionCoord</string>
+	<key>scrollFacadeMomentum</key>
+	<string>handlerIncludeChain</string>
+	<key>spineTaskVelocity</key>
+	<string>temporaryErrorTension</string>
+	<key>tensorLayoutAlignment</key>
+	<string>scrollTaskOrientation</string>
+</dict>
+</plist>

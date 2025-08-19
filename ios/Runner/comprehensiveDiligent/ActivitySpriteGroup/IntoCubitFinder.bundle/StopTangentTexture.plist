@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUtilMargin</key>
+	<string>exponentBridgeBrightness</string>
+	<key>blocBeyondPhase</key>
+	<string>temporaryCanvasBehavior</string>
+	<key>constraintFromBridge</key>
+	<string>constraintFrameworkAppearance</string>
+	<key>gridAwayFacade</key>
+	<string>sequentialCharacterBorder</string>
+	<key>multiInteractorFeedback</key>
+	<string>custompaintInsideScope</string>
+	<key>resolverPrototypeOrientation</key>
+	<string>hierarchicalStreamSkewx</string>
+	<key>tensorNavigatorShade</key>
+	<string>buttonFrameworkBehavior</string>
+	<key>unactivatedStorageBrightness</key>
+	<string>associatedSignatureDepth</string>
+</dict>
+</plist>

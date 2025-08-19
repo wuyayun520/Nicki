@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileAxisAlignment</key>
+	<string>nextSizedboxEdge</string>
+	<key>normalTableEdge</key>
+	<string>sliderVisitorRight</string>
+	<key>queryAgainstStrategy</key>
+	<string>managerOutsideVisitor</string>
+	<key>statefulPhasePadding</key>
+	<string>textBeyondStructure</string>
+	<key>techniqueFlyweightPadding</key>
+	<string>cycleBesideFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActivityMargin</key>
+	<string>columnBesideValue</string>
+	<key>disparateTransitionOrigin</key>
+	<string>globalStreamDistance</string>
+	<key>playbackVisitorDelay</key>
+	<string>inactiveConstraintSkewx</string>
+	<key>sceneForTemple</key>
+	<string>composableCaptionCoord</string>
+	<key>synchronousThemeMomentum</key>
+	<string>autoExponentSkewy</string>
+</dict>
+</plist>

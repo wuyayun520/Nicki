@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLayoutBehavior</key>
+	<string>brushModeTint</string>
+	<key>chartFunctionSize</key>
+	<string>normalParticleTransparency</string>
+	<key>durationFunctionEdge</key>
+	<string>graphicFacadeMargin</string>
+	<key>resultIncludeParameter</key>
+	<string>respectiveSubpixelAppearance</string>
+	<key>transitionStructureSize</key>
+	<string>descriptionAmongStyle</string>
+</dict>
+</plist>

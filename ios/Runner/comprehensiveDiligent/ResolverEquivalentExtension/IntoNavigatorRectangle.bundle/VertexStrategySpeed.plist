@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStageBehavior</key>
+	<string>listenerSingletonDirection</string>
+	<key>buttonInContext</key>
+	<string>nextLabelPosition</string>
+	<key>eventAsOperation</key>
+	<string>rectWithoutPhase</string>
+	<key>flexibleDurationForce</key>
+	<string>graphAlongNumber</string>
+	<key>heroThroughBuffer</key>
+	<string>tabbarContextSkewy</string>
+	<key>resourceProcessPosition</key>
+	<string>methodNumberName</string>
+	<key>serviceVariableSpeed</key>
+	<string>diversifiedTextureDepth</string>
+	<key>subtleInterfaceSpacing</key>
+	<string>constEquipmentKind</string>
+	<key>unsortedPainterAlignment</key>
+	<string>displayablePlaybackSkewy</string>
+</dict>
+</plist>

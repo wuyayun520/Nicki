@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFacadeDirection</key>
+	<string>resourceVarBottom</string>
+	<key>gridInsideStage</key>
+	<string>queryProxyDelay</string>
+	<key>iterativeCustompaintSkewy</key>
+	<string>sliderDespiteFlyweight</string>
+	<key>musicDuringPrototype</key>
+	<string>timerInsidePhase</string>
+	<key>progressbarOutsideValue</key>
+	<string>denseLayerAppearance</string>
+</dict>
+</plist>

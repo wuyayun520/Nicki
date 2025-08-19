@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBridgeDirection</key>
+	<string>disabledImageResponse</string>
+	<key>completerOutsideContext</key>
+	<string>mobileProxyTag</string>
+	<key>cosineAtPattern</key>
+	<string>singletonMediatorDepth</string>
+	<key>diffableChannelsFlags</key>
+	<string>immediateAnimationBehavior</string>
+	<key>easyRouteFormat</key>
+	<string>workflowInStrategy</string>
+	<key>mainSceneState</key>
+	<string>effectUntilJob</string>
+	<key>navigatorContextName</key>
+	<string>persistentCupertinoSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constLogarithmBehavior</key>
+	<string>streamInFlyweight</string>
+	<key>documentFlyweightVisible</key>
+	<string>tickerTaskValidation</string>
+	<key>interactorMediatorCount</key>
+	<string>descriptorFromFlyweight</string>
+	<key>segmentValueDistance</key>
+	<string>resizableConsumerHue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDurationInset</key>
+	<string>intuitiveLoopMargin</string>
+	<key>gesturedetectorEnvironmentCount</key>
+	<string>eagerCardInteraction</string>
+	<key>numericalTableLeft</key>
+	<string>awaitAgainstCycle</string>
+	<key>persistentServiceSpeed</key>
+	<string>radiusInsideLevel</string>
+	<key>pivotalMatrixState</key>
+	<string>documentDuringActivity</string>
+	<key>previewFacadeTail</key>
+	<string>resizableAlertPressure</string>
+	<key>primaryTopicBrightness</key>
+	<string>layoutModeTail</string>
+	<key>skirtParamFormat</key>
+	<string>disparatePrioritySpacing</string>
+	<key>unsortedCursorShape</key>
+	<string>webSemanticsIndex</string>
+</dict>
+</plist>

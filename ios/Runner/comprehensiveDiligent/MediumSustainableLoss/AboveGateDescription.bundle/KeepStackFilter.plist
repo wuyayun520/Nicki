@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsInterpreter</key>
+	<string>resilientDependencyOpacity</string>
+	<key>axisAmongEnvironment</key>
+	<string>displayableAllocatorPadding</string>
+	<key>eagerDurationForce</key>
+	<string>optimizerDuringMode</string>
+	<key>elasticLoopMargin</key>
+	<string>numericalParticleOrigin</string>
+	<key>eventBeyondMode</key>
+	<string>statelessByComposite</string>
+	<key>graphInsideValue</key>
+	<string>streamParamContrast</string>
+	<key>heroValueBrightness</key>
+	<string>asynchronousTweenTail</string>
+	<key>menuBufferDuration</key>
+	<string>localControllerOrientation</string>
+	<key>symmetricMemberResponse</key>
+	<string>transitionOutsideValue</string>
+</dict>
+</plist>

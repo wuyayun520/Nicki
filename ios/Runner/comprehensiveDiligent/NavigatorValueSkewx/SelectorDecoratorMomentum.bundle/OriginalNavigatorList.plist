@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectSingletonDelay</key>
+	<string>queryAgainstProxy</string>
+	<key>getxVarOrientation</key>
+	<string>popupParamPosition</string>
+	<key>plateModeBehavior</key>
+	<string>lastMarginDepth</string>
+	<key>rowUntilBridge</key>
+	<string>descriptionOperationHead</string>
+	<key>slashVisitorMargin</key>
+	<string>dependencyForStyle</string>
+	<key>unaryOfBridge</key>
+	<string>ephemeralGraphInteraction</string>
+</dict>
+</plist>

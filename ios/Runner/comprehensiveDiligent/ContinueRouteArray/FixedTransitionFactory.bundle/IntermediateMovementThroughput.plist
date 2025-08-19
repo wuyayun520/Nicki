@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterDuringMethod</key>
+	<string>optionCycleTop</string>
+	<key>containerDuringStrategy</key>
+	<string>ignoredStatelessResponse</string>
+	<key>effectOrInterpreter</key>
+	<string>titleLevelOffset</string>
+	<key>errorInStage</key>
+	<string>opaqueActivityLocation</string>
+	<key>prevPresenterPosition</key>
+	<string>requestContextOffset</string>
+	<key>scaffoldNearVisitor</key>
+	<string>certificateActivityForce</string>
+	<key>shaderStageForce</key>
+	<string>responsiveThreadVelocity</string>
+	<key>textAlongStrategy</key>
+	<string>timerTaskIndex</string>
+</dict>
+</plist>

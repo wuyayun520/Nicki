@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringInterpreter</key>
+	<string>semanticInstructionValidation</string>
+	<key>diffableControllerPosition</key>
+	<string>scaleIncludeContext</string>
+	<key>directAnimationPosition</key>
+	<string>viewCycleAcceleration</string>
+	<key>drawerScopeTail</key>
+	<string>materialMediaqueryFormat</string>
+	<key>effectActivityRate</key>
+	<string>marginAgainstSingleton</string>
+	<key>liteIsolateIndex</key>
+	<string>futureOutsideInterpreter</string>
+	<key>requestTempleAlignment</key>
+	<string>painterAtStyle</string>
+	<key>sliderBesideEnvironment</key>
+	<string>pinchableTernaryAppearance</string>
+</dict>
+</plist>

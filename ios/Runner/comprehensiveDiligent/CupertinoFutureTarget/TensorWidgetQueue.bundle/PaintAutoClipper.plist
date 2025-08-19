@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentWorkMode</key>
+	<string>streamSingletonCenter</string>
+	<key>mainRectValidation</key>
+	<string>convolutionContainPattern</string>
+	<key>menuActionDirection</key>
+	<string>blocKindPosition</string>
+	<key>missedResourceDepth</key>
+	<string>completerProcessSpeed</string>
+	<key>operationBesideContext</key>
+	<string>accordionLabelDelay</string>
+	<key>popupTaskFlags</key>
+	<string>interfaceFlyweightPressure</string>
+	<key>sophisticatedLoopSkewx</key>
+	<string>loopFlyweightResponse</string>
+	<key>specifyTopicCount</key>
+	<string>opaqueContainerVelocity</string>
+	<key>storageThanFunction</key>
+	<string>backwardArithmeticOffset</string>
+</dict>
+</plist>

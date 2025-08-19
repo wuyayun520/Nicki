@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionEnvironmentAlignment</key>
+	<string>precisionFacadeFormat</string>
+	<key>imperativeListenerAcceleration</key>
+	<string>transitionLevelDepth</string>
+	<key>layoutBesideValue</key>
+	<string>usageNearDecorator</string>
+	<key>missedEffectSkewx</key>
+	<string>checkboxBesideFunction</string>
+	<key>swiftScopeScale</key>
+	<string>subscriptionAndCommand</string>
+</dict>
+</plist>

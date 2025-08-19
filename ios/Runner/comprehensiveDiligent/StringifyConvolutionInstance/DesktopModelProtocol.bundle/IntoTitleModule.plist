@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVersusAdapter</key>
+	<string>utilVersusWork</string>
+	<key>cartesianPageviewBrightness</key>
+	<string>tappableLogDirection</string>
+	<key>litePopupFeedback</key>
+	<string>inactiveResourceVisible</string>
+	<key>navigationActionSaturation</key>
+	<string>webAsyncFeedback</string>
+</dict>
+</plist>

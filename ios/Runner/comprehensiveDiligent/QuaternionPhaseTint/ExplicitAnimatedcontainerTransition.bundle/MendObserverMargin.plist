@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBufferKind</key>
+	<string>builderInsideSingleton</string>
+	<key>featureAlongObserver</key>
+	<string>cupertinoByFunction</string>
+	<key>gateAroundSystem</key>
+	<string>ternaryByFlyweight</string>
+	<key>mobxDecoratorStyle</key>
+	<string>layerInsideKind</string>
+	<key>observerFromSystem</key>
+	<string>assetOperationTransparency</string>
+	<key>radiusVisitorHue</key>
+	<string>mobxAtTask</string>
+	<key>repositoryKindCount</key>
+	<string>equipmentAndKind</string>
+	<key>widgetLevelDuration</key>
+	<string>alignmentBeyondEnvironment</string>
+</dict>
+</plist>

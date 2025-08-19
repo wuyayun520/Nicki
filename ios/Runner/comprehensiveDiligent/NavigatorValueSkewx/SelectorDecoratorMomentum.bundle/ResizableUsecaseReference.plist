@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPopupStyle</key>
+	<string>priorityStrategyFeedback</string>
+	<key>easySliderAlignment</key>
+	<string>viewDuringMode</string>
+	<key>inkwellVarRight</key>
+	<string>viewMediatorTail</string>
+	<key>mediaContextTail</key>
+	<string>allocatorBufferAppearance</string>
+	<key>observerMementoHead</key>
+	<string>mediocreDocumentDirection</string>
+	<key>queueCycleShade</key>
+	<string>priorityAsMemento</string>
+	<key>sharedOffsetStyle</key>
+	<string>presenterOutsideAction</string>
+	<key>usageUntilBridge</key>
+	<string>notificationVisitorContrast</string>
+</dict>
+</plist>

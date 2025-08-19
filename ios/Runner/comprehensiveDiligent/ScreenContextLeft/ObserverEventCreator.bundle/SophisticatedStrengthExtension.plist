@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCubitDistance</key>
+	<string>actionOutsideActivity</string>
+	<key>constraintTempleDistance</key>
+	<string>draggableStatefulStyle</string>
+	<key>desktopRowRotation</key>
+	<string>specifyDelegateOrientation</string>
+	<key>dialogsBufferDuration</key>
+	<string>factoryOutsideMediator</string>
+	<key>fixedPlateDirection</key>
+	<string>draggableCardName</string>
+	<key>invisibleProgressbarAlignment</key>
+	<string>spineOfOperation</string>
+	<key>repositoryOrStructure</key>
+	<string>effectAboutAction</string>
+	<key>requiredConvolutionDelay</key>
+	<string>menuAboutCycle</string>
+	<key>riverpodStateAcceleration</key>
+	<string>titleByLayer</string>
+	<key>semanticSizePressure</key>
+	<string>modelOutsideInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>responseTypeDelay</key>
+	<string>convolutionLikeAdapter</string>
+	<key>routeBridgeResponse</key>
+	<string>awaitFromParam</string>
+	<key>semanticsCycleResponse</key>
+	<string>rectThroughWork</string>
+	<key>usecaseTempleStyle</key>
+	<string>stampForFlyweight</string>
+</dict>
+</plist>

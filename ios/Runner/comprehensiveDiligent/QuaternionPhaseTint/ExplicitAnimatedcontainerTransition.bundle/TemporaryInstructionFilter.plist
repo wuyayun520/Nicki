@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentProtocolFormat</key>
+	<string>missionModeTension</string>
+	<key>eventAgainstState</key>
+	<string>transformerAsCycle</string>
+	<key>expandedBufferTheme</key>
+	<string>alphaPatternTheme</string>
+	<key>fusedActivityIndex</key>
+	<string>managerExceptCommand</string>
+	<key>loopAndVisitor</key>
+	<string>widgetMementoSpeed</string>
+	<key>priorityAgainstVisitor</key>
+	<string>rectBridgeTension</string>
+	<key>standalonePresenterStatus</key>
+	<string>constraintSystemType</string>
+	<key>statefulRichtextScale</key>
+	<string>checkboxTierInterval</string>
+</dict>
+</plist>

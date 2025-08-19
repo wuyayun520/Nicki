@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOutsideLayer</key>
+	<string>capsuleAroundLayer</string>
+	<key>baselineExceptScope</key>
+	<string>richtextLayerMargin</string>
+	<key>draggableCupertinoStyle</key>
+	<string>taskPatternLeft</string>
+	<key>easyVectorKind</key>
+	<string>chapterViaEnvironment</string>
+	<key>mobileDuringFacade</key>
+	<string>queueStateSpacing</string>
+	<key>widgetLikeValue</key>
+	<string>backwardCoordinatorSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAboutObserver</key>
+	<string>graphicTierFlags</string>
+	<key>effectObserverDuration</key>
+	<string>heroWorkFrequency</string>
+	<key>interpolationContextDepth</key>
+	<string>gridFunctionRotation</string>
+	<key>parallelResolverOpacity</key>
+	<string>resizableMethodForce</string>
+	<key>persistentLocalizationState</key>
+	<string>particleTaskSpeed</string>
+	<key>sequentialPetTransparency</key>
+	<string>priorBinarySpacing</string>
+</dict>
+</plist>

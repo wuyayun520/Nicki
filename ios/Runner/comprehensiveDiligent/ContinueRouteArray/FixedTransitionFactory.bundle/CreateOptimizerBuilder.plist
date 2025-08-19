@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayerFeedback</key>
+	<string>singleWidgetFormat</string>
+	<key>chapterInterpreterDuration</key>
+	<string>parallelGrayscaleSkewy</string>
+	<key>containerMediatorInset</key>
+	<string>geometricTweenTension</string>
+	<key>factorySinceParameter</key>
+	<string>seamlessBufferDistance</string>
+	<key>interactivePlateTension</key>
+	<string>adaptiveCursorFormat</string>
+	<key>keyMatrixBound</key>
+	<string>mutableCapsuleDelay</string>
+	<key>rowPrototypeTint</key>
+	<string>paddingPatternRight</string>
+	<key>statelessTaskInterval</key>
+	<string>loopParamState</string>
+	<key>viewOfPhase</key>
+	<string>criticalRadiusPressure</string>
+</dict>
+</plist>

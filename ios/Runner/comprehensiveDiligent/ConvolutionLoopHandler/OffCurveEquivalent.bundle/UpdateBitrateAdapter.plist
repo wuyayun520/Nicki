@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncChannelsRate</key>
+	<string>gridviewMethodDistance</string>
+	<key>baselineFromJob</key>
+	<string>usedTextScale</string>
+	<key>batchCommandOrientation</key>
+	<string>rectParameterDirection</string>
+	<key>localizationAsProxy</key>
+	<string>interfaceAwayCycle</string>
+	<key>modelKindType</key>
+	<string>progressbarVarStyle</string>
+	<key>mutableTopicTail</key>
+	<string>singleListenerBound</string>
+	<key>prismaticInteractorEdge</key>
+	<string>interpolationTaskInteraction</string>
+</dict>
+</plist>

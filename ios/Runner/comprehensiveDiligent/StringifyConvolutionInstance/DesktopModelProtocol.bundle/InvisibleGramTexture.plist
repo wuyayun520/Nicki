@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStateStyle</key>
+	<string>cardPerSingleton</string>
+	<key>dimensionInsideAction</key>
+	<string>positionDuringProcess</string>
+	<key>dynamicLayerHead</key>
+	<string>sampleFormEdge</string>
+	<key>extensionBeyondStage</key>
+	<string>textfieldScopeHead</string>
+	<key>imageAtTask</key>
+	<string>explicitModulusCenter</string>
+	<key>metadataThanLevel</key>
+	<string>localizationStateTheme</string>
+	<key>methodWithComposite</key>
+	<string>switchMediatorEdge</string>
+	<key>progressbarInContext</key>
+	<string>singletonDecoratorLeft</string>
+	<key>projectAsShape</key>
+	<string>utilModeBorder</string>
+</dict>
+</plist>

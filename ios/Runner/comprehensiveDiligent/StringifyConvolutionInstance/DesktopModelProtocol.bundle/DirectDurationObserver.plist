@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMethodDensity</key>
+	<string>explicitGroupSpacing</string>
+	<key>boxStrategyColor</key>
+	<string>labelForAction</string>
+	<key>loopViaPrototype</key>
+	<string>protocolOrPrototype</string>
+	<key>routeWithoutVisitor</key>
+	<string>rowInterpreterRate</string>
+	<key>touchPhasePressure</key>
+	<string>titleFrameworkVisible</string>
+</dict>
+</plist>

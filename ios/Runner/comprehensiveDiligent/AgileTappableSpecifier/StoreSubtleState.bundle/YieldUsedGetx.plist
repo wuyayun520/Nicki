@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorNearLayer</key>
+	<string>notificationLayerColor</string>
+	<key>desktopResolverResponse</key>
+	<string>denseMovementSkewx</string>
+	<key>euclideanTabbarInteraction</key>
+	<string>descriptionOutsidePlatform</string>
+	<key>gestureActionStyle</key>
+	<string>allocatorPatternFeedback</string>
+	<key>methodIncludeInterpreter</key>
+	<string>diffableCommandVisible</string>
+	<key>missionFrameworkPosition</key>
+	<string>concreteStorageSkewy</string>
+	<key>prevEntityInterval</key>
+	<string>currentGrainHue</string>
+	<key>priorPainterValidation</key>
+	<string>dimensionStateBorder</string>
+	<key>routerDespiteType</key>
+	<string>originalFrameLeft</string>
+</dict>
+</plist>

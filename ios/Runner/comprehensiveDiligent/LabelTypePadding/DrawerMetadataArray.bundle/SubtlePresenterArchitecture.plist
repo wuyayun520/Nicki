@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerExceptComposite</key>
+	<string>tweenExceptBuffer</string>
+	<key>cupertinoModeTransparency</key>
+	<string>streamSinceProxy</string>
+	<key>delegateBesideStructure</key>
+	<string>specifyCommandFrequency</string>
+	<key>frameStrategyName</key>
+	<string>diffableSignatureVisibility</string>
+	<key>intermediateGesturedetectorTint</key>
+	<string>dynamicModelAppearance</string>
+	<key>navigatorWithShape</key>
+	<string>columnInObserver</string>
+	<key>resizableInteractorState</key>
+	<string>entropyContextTint</string>
+	<key>stampPerComposite</key>
+	<string>symbolAmongWork</string>
+</dict>
+</plist>

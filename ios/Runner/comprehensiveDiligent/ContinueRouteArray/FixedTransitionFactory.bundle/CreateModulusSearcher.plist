@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExponentResponse</key>
+	<string>gestureAgainstSystem</string>
+	<key>backwardProfileForce</key>
+	<string>dynamicFrameBrightness</string>
+	<key>blocTierVelocity</key>
+	<string>curveContextSize</string>
+	<key>interfaceWithoutComposite</key>
+	<string>observerParamAppearance</string>
+	<key>opaqueZoneAcceleration</key>
+	<string>previewVisitorHue</string>
+	<key>scrollableRemainderSaturation</key>
+	<string>semanticsAtComposite</string>
+	<key>spriteTempleDelay</key>
+	<string>currentTextureRotation</string>
+	<key>substantialCapsuleAlignment</key>
+	<string>streamLikeParam</string>
+</dict>
+</plist>

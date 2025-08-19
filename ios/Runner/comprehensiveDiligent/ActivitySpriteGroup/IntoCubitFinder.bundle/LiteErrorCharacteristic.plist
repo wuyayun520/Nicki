@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystExceptPrototype</key>
+	<string>dynamicIsolateCount</string>
+	<key>lazyCharacterInset</key>
+	<string>rectAtProxy</string>
+	<key>mediaqueryPhaseBottom</key>
+	<string>masterAtStyle</string>
+	<key>newestRadiusTransparency</key>
+	<string>responseCycleShade</string>
+	<key>queryNearFacade</key>
+	<string>asyncRowBottom</string>
+</dict>
+</plist>

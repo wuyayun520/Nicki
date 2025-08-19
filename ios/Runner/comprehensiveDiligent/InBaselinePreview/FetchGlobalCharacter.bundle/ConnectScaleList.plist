@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPrototypeTail</key>
+	<string>hyperbolicOverlayName</string>
+	<key>baselinePrototypeRotation</key>
+	<string>sizeModeStyle</string>
+	<key>dependencyBeyondObserver</key>
+	<string>mediaFromPlatform</string>
+	<key>desktopListenerKind</key>
+	<string>seguePerProcess</string>
+	<key>reactiveEventColor</key>
+	<string>reductionContextPadding</string>
+	<key>resolverBesideCycle</key>
+	<string>tickerUntilEnvironment</string>
+	<key>tappableTickerFormat</key>
+	<string>storageEnvironmentStatus</string>
+</dict>
+</plist>

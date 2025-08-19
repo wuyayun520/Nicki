@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAtContext</key>
+	<string>unsortedScrollTop</string>
+	<key>disabledPlateCoord</key>
+	<string>desktopListviewColor</string>
+	<key>futureStageSpacing</key>
+	<string>parallelChartTop</string>
+	<key>semanticViewFeedback</key>
+	<string>crucialIndicatorPadding</string>
+	<key>switchAroundMemento</key>
+	<string>providerPerJob</string>
+	<key>utilPerValue</key>
+	<string>unsortedPainterTheme</string>
+</dict>
+</plist>

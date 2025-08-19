@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintForMethod</key>
+	<string>fragmentBeyondShape</string>
+	<key>graphPatternStyle</key>
+	<string>nodeThroughTier</string>
+	<key>multiInteractorBrightness</key>
+	<string>swiftAlongFacade</string>
+	<key>popupThroughLayer</key>
+	<string>nibSingletonBehavior</string>
+	<key>primaryContainerAcceleration</key>
+	<string>sortedLayoutDistance</string>
+	<key>segmentMementoTheme</key>
+	<string>titleUntilSystem</string>
+	<key>singletonPrototypePressure</key>
+	<string>kernelStructureOrientation</string>
+	<key>stateAndBuffer</key>
+	<string>positionedPhaseBottom</string>
+	<key>statefulAboutProcess</key>
+	<string>intensityVisitorFeedback</string>
+	<key>widgetFacadeVelocity</key>
+	<string>dimensionCycleTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseMediatorBorder</key>
+	<string>grayscaleProxyCount</string>
+	<key>dependencyDuringMode</key>
+	<string>errorFromVisitor</string>
+	<key>layoutAdapterOrientation</key>
+	<string>usecaseFunctionAppearance</string>
+	<key>marginWithoutDecorator</key>
+	<string>resizableTaskDuration</string>
+	<key>otherStackOrientation</key>
+	<string>animatedcontainerExceptSystem</string>
+	<key>scaleShapeState</key>
+	<string>paddingAndBridge</string>
+	<key>variantNumberDelay</key>
+	<string>interactorDuringMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFunctionLocation</key>
+	<string>seamlessSymbolAcceleration</string>
+	<key>interactiveConstraintInset</key>
+	<string>curveVariableTransparency</string>
+	<key>labelScopeBehavior</key>
+	<string>layoutDespiteCycle</string>
+	<key>layoutPlatformEdge</key>
+	<string>decorationWithJob</string>
+	<key>scrollCommandMode</key>
+	<string>materialOutsideLevel</string>
+	<key>specifierVarName</key>
+	<string>providerContainChain</string>
+	<key>transitionObserverShade</key>
+	<string>alignmentExceptProxy</string>
+</dict>
+</plist>

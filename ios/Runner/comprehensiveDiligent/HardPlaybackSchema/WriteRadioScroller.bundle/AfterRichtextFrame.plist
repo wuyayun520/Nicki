@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVarSpeed</key>
+	<string>arithmeticActivityStatus</string>
+	<key>oldFragmentVisible</key>
+	<string>alignmentByChain</string>
+	<key>resizableMultiplicationOpacity</key>
+	<string>cartesianAnchorShade</string>
+	<key>sessionBridgeStyle</key>
+	<string>dedicatedLayoutCoord</string>
+	<key>stackBeyondFramework</key>
+	<string>inkwellDecoratorCenter</string>
+	<key>variantParamVelocity</key>
+	<string>tweenNumberInterval</string>
+</dict>
+</plist>

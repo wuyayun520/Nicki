@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVisitorMomentum</key>
+	<string>rowBufferVelocity</string>
+	<key>inheritedContainerVelocity</key>
+	<string>semanticEqualizationVelocity</string>
+	<key>interactorOperationLocation</key>
+	<string>dimensionStructureSkewx</string>
+	<key>materialInstructionSpacing</key>
+	<string>animatedcontainerLayerOrigin</string>
+	<key>mediaqueryStrategyBehavior</key>
+	<string>stampAsAdapter</string>
+	<key>protectedAwaitState</key>
+	<string>notifierEnvironmentLeft</string>
+</dict>
+</plist>

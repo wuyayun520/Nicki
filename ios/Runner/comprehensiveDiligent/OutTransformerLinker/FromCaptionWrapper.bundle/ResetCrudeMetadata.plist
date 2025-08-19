@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenuType</key>
+	<string>semanticsStateSkewy</string>
+	<key>asyncCompositeTail</key>
+	<string>concurrentFragmentCount</string>
+	<key>documentOfStage</key>
+	<string>shaderAgainstFacade</string>
+	<key>petNearAction</key>
+	<string>progressbarWorkCenter</string>
+	<key>pointInsideBridge</key>
+	<string>eagerRouterMode</string>
+	<key>responseAmongCycle</key>
+	<string>providerNumberEdge</string>
+	<key>signFunctionBorder</key>
+	<string>numericalZoneDuration</string>
+	<key>smallRequestCoord</key>
+	<string>documentIncludeFlyweight</string>
+	<key>tensorRiverpodSaturation</key>
+	<string>popupDuringFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSensorDelay</key>
+	<string>eventLikeEnvironment</string>
+	<key>animatedAlignmentTop</key>
+	<string>priorBuilderOffset</string>
+	<key>blocFormSaturation</key>
+	<string>parallelStatePosition</string>
+	<key>configurationOrType</key>
+	<string>callbackKindColor</string>
+	<key>functionalWidgetShade</key>
+	<string>imagePhaseState</string>
+	<key>riverpodSystemVisible</key>
+	<string>radioAboutMemento</string>
+	<key>standalonePainterDirection</key>
+	<string>rowNearContext</string>
+	<key>transitionScopeHue</key>
+	<string>gemKindTint</string>
+	<key>uniformBuilderScale</key>
+	<string>mediumChartSaturation</string>
+</dict>
+</plist>

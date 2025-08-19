@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalIconOrigin</key>
+	<string>consultativeAlignmentOrigin</string>
+	<key>isolateAndFunction</key>
+	<string>activatedActionValidation</string>
+	<key>sinkTaskHue</key>
+	<string>chartMediatorSaturation</string>
+	<key>widgetBesideFlyweight</key>
+	<string>crucialCoordinatorSaturation</string>
+</dict>
+</plist>

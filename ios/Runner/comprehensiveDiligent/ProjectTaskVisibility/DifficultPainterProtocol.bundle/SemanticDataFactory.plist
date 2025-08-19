@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinePerDecorator</key>
+	<string>graphicLevelTransparency</string>
+	<key>criticalRoleOffset</key>
+	<string>asyncViaStyle</string>
+	<key>delegateVisitorStyle</key>
+	<string>coordinatorAlongVar</string>
+	<key>draggableThemeDelay</key>
+	<string>cardWithoutStage</string>
+	<key>resizableBrushAlignment</key>
+	<string>parallelRowValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLayerFlags</key>
+	<string>materialVariableDensity</string>
+	<key>binaryFunctionFlags</key>
+	<string>reducerModeInteraction</string>
+	<key>gridObserverMode</key>
+	<string>checklistPerStrategy</string>
+	<key>groupInParameter</key>
+	<string>vectorObserverIndex</string>
+	<key>inkwellVisitorBound</key>
+	<string>resizableInkwellSaturation</string>
+	<key>paddingShapePressure</key>
+	<string>managerThanSystem</string>
+	<key>semanticGridMomentum</key>
+	<string>activatedRectOrientation</string>
+	<key>zoneVisitorType</key>
+	<string>protectedContainerColor</string>
+</dict>
+</plist>

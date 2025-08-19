@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resizableExpandedBrightness</key>
+	<string>baseMediatorContrast</string>
+	<key>sizeStateTail</key>
+	<string>grainByVisitor</string>
+	<key>sizeWithoutTemple</key>
+	<string>playbackAsComposite</string>
+	<key>subsequentExpandedFeedback</key>
+	<string>usageWithoutStrategy</string>
+</dict>
+</plist>

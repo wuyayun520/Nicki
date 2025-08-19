@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitKindBound</key>
+	<string>roleAdapterBrightness</string>
+	<key>iconOfMemento</key>
+	<string>sliderDuringDecorator</string>
+	<key>notifierOutsideShape</key>
+	<string>serviceLevelVisibility</string>
+	<key>paddingAdapterFrequency</key>
+	<string>lostRowBehavior</string>
+	<key>vectorThanPattern</key>
+	<string>storageBridgeFormat</string>
+</dict>
+</plist>

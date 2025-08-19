@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGridAcceleration</key>
+	<string>offsetModeAppearance</string>
+	<key>dedicatedPrioritySkewy</key>
+	<string>captionByVisitor</string>
+	<key>granularGesturedetectorTension</key>
+	<string>sliderMementoTint</string>
+	<key>specifyAnimationCoord</key>
+	<string>unactivatedSinkPadding</string>
+	<key>threadStrategySpeed</key>
+	<string>oldMetadataFormat</string>
+</dict>
+</plist>

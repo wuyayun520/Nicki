@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAboutStrategy</key>
+	<string>similarStepVisibility</string>
+	<key>grainContextAlignment</key>
+	<string>clipperSystemFeedback</string>
+	<key>layoutInVar</key>
+	<string>storeVersusEnvironment</string>
+	<key>listenerStateFlags</key>
+	<string>activeSegueDistance</string>
+	<key>primaryMenuIndex</key>
+	<string>scaffoldCompositeFormat</string>
+	<key>priorLayoutMargin</key>
+	<string>diffableRadioIndex</string>
+	<key>requiredTernaryDensity</key>
+	<string>scaffoldMementoScale</string>
+	<key>uniqueRemainderDuration</key>
+	<string>touchVersusProcess</string>
+</dict>
+</plist>

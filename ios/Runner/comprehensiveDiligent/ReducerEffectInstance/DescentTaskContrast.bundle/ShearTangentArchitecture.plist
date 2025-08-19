@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobTension</key>
+	<string>cardAndContext</string>
+	<key>bulletNumberSpeed</key>
+	<string>asyncByBuffer</string>
+	<key>cubitTaskEdge</key>
+	<string>promiseUntilVar</string>
+	<key>rectAsTier</key>
+	<string>desktopArithmeticSpacing</string>
+</dict>
+</plist>

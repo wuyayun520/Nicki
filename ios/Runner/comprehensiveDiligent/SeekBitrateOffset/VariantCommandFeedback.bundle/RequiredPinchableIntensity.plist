@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormKind</key>
+	<string>iterativeTaskCoord</string>
+	<key>geometricMetadataBorder</key>
+	<string>gesturedetectorAndActivity</string>
+	<key>pivotalEventTag</key>
+	<string>sceneDecoratorInteraction</string>
+	<key>publicRouteVisibility</key>
+	<string>tensorSpriteForce</string>
+	<key>rapidColumnKind</key>
+	<string>handlerCompositeDelay</string>
+	<key>resourceModeTail</key>
+	<string>commonCosineOpacity</string>
+	<key>topicAtPrototype</key>
+	<string>stepViaFacade</string>
+</dict>
+</plist>

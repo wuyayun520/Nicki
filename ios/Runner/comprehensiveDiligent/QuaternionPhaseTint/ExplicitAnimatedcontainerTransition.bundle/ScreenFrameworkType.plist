@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSpineCenter</key>
+	<string>singleRadioBorder</string>
+	<key>dependencyCommandFlags</key>
+	<string>bitrateVersusStyle</string>
+	<key>fixedHandlerSaturation</key>
+	<string>storeNumberTail</string>
+	<key>greatTickerRate</key>
+	<string>reducerAwayBuffer</string>
+	<key>intermediateModelBehavior</key>
+	<string>lazyCellOpacity</string>
+	<key>resultBesideParameter</key>
+	<string>textDuringVisitor</string>
+	<key>semanticAlphaLeft</key>
+	<string>handlerCycleDirection</string>
+	<key>topicContextMargin</key>
+	<string>synchronousPositionDensity</string>
+</dict>
+</plist>

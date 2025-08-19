@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFrameworkStyle</key>
+	<string>resourceAroundVar</string>
+	<key>capsuleThroughPattern</key>
+	<string>interactiveGroupDepth</string>
+	<key>delegateOutsideSingleton</key>
+	<string>optionTierDensity</string>
+	<key>delicateStampSkewy</key>
+	<string>convolutionValueColor</string>
+	<key>providerProxyType</key>
+	<string>offsetFromLayer</string>
+	<key>retainedCompletionStatus</key>
+	<string>tickerTempleTension</string>
+</dict>
+</plist>

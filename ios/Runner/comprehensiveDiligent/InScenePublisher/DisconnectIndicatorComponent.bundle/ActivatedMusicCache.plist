@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableControllerPosition</key>
+	<string>coordinatorBridgeTag</string>
+	<key>dependencyMethodKind</key>
+	<string>sessionBridgeForce</string>
+	<key>servicePatternTop</key>
+	<string>temporaryReductionAlignment</string>
+	<key>techniqueValueSpacing</key>
+	<string>lastStatelessOffset</string>
+</dict>
+</plist>

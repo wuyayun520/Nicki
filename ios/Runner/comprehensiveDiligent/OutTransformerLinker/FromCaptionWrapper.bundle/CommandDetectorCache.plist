@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProcessSkewy</key>
+	<string>collectionSingletonSkewx</string>
+	<key>easyCaptionDepth</key>
+	<string>sinkAtStyle</string>
+	<key>ignoredFragmentBehavior</key>
+	<string>animatedcontainerVisitorBorder</string>
+	<key>localBinaryEdge</key>
+	<string>tabviewAgainstPhase</string>
+	<key>notifierInsideMethod</key>
+	<string>cupertinoPerStructure</string>
+	<key>permissiveServiceEdge</key>
+	<string>asynchronousVectorSaturation</string>
+	<key>retainedBatchRate</key>
+	<string>singletonAndPrototype</string>
+	<key>sliderAroundDecorator</key>
+	<string>subsequentIndicatorRight</string>
+</dict>
+</plist>

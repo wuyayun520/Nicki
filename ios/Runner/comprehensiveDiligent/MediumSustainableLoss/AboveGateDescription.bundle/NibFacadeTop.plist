@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStateVisibility</key>
+	<string>singlePetVisible</string>
+	<key>coordinatorStateName</key>
+	<string>secondSceneHead</string>
+	<key>cubeScopeBound</key>
+	<string>viewChainContrast</string>
+	<key>drawerNearChain</key>
+	<string>decorationJobOffset</string>
+	<key>methodWithoutPrototype</key>
+	<string>liteFutureFeedback</string>
+	<key>priorDescriptionAlignment</key>
+	<string>assetIncludeLayer</string>
+	<key>subpixelAwayStrategy</key>
+	<string>rectMementoType</string>
+</dict>
+</plist>

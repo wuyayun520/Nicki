@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInDecorator</key>
+	<string>retainedDrawerBorder</string>
+	<key>directlyMovementShape</key>
+	<string>indicatorWithMemento</string>
+	<key>durationOrPrototype</key>
+	<string>keyAnchorPressure</string>
+	<key>nodeLayerAcceleration</key>
+	<string>advancedListenerSpacing</string>
+	<key>precisionThanParameter</key>
+	<string>serviceObserverInset</string>
+	<key>signatureInsideObserver</key>
+	<string>commandDuringCommand</string>
+	<key>sinkPhaseSpeed</key>
+	<string>displayableBoxshadowLeft</string>
+	<key>topicSinceFramework</key>
+	<string>pointParamVisible</string>
+</dict>
+</plist>

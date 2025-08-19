@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationOperationDensity</key>
+	<string>deferredEqualizationCenter</string>
+	<key>displayableMediaqueryBottom</key>
+	<string>robustCacheAppearance</string>
+	<key>giftInterpreterFlags</key>
+	<string>statelessAboutFramework</string>
+	<key>mobileOptimizerTop</key>
+	<string>timerInterpreterBound</string>
+	<key>reducerContextTint</key>
+	<string>asyncFrameworkType</string>
+	<key>segmentCycleHead</key>
+	<string>factoryAroundKind</string>
+	<key>sequentialResponseHead</key>
+	<string>positionedWithAdapter</string>
+	<key>sharedNavigatorForce</key>
+	<string>smartRoleSaturation</string>
+	<key>viewBeyondEnvironment</key>
+	<string>sizeFacadeInterval</string>
+</dict>
+</plist>

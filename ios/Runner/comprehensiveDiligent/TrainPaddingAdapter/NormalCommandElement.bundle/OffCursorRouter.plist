@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAdapterMomentum</key>
+	<string>immutableAccessoryPosition</string>
+	<key>coordinatorIncludeParameter</key>
+	<string>accessorySinceValue</string>
+	<key>dialogsWithoutPrototype</key>
+	<string>scaffoldThroughObserver</string>
+	<key>interfaceWithoutCycle</key>
+	<string>graphLikeStage</string>
+	<key>kernelExceptCommand</key>
+	<string>customThreadSpeed</string>
+	<key>metadataPatternDelay</key>
+	<string>commandFormInteraction</string>
+	<key>navigatorPhaseDuration</key>
+	<string>cupertinoGroupBehavior</string>
+	<key>symmetricWorkflowInterval</key>
+	<string>reductionContainStructure</string>
+	<key>usageForMemento</key>
+	<string>desktopTransformerFlags</string>
+</dict>
+</plist>

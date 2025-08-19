@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAmongStyle</key>
+	<string>columnWithComposite</string>
+	<key>hardSinkTheme</key>
+	<string>vectorForPattern</string>
+	<key>rowVariableMargin</key>
+	<string>cellFromCycle</string>
+	<key>sequentialGridAlignment</key>
+	<string>responsiveMetadataDensity</string>
+</dict>
+</plist>

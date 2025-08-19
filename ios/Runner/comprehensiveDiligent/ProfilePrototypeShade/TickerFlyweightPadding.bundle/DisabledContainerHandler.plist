@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsActivityVisibility</key>
+	<string>commandSinceChain</string>
+	<key>discardedFrameVisibility</key>
+	<string>completerBesideSystem</string>
+	<key>intensityForState</key>
+	<string>customCoordinatorFormat</string>
+	<key>rapidPromiseSkewy</key>
+	<string>tangentSystemRight</string>
+	<key>titleEnvironmentFlags</key>
+	<string>respectiveDrawerSpeed</string>
+</dict>
+</plist>

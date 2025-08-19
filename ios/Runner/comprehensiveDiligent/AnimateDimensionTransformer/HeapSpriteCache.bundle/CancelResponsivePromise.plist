@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localFutureVisibility</key>
+	<string>stepAndPattern</string>
+	<key>offsetExceptSystem</key>
+	<string>streamFrameworkTag</string>
+	<key>prevLayoutScale</key>
+	<string>numericalGraphOrientation</string>
+	<key>skirtDespiteShape</key>
+	<string>visibleNibFeedback</string>
+	<key>staticAllocatorInterval</key>
+	<string>cardAtAdapter</string>
+	<key>synchronousAlignmentStyle</key>
+	<string>subscriptionSinceScope</string>
+	<key>transformerStateBound</key>
+	<string>sineLikeVar</string>
+</dict>
+</plist>

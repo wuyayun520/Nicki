@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewExceptFacade</key>
+	<string>effectOperationHead</string>
+	<key>mediumProviderTransparency</key>
+	<string>navigatorAgainstDecorator</string>
+	<key>pivotalEffectShape</key>
+	<string>completerForScope</string>
+	<key>primaryClipperFormat</key>
+	<string>subscriptionAdapterVisibility</string>
+</dict>
+</plist>

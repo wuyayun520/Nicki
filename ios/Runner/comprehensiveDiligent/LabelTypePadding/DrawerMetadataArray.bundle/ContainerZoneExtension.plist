@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTempleRotation</key>
+	<string>consumerPlatformScale</string>
+	<key>injectionWorkAcceleration</key>
+	<string>interpolationPerParam</string>
+	<key>loopLayerRate</key>
+	<string>allocatorVisitorValidation</string>
+	<key>resizableErrorAppearance</key>
+	<string>currentWidgetStyle</string>
+	<key>sceneOrSystem</key>
+	<string>rowAgainstJob</string>
+	<key>subpixelStateTint</key>
+	<string>disparateServiceBrightness</string>
+	<key>subtleIntegerPressure</key>
+	<string>activityVersusStructure</string>
+	<key>swiftProcessEdge</key>
+	<string>declarativeSubpixelTop</string>
+	<key>tabviewPrototypeIndex</key>
+	<string>resourceKindVisibility</string>
+	<key>viewUntilChain</key>
+	<string>entropyThroughParam</string>
+</dict>
+</plist>

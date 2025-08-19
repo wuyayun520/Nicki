@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameBesidePhase</key>
+	<string>inheritedGraphicOffset</string>
+	<key>invisibleTransformerTint</key>
+	<string>statelessButtonPadding</string>
+	<key>layoutSinceInterpreter</key>
+	<string>richtextPlatformAlignment</string>
+	<key>nextPlateValidation</key>
+	<string>storyboardFromValue</string>
+	<key>providerSystemCount</key>
+	<string>aspectFormRotation</string>
+	<key>providerTempleMargin</key>
+	<string>paddingPatternTop</string>
+	<key>resizableConstraintTension</key>
+	<string>visibleTaskEdge</string>
+	<key>skinTierValidation</key>
+	<string>comprehensiveRepositoryValidation</string>
+</dict>
+</plist>

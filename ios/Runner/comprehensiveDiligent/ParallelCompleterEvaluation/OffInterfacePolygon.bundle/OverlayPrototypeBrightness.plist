@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleActivityTint</key>
+	<string>priorityAndStyle</string>
+	<key>constAlignmentOrientation</key>
+	<string>delegateAroundSystem</string>
+	<key>resultModeTint</key>
+	<string>activityTaskPosition</string>
+	<key>subscriptionTypeOffset</key>
+	<string>inactiveContractionMomentum</string>
+	<key>unsortedNormVelocity</key>
+	<string>frameInsideValue</string>
+</dict>
+</plist>

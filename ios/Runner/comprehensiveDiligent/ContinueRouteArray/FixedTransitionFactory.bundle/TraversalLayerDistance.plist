@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalParticleSaturation</key>
+	<string>normalSegueMode</string>
+	<key>lazyTweenOffset</key>
+	<string>activityPerInterpreter</string>
+	<key>mutableCursorBrightness</key>
+	<string>sliderLevelPressure</string>
+	<key>navigationInSingleton</key>
+	<string>labelAroundState</string>
+	<key>roleAmongCycle</key>
+	<string>projectionSinceVariable</string>
+	<key>scaleAwayScope</key>
+	<string>threadAtLevel</string>
+	<key>tensorSpriteTransparency</key>
+	<string>elasticColumnSpacing</string>
+	<key>uniformAsyncVelocity</key>
+	<string>swiftTempleIndex</string>
+</dict>
+</plist>

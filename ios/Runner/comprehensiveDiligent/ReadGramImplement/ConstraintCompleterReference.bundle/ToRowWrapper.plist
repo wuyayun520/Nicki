@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionTaskPadding</key>
+	<string>similarFrameEdge</string>
+	<key>delegatePerState</key>
+	<string>routerCycleTransparency</string>
+	<key>layoutUntilMethod</key>
+	<string>toolInChain</string>
+	<key>providerUntilShape</key>
+	<string>tensorAlignmentBehavior</string>
+	<key>sessionFormOrigin</key>
+	<string>rapidChapterCount</string>
+	<key>stateObserverMargin</key>
+	<string>awaitAboutParam</string>
+	<key>statelessSubscriptionRate</key>
+	<string>nextActionTransparency</string>
+	<key>transitionAgainstCycle</key>
+	<string>unactivatedSceneState</string>
+</dict>
+</plist>

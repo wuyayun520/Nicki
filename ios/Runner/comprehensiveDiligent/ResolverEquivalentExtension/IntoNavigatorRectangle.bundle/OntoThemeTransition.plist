@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAtVar</key>
+	<string>storyboardAtNumber</string>
+	<key>borderShapeFlags</key>
+	<string>grayscaleJobMargin</string>
+	<key>greatStorageInset</key>
+	<string>positionDuringAction</string>
+	<key>intensityVersusChain</key>
+	<string>cursorIncludeEnvironment</string>
+	<key>notificationScopeContrast</key>
+	<string>checklistCycleVisibility</string>
+	<key>usecaseAmongObserver</key>
+	<string>sinkVersusVisitor</string>
+</dict>
+</plist>

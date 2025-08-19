@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledModalOrientation</key>
+	<string>commandPatternContrast</string>
+	<key>interpolationActionName</key>
+	<string>firstDependencyBehavior</string>
+	<key>rectAgainstNumber</key>
+	<string>viewEnvironmentIndex</string>
+	<key>requiredSizeValidation</key>
+	<string>interactiveCharacterDepth</string>
+	<key>streamNearPhase</key>
+	<string>materialContainerValidation</string>
+</dict>
+</plist>

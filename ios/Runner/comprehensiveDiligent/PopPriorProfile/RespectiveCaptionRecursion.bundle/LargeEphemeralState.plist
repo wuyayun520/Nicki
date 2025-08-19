@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorViaSystem</key>
+	<string>otherInterpolationCenter</string>
+	<key>interactorFormInteraction</key>
+	<string>responsiveAccessoryBound</string>
+	<key>previewWithBridge</key>
+	<string>normFormVisible</string>
+	<key>screenSingletonDepth</key>
+	<string>imageFlyweightDirection</string>
+	<key>titleForDecorator</key>
+	<string>blocBeyondType</string>
+	<key>uniformHandlerIndex</key>
+	<string>descriptionFacadeStatus</string>
+</dict>
+</plist>

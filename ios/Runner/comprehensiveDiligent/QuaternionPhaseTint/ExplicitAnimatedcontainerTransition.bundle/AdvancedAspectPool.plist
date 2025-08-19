@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFromState</key>
+	<string>sliderTypeFeedback</string>
+	<key>columnParamContrast</key>
+	<string>constraintBesideInterpreter</string>
+	<key>multiViewOrigin</key>
+	<string>flexPerType</string>
+	<key>standaloneBoxBorder</key>
+	<string>providerEnvironmentHead</string>
+	<key>tweenBesideVariable</key>
+	<string>animationAroundCommand</string>
+</dict>
+</plist>

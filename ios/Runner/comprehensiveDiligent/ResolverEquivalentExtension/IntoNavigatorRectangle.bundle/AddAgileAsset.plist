@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfigurationInteraction</key>
+	<string>draggableChecklistVelocity</string>
+	<key>curveOutsideFramework</key>
+	<string>promiseAlongCommand</string>
+	<key>keyRouteFormat</key>
+	<string>challengeObserverInteraction</string>
+	<key>pivotalTableSkewy</key>
+	<string>positionedActionFlags</string>
+	<key>subscriptionLevelDirection</key>
+	<string>navigatorFlyweightState</string>
+</dict>
+</plist>

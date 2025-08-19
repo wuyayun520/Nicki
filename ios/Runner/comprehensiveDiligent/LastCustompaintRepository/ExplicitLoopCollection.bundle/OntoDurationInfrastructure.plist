@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableBinaryDensity</key>
+	<string>accordionInjectionShape</string>
+	<key>hardRepositoryFlags</key>
+	<string>advancedRadiusDelay</string>
+	<key>navigatorStyleTint</key>
+	<string>sessionScopeBorder</string>
+	<key>progressbarFromPrototype</key>
+	<string>imperativeCellContrast</string>
+	<key>standaloneInteractorDelay</key>
+	<string>constraintAmongEnvironment</string>
+	<key>sustainableNotifierScale</key>
+	<string>fixedConfigurationForce</string>
+	<key>toolTempleBound</key>
+	<string>respectiveConsumerHue</string>
+	<key>usageExceptProxy</key>
+	<string>pointAsParam</string>
+</dict>
+</plist>

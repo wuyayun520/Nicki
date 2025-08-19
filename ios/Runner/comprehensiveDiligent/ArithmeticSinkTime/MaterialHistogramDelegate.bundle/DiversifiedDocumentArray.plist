@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAtStructure</key>
+	<string>viewExceptMediator</string>
+	<key>channelInsideShape</key>
+	<string>sliderVariableBehavior</string>
+	<key>clipperLayerDistance</key>
+	<string>routeAlongTask</string>
+	<key>layoutValueTransparency</key>
+	<string>allocatorWithoutChain</string>
+	<key>loopOperationMode</key>
+	<string>methodOfAdapter</string>
+	<key>multiplicationActionLeft</key>
+	<string>curveThanVar</string>
+	<key>navigatorSinceFlyweight</key>
+	<string>nodeFromParam</string>
+	<key>sharedCubitIndex</key>
+	<string>secondButtonDelay</string>
+	<key>singleServiceEdge</key>
+	<string>tickerIncludeParam</string>
+	<key>topicThanOperation</key>
+	<string>querySinceAction</string>
+</dict>
+</plist>

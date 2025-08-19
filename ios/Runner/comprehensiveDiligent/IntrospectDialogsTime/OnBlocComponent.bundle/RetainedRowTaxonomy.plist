@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContextType</key>
+	<string>customPreviewLeft</string>
+	<key>builderVariableDuration</key>
+	<string>intermediateHeapSpacing</string>
+	<key>eagerCubeTail</key>
+	<string>scrollableRouterFeedback</string>
+	<key>imageStageTransparency</key>
+	<string>intensityWithoutFlyweight</string>
+	<key>mediaqueryFormTransparency</key>
+	<string>tabviewChainValidation</string>
+	<key>statefulOutsideType</key>
+	<string>routerAndSystem</string>
+</dict>
+</plist>

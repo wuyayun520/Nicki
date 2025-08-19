@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByStrategy</key>
+	<string>anchorDecoratorCoord</string>
+	<key>constraintAndComposite</key>
+	<string>durationWithOperation</string>
+	<key>providerForLevel</key>
+	<string>injectionThanLayer</string>
+	<key>shaderPhaseHue</key>
+	<string>alignmentStyleDensity</string>
+	<key>uniformAnimatedcontainerMomentum</key>
+	<string>stateDecoratorValidation</string>
+	<key>webStreamType</key>
+	<string>rapidNavigatorOpacity</string>
+</dict>
+</plist>

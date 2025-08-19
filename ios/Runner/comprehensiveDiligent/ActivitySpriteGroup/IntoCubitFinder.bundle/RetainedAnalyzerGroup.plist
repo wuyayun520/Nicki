@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVarKind</key>
+	<string>injectionSystemHead</string>
+	<key>cursorBeyondForm</key>
+	<string>actionBeyondCycle</string>
+	<key>dialogsFrameworkCount</key>
+	<string>sensorCommandRotation</string>
+	<key>interfaceFrameworkVelocity</key>
+	<string>requiredCompositionStyle</string>
+	<key>tabbarIncludeOperation</key>
+	<string>batchShapeTail</string>
+	<key>transitionWorkMode</key>
+	<string>columnOfDecorator</string>
+</dict>
+</plist>

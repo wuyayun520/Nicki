@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionChainFormat</key>
+	<string>equipmentInsideInterpreter</string>
+	<key>optionStrategyOpacity</key>
+	<string>hardIntegerOpacity</string>
+	<key>plateByMemento</key>
+	<string>permanentFutureOrientation</string>
+	<key>resolverExceptContext</key>
+	<string>routerWithoutOperation</string>
+	<key>tickerWithMode</key>
+	<string>localScreenLeft</string>
+</dict>
+</plist>

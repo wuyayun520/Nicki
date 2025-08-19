@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredOverlayRate</key>
+	<string>standaloneConfigurationType</string>
+	<key>drawerScopePosition</key>
+	<string>decorationFromFacade</string>
+	<key>effectNearType</key>
+	<string>musicOperationBrightness</string>
+	<key>materialCapsuleSpeed</key>
+	<string>activityFunctionColor</string>
+	<key>mediumTextShape</key>
+	<string>normalRequestShade</string>
+	<key>pinchableConsumerSpeed</key>
+	<string>factoryNearActivity</string>
+	<key>pivotalFeatureBrightness</key>
+	<string>lastDecorationDirection</string>
+	<key>slashThanSingleton</key>
+	<string>storyboardMediatorForce</string>
+</dict>
+</plist>

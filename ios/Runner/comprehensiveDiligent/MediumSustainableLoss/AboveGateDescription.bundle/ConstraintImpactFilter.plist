@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocKindFlags</key>
+	<string>boxAgainstMethod</string>
+	<key>configurationShapeColor</key>
+	<string>fixedCaptionMargin</string>
+	<key>convolutionDecoratorFrequency</key>
+	<string>queryStrategyVisible</string>
+	<key>gesturedetectorLayerTheme</key>
+	<string>mobxParamBehavior</string>
+	<key>lastQueueLeft</key>
+	<string>responsiveFactoryCount</string>
+	<key>opaqueMusicDuration</key>
+	<string>aspectratioDecoratorStyle</string>
+	<key>routeExceptFunction</key>
+	<string>loopExceptBridge</string>
+</dict>
+</plist>

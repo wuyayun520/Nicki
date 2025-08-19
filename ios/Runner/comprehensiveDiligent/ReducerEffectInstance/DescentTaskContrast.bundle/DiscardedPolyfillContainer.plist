@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectMediatorInterval</key>
+	<string>easyErrorRate</string>
+	<key>factoryMethodAlignment</key>
+	<string>layoutSinceComposite</string>
+	<key>graphicAndFacade</key>
+	<string>animationAtAction</string>
+	<key>grayscaleParamSkewy</key>
+	<string>arithmeticStateRate</string>
+	<key>masterPatternLocation</key>
+	<string>transitionBufferHead</string>
+	<key>menuDecoratorBrightness</key>
+	<string>listviewFunctionDuration</string>
+	<key>methodAroundInterpreter</key>
+	<string>missedCacheBottom</string>
+	<key>serviceViaObserver</key>
+	<string>indicatorBufferOrigin</string>
+	<key>subscriptionSingletonCenter</key>
+	<string>accordionBoxshadowInterval</string>
+	<key>topicPlatformSkewx</key>
+	<string>diffableTabbarInteraction</string>
+</dict>
+</plist>

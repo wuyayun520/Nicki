@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferObserverMomentum</key>
+	<string>dependencyWithoutFramework</string>
+	<key>draggableEffectTheme</key>
+	<string>cubeFlyweightCoord</string>
+	<key>flexibleCompleterVisibility</key>
+	<string>storeUntilObserver</string>
+	<key>interfaceAroundTask</key>
+	<string>accordionChartVisible</string>
+	<key>layerValuePressure</key>
+	<string>logFormSaturation</string>
+	<key>singleRoleSkewx</key>
+	<string>progressbarFunctionResponse</string>
+	<key>storageProcessMode</key>
+	<string>liteDrawerHead</string>
+</dict>
+</plist>

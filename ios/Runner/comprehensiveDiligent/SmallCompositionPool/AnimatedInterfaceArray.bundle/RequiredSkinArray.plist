@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonWithScope</key>
+	<string>delegateOfKind</string>
+	<key>groupFlyweightType</key>
+	<string>allocatorBridgeResponse</string>
+	<key>modelExceptVariable</key>
+	<string>retainedTimerSaturation</string>
+	<key>plateSinceType</key>
+	<string>threadSinceBridge</string>
+	<key>serviceFlyweightMode</key>
+	<string>methodAtSystem</string>
+	<key>tabbarDuringForm</key>
+	<string>semanticBaselineInteraction</string>
+</dict>
+</plist>

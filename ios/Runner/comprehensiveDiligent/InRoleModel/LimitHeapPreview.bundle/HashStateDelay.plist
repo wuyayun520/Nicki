@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverStyle</key>
+	<string>singletonChainFeedback</string>
+	<key>columnSinceTemple</key>
+	<string>fusedPositionName</string>
+	<key>commonAnimationLocation</key>
+	<string>entityCommandColor</string>
+	<key>errorOperationVisible</key>
+	<string>operationTypeTheme</string>
+	<key>pinchableGroupRotation</key>
+	<string>pageviewVersusState</string>
+	<key>pivotalWidgetDistance</key>
+	<string>subpixelSingletonPosition</string>
+	<key>progressbarDuringInterpreter</key>
+	<string>curveAsProxy</string>
+	<key>relationalKernelPosition</key>
+	<string>accessoryInEnvironment</string>
+	<key>repositoryInterpreterInteraction</key>
+	<string>loopAgainstStructure</string>
+	<key>rowMementoDelay</key>
+	<string>hyperbolicMenuDepth</string>
+</dict>
+</plist>

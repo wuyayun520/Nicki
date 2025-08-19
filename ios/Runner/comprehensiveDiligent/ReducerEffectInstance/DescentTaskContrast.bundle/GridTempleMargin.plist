@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteChartTheme</key>
+	<string>displayableNavigatorAcceleration</string>
+	<key>ephemeralEffectIndex</key>
+	<string>eventUntilStage</string>
+	<key>equalizationMethodSpeed</key>
+	<string>pivotalCoordinatorTheme</string>
+	<key>greatTaskSize</key>
+	<string>displayableCallbackForce</string>
+	<key>requestStyleColor</key>
+	<string>unactivatedStreamTheme</string>
+	<key>specifyLogarithmTransparency</key>
+	<string>pinchableTangentScale</string>
+	<key>tangentContextLeft</key>
+	<string>missedCallbackStyle</string>
+</dict>
+</plist>

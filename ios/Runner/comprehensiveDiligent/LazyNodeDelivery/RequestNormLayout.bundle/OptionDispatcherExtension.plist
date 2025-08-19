@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabelAppearance</key>
+	<string>offsetEnvironmentTop</string>
+	<key>menuAgainstJob</key>
+	<string>subsequentLoopVisibility</string>
+	<key>sortedCompletionTop</key>
+	<string>tickerMediatorDuration</string>
+	<key>spriteAroundOperation</key>
+	<string>scrollableLabelVelocity</string>
+	<key>storeTierDepth</key>
+	<string>radiusOutsideBuffer</string>
+	<key>typicalMediaShape</key>
+	<string>independentRadioOpacity</string>
+	<key>unaryAtMemento</key>
+	<string>sizeExceptShape</string>
+</dict>
+</plist>

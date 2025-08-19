@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesideLayer</key>
+	<string>providerVisitorTint</string>
+	<key>compositionSystemInterval</key>
+	<string>flexibleOffsetOpacity</string>
+	<key>functionalRouteOrientation</key>
+	<string>documentBeyondProxy</string>
+	<key>gradientOperationBottom</key>
+	<string>flexibleTitleSaturation</string>
+	<key>oldActivityFlags</key>
+	<string>relationalAwaitAppearance</string>
+	<key>particleBridgeStyle</key>
+	<string>durationAdapterOrientation</string>
+	<key>radiusOrScope</key>
+	<string>interactorVersusParameter</string>
+	<key>scenePerParam</key>
+	<string>threadParamRotation</string>
+	<key>standaloneMobileFlags</key>
+	<string>immutableReducerCoord</string>
+</dict>
+</plist>

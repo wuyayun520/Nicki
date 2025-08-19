@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndMemento</key>
+	<string>decorationBeyondStage</string>
+	<key>callbackLevelState</key>
+	<string>webScreenTop</string>
+	<key>imageUntilVariable</key>
+	<string>originalProgressbarInterval</string>
+	<key>nodeVisitorMargin</key>
+	<string>sharedProtocolState</string>
+	<key>radiusLikeStyle</key>
+	<string>navigatorAdapterRotation</string>
+	<key>sequentialPlaybackSkewx</key>
+	<string>statelessWorkName</string>
+	<key>spriteAsEnvironment</key>
+	<string>materialScaffoldIndex</string>
+	<key>variantInFlyweight</key>
+	<string>respectiveImageDuration</string>
+</dict>
+</plist>

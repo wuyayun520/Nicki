@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransformerMomentum</key>
+	<string>hashProcessPadding</string>
+	<key>statelessAwayNumber</key>
+	<string>stateNumberStatus</string>
+	<key>timerAlongSingleton</key>
+	<string>tickerAsTask</string>
+</dict>
+</plist>

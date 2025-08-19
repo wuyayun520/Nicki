@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleVariableSaturation</key>
+	<string>crudeEntityStyle</string>
+	<key>entityOperationSaturation</key>
+	<string>customizedGraphOpacity</string>
+	<key>exceptionFromFacade</key>
+	<string>otherEquipmentTheme</string>
+	<key>inactiveLogTint</key>
+	<string>statelessRectBrightness</string>
+	<key>signFunctionOrientation</key>
+	<string>composableAnchorEdge</string>
+	<key>streamAsEnvironment</key>
+	<string>serviceStructureOffset</string>
+	<key>viewPatternShade</key>
+	<string>heroOutsideLevel</string>
+</dict>
+</plist>

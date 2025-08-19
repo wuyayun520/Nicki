@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeParam</key>
+	<string>graphicNearStructure</string>
+	<key>mediaqueryCommandValidation</key>
+	<string>associatedInterpolationSpacing</string>
+	<key>navigatorChainPressure</key>
+	<string>resizableExceptionBehavior</string>
+	<key>oldCubitCount</key>
+	<string>serviceKindAlignment</string>
+	<key>specifierOutsideStrategy</key>
+	<string>retainedBrushFlags</string>
+</dict>
+</plist>

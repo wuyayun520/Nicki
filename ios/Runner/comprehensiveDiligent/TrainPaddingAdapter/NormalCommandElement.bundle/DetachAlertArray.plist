@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCommandDirection</key>
+	<string>listviewDuringFlyweight</string>
+	<key>durationChainFormat</key>
+	<string>tickerSingletonRotation</string>
+	<key>optionOutsideJob</key>
+	<string>transitionOutsideInterpreter</string>
+	<key>popupAroundObserver</key>
+	<string>sinkInterpreterLeft</string>
+	<key>semanticShaderInteraction</key>
+	<string>usedEventVisible</string>
+</dict>
+</plist>

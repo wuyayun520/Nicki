@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureObserverStyle</key>
+	<string>expandedSinceActivity</string>
+	<key>convolutionVarStyle</key>
+	<string>largeOverlayTheme</string>
+	<key>diversifiedRowRight</key>
+	<string>reactiveFactoryTransparency</string>
+	<key>effectWithoutLayer</key>
+	<string>allocatorBufferKind</string>
+	<key>ignoredApertureColor</key>
+	<string>taskByWork</string>
+	<key>methodStrategyDensity</key>
+	<string>opaqueResponseSaturation</string>
+	<key>prismaticCubitTransparency</key>
+	<string>requestFormOffset</string>
+	<key>screenFormForce</key>
+	<string>singleGridForce</string>
+	<key>switchPhaseRight</key>
+	<string>containerTempleVisibility</string>
+	<key>webSpecifierLeft</key>
+	<string>responsiveStackStyle</string>
+</dict>
+</plist>

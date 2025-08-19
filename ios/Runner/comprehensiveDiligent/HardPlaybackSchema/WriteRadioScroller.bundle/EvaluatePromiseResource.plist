@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRouteDirection</key>
+	<string>sinkThroughMediator</string>
+	<key>consumerAgainstJob</key>
+	<string>referenceVisitorTail</string>
+	<key>desktopLabelResponse</key>
+	<string>mediumTransformerDistance</string>
+	<key>firstFeatureMargin</key>
+	<string>grayscaleFromBridge</string>
+	<key>materialTableType</key>
+	<string>clipperChainFormat</string>
+	<key>navigatorAroundLayer</key>
+	<string>asyncInterpolationIndex</string>
+	<key>responsiveCurveSkewy</key>
+	<string>sinkFrameworkHead</string>
+	<key>viewMementoHue</key>
+	<string>musicBridgeTint</string>
+</dict>
+</plist>

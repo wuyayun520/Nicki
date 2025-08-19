@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCardInteraction</key>
+	<string>vectorSystemFormat</string>
+	<key>borderWithVariable</key>
+	<string>tangentTypeTransparency</string>
+	<key>easyTickerFormat</key>
+	<string>equipmentNearForm</string>
+	<key>futureJobSize</key>
+	<string>robustCubitVisibility</string>
+	<key>gradientInContext</key>
+	<string>asynchronousOperationPressure</string>
+	<key>greatMasterOffset</key>
+	<string>layoutSinceCommand</string>
+	<key>isolateWorkPressure</key>
+	<string>custompaintValueStyle</string>
+	<key>remainderAtSingleton</key>
+	<string>mobileNumberVelocity</string>
+	<key>remainderIncludeCycle</key>
+	<string>graphNumberPadding</string>
+</dict>
+</plist>

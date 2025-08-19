@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVarFrequency</key>
+	<string>uniquePlateStatus</string>
+	<key>customResultTheme</key>
+	<string>sliderAwayCommand</string>
+	<key>interfacePhaseBorder</key>
+	<string>intensityViaInterpreter</string>
+	<key>interpolationByPlatform</key>
+	<string>accessoryPerMemento</string>
+	<key>largeInterfaceDistance</key>
+	<string>standaloneManagerEdge</string>
+	<key>resilientWidgetRotation</key>
+	<string>errorDecoratorTop</string>
+	<key>symmetricIconHead</key>
+	<string>musicProcessTop</string>
+	<key>unactivatedGradientPadding</key>
+	<string>commandParamDistance</string>
+	<key>widgetThroughWork</key>
+	<string>injectionPhaseSkewy</string>
+</dict>
+</plist>

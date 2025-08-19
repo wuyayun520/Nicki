@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAgainstStrategy</key>
+	<string>awaitCycleTop</string>
+	<key>discardedResourceCenter</key>
+	<string>menuFrameworkTint</string>
+	<key>queueParamDistance</key>
+	<string>sineAdapterBrightness</string>
+	<key>rapidLayoutOffset</key>
+	<string>lastPlatePadding</string>
+	<key>routerFunctionTag</key>
+	<string>scaffoldLikeSingleton</string>
+	<key>sinkOrBridge</key>
+	<string>subtleAnimationInteraction</string>
+	<key>usecaseParameterType</key>
+	<string>clipperNumberVisible</string>
+</dict>
+</plist>

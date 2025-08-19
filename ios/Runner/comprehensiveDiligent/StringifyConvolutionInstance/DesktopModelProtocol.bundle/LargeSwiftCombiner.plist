@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerSingletonDistance</key>
+	<string>robustCubitSpeed</string>
+	<key>curveMethodStyle</key>
+	<string>integerContextForce</string>
+	<key>ignoredAxisDepth</key>
+	<string>descriptionEnvironmentVisible</string>
+	<key>nibCompositeVisibility</key>
+	<string>primaryAwaitRight</string>
+	<key>particleSingletonBottom</key>
+	<string>particleFromPrototype</string>
+	<key>textInterpreterDelay</key>
+	<string>associatedControllerDepth</string>
+</dict>
+</plist>

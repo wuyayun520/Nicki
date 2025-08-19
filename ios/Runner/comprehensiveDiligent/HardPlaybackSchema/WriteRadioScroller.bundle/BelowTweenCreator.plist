@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLayerForce</key>
+	<string>binaryAtFlyweight</string>
+	<key>characterNearStyle</key>
+	<string>alignmentFromShape</string>
+	<key>concurrentActionVisible</key>
+	<string>functionalGroupOffset</string>
+	<key>containerCycleDensity</key>
+	<string>iconBesideFramework</string>
+	<key>managerWithOperation</key>
+	<string>batchBridgeTag</string>
+	<key>navigatorLayerColor</key>
+	<string>geometricMobileDelay</string>
+	<key>queueContextInterval</key>
+	<string>declarativeSpriteEdge</string>
+	<key>sliderAtType</key>
+	<string>projectionAboutForm</string>
+	<key>stateVisitorBottom</key>
+	<string>webActionOrientation</string>
+	<key>taskAsFlyweight</key>
+	<string>constraintExceptStyle</string>
+</dict>
+</plist>

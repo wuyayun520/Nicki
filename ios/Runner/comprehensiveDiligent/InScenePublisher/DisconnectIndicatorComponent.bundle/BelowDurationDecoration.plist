@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOperationStyle</key>
+	<string>borderKindDepth</string>
+	<key>directEntityRate</key>
+	<string>priorCatalystTheme</string>
+	<key>iconAroundEnvironment</key>
+	<string>hardScreenDelay</string>
+	<key>localCellFrequency</key>
+	<string>vectorAgainstInterpreter</string>
+	<key>popupSingletonAlignment</key>
+	<string>independentGroupBrightness</string>
+	<key>positionLikeAdapter</key>
+	<string>effectContainParam</string>
+	<key>transitionNumberKind</key>
+	<string>cupertinoQueueKind</string>
+</dict>
+</plist>

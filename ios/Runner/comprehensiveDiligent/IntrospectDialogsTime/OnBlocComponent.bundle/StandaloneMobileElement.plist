@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetNumberShade</key>
+	<string>blocAtVariable</string>
+	<key>backwardConstraintLocation</key>
+	<string>gridviewAtStyle</string>
+	<key>boxTypeFrequency</key>
+	<string>modalContextDepth</string>
+	<key>brushWithStyle</key>
+	<string>liteMemberAlignment</string>
+	<key>chapterOperationTop</key>
+	<string>dynamicMethodRate</string>
+	<key>descriptionActivityLeft</key>
+	<string>layoutEnvironmentFeedback</string>
+	<key>metadataAgainstState</key>
+	<string>staticConfigurationTail</string>
+	<key>previewFrameworkFeedback</key>
+	<string>asynchronousCollectionVisible</string>
+	<key>requiredScreenSize</key>
+	<string>mutableRadiusInterval</string>
+</dict>
+</plist>

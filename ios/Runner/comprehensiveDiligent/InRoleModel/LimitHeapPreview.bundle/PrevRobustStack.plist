@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalLayoutType</key>
+	<string>symmetricExtensionTransparency</string>
+	<key>criticalMovementInset</key>
+	<string>delegateWithPhase</string>
+	<key>explicitFlexStyle</key>
+	<string>concurrentTopicAppearance</string>
+	<key>seamlessStoreScale</key>
+	<string>cardThroughContext</string>
+</dict>
+</plist>

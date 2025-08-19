@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAppbarName</key>
+	<string>vectorDecoratorTheme</string>
+	<key>cardAroundStrategy</key>
+	<string>graphStructureState</string>
+	<key>completerContainType</key>
+	<string>gestureNearStrategy</string>
+	<key>immediateMusicBrightness</key>
+	<string>asyncPreviewBehavior</string>
+	<key>menuInsideScope</key>
+	<string>logTaskDensity</string>
+	<key>otherAnimationMomentum</key>
+	<string>frameValueOffset</string>
+	<key>resizableStackDuration</key>
+	<string>remainderSinceMode</string>
+</dict>
+</plist>

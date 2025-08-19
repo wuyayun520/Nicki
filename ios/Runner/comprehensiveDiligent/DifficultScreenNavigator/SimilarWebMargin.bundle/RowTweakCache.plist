@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMasterTransparency</key>
+	<string>tweenAtType</string>
+	<key>animationVariableVelocity</key>
+	<string>tabbarPerScope</string>
+	<key>entityNumberMargin</key>
+	<string>denseLabelColor</string>
+	<key>logParamRight</key>
+	<string>listenerExceptObserver</string>
+	<key>notifierTaskVisibility</key>
+	<string>navigationValueEdge</string>
+	<key>tensorSceneHue</key>
+	<string>loopAmongActivity</string>
+	<key>touchBeyondInterpreter</key>
+	<string>futureBesideState</string>
+	<key>transformerModeState</key>
+	<string>descriptorIncludeScope</string>
+	<key>unactivatedCosineStyle</key>
+	<string>apertureWorkTail</string>
+</dict>
+</plist>

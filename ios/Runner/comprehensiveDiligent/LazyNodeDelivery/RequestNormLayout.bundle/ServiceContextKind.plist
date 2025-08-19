@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonChainContrast</key>
+	<string>localizationProcessBottom</string>
+	<key>elasticHeroHead</key>
+	<string>ternaryActionFlags</string>
+	<key>observerAsParam</key>
+	<string>indicatorModeTint</string>
+	<key>observerOrStyle</key>
+	<string>explicitReductionHead</string>
+	<key>subtleRadiusState</key>
+	<string>concreteStateFeedback</string>
+	<key>textBesideTask</key>
+	<string>compositionBesideValue</string>
+	<key>tickerPerTier</key>
+	<string>persistentScreenState</string>
+</dict>
+</plist>

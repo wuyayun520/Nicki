@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAllocatorSkewy</key>
+	<string>gesturedetectorAsCommand</string>
+	<key>builderBridgeEdge</key>
+	<string>checkboxPrototypeForce</string>
+	<key>featureOutsideStage</key>
+	<string>singleRowTail</string>
+	<key>mediumStackName</key>
+	<string>normAboutParam</string>
+</dict>
+</plist>

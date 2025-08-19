@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerInteractorSpeed</key>
+	<string>mobileOperationValidation</string>
+	<key>configurationPlatformRight</key>
+	<string>activeListviewTag</string>
+	<key>layoutPatternTransparency</key>
+	<string>boxAboutParam</string>
+	<key>persistentStampTop</key>
+	<string>observerDuringMode</string>
+	<key>sampleCommandOrigin</key>
+	<string>reducerTypeBottom</string>
+	<key>stampByStage</key>
+	<string>sequentialCycleTension</string>
+</dict>
+</plist>

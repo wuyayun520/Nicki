@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGridviewRight</key>
+	<string>indicatorScopeTail</string>
+	<key>chapterCompositeFormat</key>
+	<string>callbackLevelKind</string>
+	<key>deferredGradientEdge</key>
+	<string>mutableTickerShape</string>
+	<key>desktopQueueType</key>
+	<string>assetFlyweightValidation</string>
+	<key>firstSwitchForce</key>
+	<string>basicPromiseBorder</string>
+	<key>indicatorWithPrototype</key>
+	<string>threadContextAppearance</string>
+</dict>
+</plist>

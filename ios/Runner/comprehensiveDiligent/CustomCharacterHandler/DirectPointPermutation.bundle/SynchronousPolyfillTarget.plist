@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContextTheme</key>
+	<string>ephemeralTabviewName</string>
+	<key>boxshadowBesideMediator</key>
+	<string>modalShapeName</string>
+	<key>delegateWithoutJob</key>
+	<string>textfieldAwayWork</string>
+	<key>missedFrameStatus</key>
+	<string>liteNodeAppearance</string>
+	<key>mobileThroughValue</key>
+	<string>awaitUntilObserver</string>
+	<key>radiusSingletonVisible</key>
+	<string>semanticsAndActivity</string>
+	<key>seamlessChannelsLeft</key>
+	<string>cupertinoDecorationVisibility</string>
+	<key>synchronousBatchVisible</key>
+	<string>secondSineSpeed</string>
+</dict>
+</plist>

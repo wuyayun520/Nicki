@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCollectionFeedback</key>
+	<string>materialScaleInterval</string>
+	<key>dimensionFormPressure</key>
+	<string>eventOperationTransparency</string>
+	<key>factoryMementoRotation</key>
+	<string>transitionFrameworkBehavior</string>
+	<key>missionTaskState</key>
+	<string>aspectStructureHue</string>
+	<key>presenterActivityOrientation</key>
+	<string>functionalSineAppearance</string>
+	<key>previewShapeForce</key>
+	<string>diffableGestureSkewx</string>
+	<key>sliderOperationSkewy</key>
+	<string>convolutionAgainstBuffer</string>
+	<key>transitionObserverDuration</key>
+	<string>requestOutsideMediator</string>
+</dict>
+</plist>

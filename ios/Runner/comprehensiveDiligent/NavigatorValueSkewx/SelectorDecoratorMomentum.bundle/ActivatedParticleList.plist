@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMethodShape</key>
+	<string>constraintShapeValidation</string>
+	<key>chapterNumberShape</key>
+	<string>equipmentWorkValidation</string>
+	<key>containerInsideWork</key>
+	<string>projectKindCenter</string>
+	<key>customTextfieldPosition</key>
+	<string>fragmentModeRotation</string>
+	<key>injectionAsMode</key>
+	<string>deferredSwiftOrientation</string>
+	<key>persistentCellName</key>
+	<string>activityFacadeMode</string>
+	<key>projectionDuringStyle</key>
+	<string>buttonDuringPattern</string>
+	<key>rowFromBuffer</key>
+	<string>cupertinoTweenTension</string>
+	<key>spriteEnvironmentFeedback</key>
+	<string>lostCanvasFormat</string>
+	<key>timerBesideActivity</key>
+	<string>storageFacadeFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithStyle</key>
+	<string>slashObserverInset</string>
+	<key>groupCompositeHue</key>
+	<string>entityAtFramework</string>
+	<key>modelInsideStrategy</key>
+	<string>constraintJobTheme</string>
+	<key>parallelCompleterCount</key>
+	<string>appbarTierInteraction</string>
+	<key>rapidStorageCount</key>
+	<string>injectionCycleFrequency</string>
+	<key>semanticPetSpeed</key>
+	<string>directDelegateSpacing</string>
+</dict>
+</plist>

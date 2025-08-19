@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAlongStyle</key>
+	<string>flexStrategyBrightness</string>
+	<key>errorVisitorShape</key>
+	<string>storyboardAtComposite</string>
+	<key>nextRowDelay</key>
+	<string>nodeThroughMemento</string>
+	<key>resolverOfProcess</key>
+	<string>sinkOfPhase</string>
+	<key>retainedSliderAppearance</key>
+	<string>stepThroughScope</string>
+	<key>textureValueAppearance</key>
+	<string>uniformRiverpodPressure</string>
+	<key>usecaseParamHue</key>
+	<string>delegateSingletonSaturation</string>
+	<key>vectorAsTier</key>
+	<string>listviewObserverHue</string>
+</dict>
+</plist>

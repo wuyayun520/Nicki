@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVarBound</key>
+	<string>seamlessTextState</string>
+	<key>commonGemHue</key>
+	<string>mobileActionSaturation</string>
+	<key>difficultGroupDelay</key>
+	<string>pageviewPatternDensity</string>
+	<key>durationAboutBridge</key>
+	<string>sceneStylePadding</string>
+	<key>hashAlongBuffer</key>
+	<string>serviceAsParameter</string>
+	<key>rowValueState</key>
+	<string>variantFunctionShape</string>
+	<key>singletonStageTop</key>
+	<string>publicSliderBound</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintByAction</key>
+	<string>requestStructureAcceleration</string>
+	<key>customStorageTail</key>
+	<string>scrollableStorageMode</string>
+	<key>dependencyDespiteParameter</key>
+	<string>listenerForPlatform</string>
+	<key>equalizationLikeCycle</key>
+	<string>synchronousCaptionVisible</string>
+	<key>interfaceAlongVisitor</key>
+	<string>appbarVariableAppearance</string>
+	<key>interfaceMementoTop</key>
+	<string>previewValueVisibility</string>
+	<key>methodFromProxy</key>
+	<string>multiTaskIndex</string>
+	<key>missionContainAdapter</key>
+	<string>containerActionStyle</string>
+	<key>routeBeyondFramework</key>
+	<string>batchOrTier</string>
+	<key>tangentPrototypeDuration</key>
+	<string>pivotalSpotHead</string>
+</dict>
+</plist>

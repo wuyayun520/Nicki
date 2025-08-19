@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDuringScope</key>
+	<string>symbolFromAction</string>
+	<key>entropyInWork</key>
+	<string>gestureWithoutShape</string>
+	<key>largeArithmeticTransparency</key>
+	<string>loopCompositeBorder</string>
+	<key>navigatorStateVelocity</key>
+	<string>baselineBridgeMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionInFlyweight</key>
+	<string>mediumViewFrequency</string>
+	<key>effectThroughState</key>
+	<string>beginnerButtonStyle</string>
+	<key>explicitIntegerTheme</key>
+	<string>lostTableSize</string>
+	<key>frameViaChain</key>
+	<string>graphicAdapterOpacity</string>
+	<key>independentChannelIndex</key>
+	<string>mobxVersusStructure</string>
+</dict>
+</plist>

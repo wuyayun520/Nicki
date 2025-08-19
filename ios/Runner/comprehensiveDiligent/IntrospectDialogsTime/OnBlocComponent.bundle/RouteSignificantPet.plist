@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorEnvironmentBrightness</key>
+	<string>skinPhaseDirection</string>
+	<key>clipperCycleAcceleration</key>
+	<string>momentumBridgeFeedback</string>
+	<key>imperativeFeatureOffset</key>
+	<string>associatedTransitionRate</string>
+	<key>inkwellInsideChain</key>
+	<string>sustainableCompleterMargin</string>
+	<key>layoutOrBridge</key>
+	<string>capacitiesWorkFeedback</string>
+	<key>textureLevelSkewy</key>
+	<string>coordinatorVariableName</string>
+</dict>
+</plist>

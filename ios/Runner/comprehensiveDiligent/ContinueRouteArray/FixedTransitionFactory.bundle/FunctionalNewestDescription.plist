@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverShade</key>
+	<string>mediocreLayoutBottom</string>
+	<key>disparateOptimizerBehavior</key>
+	<string>chapterTaskDuration</string>
+	<key>graphInterpreterTint</key>
+	<string>semanticPaddingValidation</string>
+	<key>interactiveAssetSaturation</key>
+	<string>appbarSystemFrequency</string>
+	<key>permanentSampleSize</key>
+	<string>responseStrategyTop</string>
+	<key>semanticUtilTheme</key>
+	<string>chartStyleEdge</string>
+	<key>usedEventLocation</key>
+	<string>textfieldSingletonMargin</string>
+</dict>
+</plist>

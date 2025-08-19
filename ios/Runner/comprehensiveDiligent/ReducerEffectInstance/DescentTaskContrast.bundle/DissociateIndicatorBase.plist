@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAndContext</key>
+	<string>queueContextDuration</string>
+	<key>injectionFromStructure</key>
+	<string>viewStageSkewx</string>
+	<key>localTaskScale</key>
+	<string>builderShapeCoord</string>
+	<key>masterExceptPattern</key>
+	<string>capsuleStrategyTag</string>
+	<key>materialPlatformVelocity</key>
+	<string>modelAdapterSize</string>
+	<key>notificationModeResponse</key>
+	<string>custompaintStyleVelocity</string>
+	<key>reactiveResolverTension</key>
+	<string>intensityAsActivity</string>
+	<key>rowDespiteShape</key>
+	<string>advancedRiverpodType</string>
+	<key>streamStyleTag</key>
+	<string>accessoryDecoratorFlags</string>
+</dict>
+</plist>

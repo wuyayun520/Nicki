@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyBridgeMode</key>
+	<string>equipmentInTier</string>
+	<key>elasticAspectRight</key>
+	<string>modelBesideAction</string>
+	<key>ephemeralMarginMode</key>
+	<string>reactiveCommandDepth</string>
+	<key>futureVersusPrototype</key>
+	<string>appbarAroundStrategy</string>
+	<key>independentPromisePosition</key>
+	<string>providerActivityTint</string>
+	<key>managerAwayType</key>
+	<string>effectParameterBehavior</string>
+	<key>presenterPatternAcceleration</key>
+	<string>momentumAboutObserver</string>
+	<key>resourceAmongVariable</key>
+	<string>robustCollectionVelocity</string>
+	<key>unactivatedRepositoryMomentum</key>
+	<string>flexibleMemberDuration</string>
+</dict>
+</plist>

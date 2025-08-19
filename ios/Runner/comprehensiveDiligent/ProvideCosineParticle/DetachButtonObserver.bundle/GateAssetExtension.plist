@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionFunctionDelay</key>
+	<string>blocVariableHead</string>
+	<key>intensityJobType</key>
+	<string>diffablePlatePosition</string>
+	<key>interfaceTaskAlignment</key>
+	<string>repositoryPlatformRotation</string>
+	<key>navigatorChainVelocity</key>
+	<string>mobileProgressbarFormat</string>
+	<key>numericalServiceTop</key>
+	<string>intensityExceptPrototype</string>
+	<key>smartSineSkewy</key>
+	<string>modelModeState</string>
+	<key>spriteAroundNumber</key>
+	<string>accessibleGrainScale</string>
+	<key>tickerFlyweightType</key>
+	<string>accessoryViaBuffer</string>
+	<key>viewAwayPhase</key>
+	<string>animationShapeBehavior</string>
+</dict>
+</plist>

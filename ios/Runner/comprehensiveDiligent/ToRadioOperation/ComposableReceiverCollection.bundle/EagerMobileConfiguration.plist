@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobileAppearance</key>
+	<string>cubeInsideCommand</string>
+	<key>constraintStrategyTint</key>
+	<string>indicatorObserverBrightness</string>
+	<key>dimensionCompositeDuration</key>
+	<string>dynamicBulletDuration</string>
+	<key>effectUntilComposite</key>
+	<string>transitionAroundStrategy</string>
+	<key>popupContainEnvironment</key>
+	<string>textFacadeState</string>
+	<key>resourceSinceSingleton</key>
+	<string>activityPlatformShape</string>
+	<key>serviceStyleStatus</key>
+	<string>threadSinceLayer</string>
+	<key>serviceWithoutChain</key>
+	<string>signKindBottom</string>
+	<key>sinkUntilMode</key>
+	<string>handlerInsideTask</string>
+	<key>subsequentCommandFrequency</key>
+	<string>reusableStorageRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainTop</key>
+	<string>parallelCursorSize</string>
+	<key>asynchronousSubscriptionSkewy</key>
+	<string>tappableCommandSaturation</string>
+	<key>channelLayerResponse</key>
+	<string>extensionValueShade</string>
+	<key>custompaintBufferCount</key>
+	<string>constraintPhaseValidation</string>
+	<key>displayableIntensityColor</key>
+	<string>typicalRouteName</string>
+	<key>elasticRepositoryDistance</key>
+	<string>featureMementoTint</string>
+	<key>errorTempleAcceleration</key>
+	<string>explicitInterfaceStyle</string>
+</dict>
+</plist>

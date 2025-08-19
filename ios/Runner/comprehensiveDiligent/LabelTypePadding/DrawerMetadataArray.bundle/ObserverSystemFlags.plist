@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushByJob</key>
+	<string>commandBesideJob</string>
+	<key>columnVarAppearance</key>
+	<string>delegateEnvironmentKind</string>
+	<key>commonCoordinatorBound</key>
+	<string>composableFutureFlags</string>
+	<key>constraintExceptParam</key>
+	<string>prevPlaybackVelocity</string>
+	<key>constraintWithActivity</key>
+	<string>arithmeticAsMediator</string>
+	<key>featureFromCommand</key>
+	<string>entityForBridge</string>
+	<key>oldRowOrientation</key>
+	<string>sinkScopeDuration</string>
+	<key>requestTaskDelay</key>
+	<string>characterBesideTier</string>
+	<key>swiftExceptVar</key>
+	<string>resilientMenuBehavior</string>
+</dict>
+</plist>

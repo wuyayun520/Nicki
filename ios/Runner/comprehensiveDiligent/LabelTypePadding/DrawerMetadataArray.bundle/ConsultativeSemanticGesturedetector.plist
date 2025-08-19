@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAboutVar</key>
+	<string>firstUsecaseTail</string>
+	<key>grainPrototypeOpacity</key>
+	<string>gramStateColor</string>
+	<key>gridviewFlyweightFeedback</key>
+	<string>customCurvePosition</string>
+	<key>logUntilParam</key>
+	<string>materialSceneValidation</string>
+	<key>reductionMediatorFrequency</key>
+	<string>scaffoldContainState</string>
+	<key>segueProcessSpacing</key>
+	<string>gridVersusScope</string>
+	<key>smallResponsePressure</key>
+	<string>nextTweenFlags</string>
+</dict>
+</plist>

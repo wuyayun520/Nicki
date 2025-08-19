@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOperationDepth</key>
+	<string>tickerFormVisibility</string>
+	<key>binaryStateInteraction</key>
+	<string>usedNodeLocation</string>
+	<key>captionAtMode</key>
+	<string>tabbarActivityInterval</string>
+	<key>commonCatalystSaturation</key>
+	<string>allocatorAdapterOffset</string>
+	<key>projectPatternAppearance</key>
+	<string>diffableContainerOrientation</string>
+	<key>stateWithoutVariable</key>
+	<string>eventFormHead</string>
+	<key>storyboardOutsideComposite</key>
+	<string>iterativeMusicContrast</string>
+</dict>
+</plist>

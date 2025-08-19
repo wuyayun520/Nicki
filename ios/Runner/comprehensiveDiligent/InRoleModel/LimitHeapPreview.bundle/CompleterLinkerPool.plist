@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerModeInterval</key>
+	<string>vectorPlatformDensity</string>
+	<key>interfaceContextValidation</key>
+	<string>webTransitionBound</string>
+	<key>nibLayerSize</key>
+	<string>awaitMementoFlags</string>
+	<key>opaqueMetadataRight</key>
+	<string>tweenContainSingleton</string>
+	<key>statelessViaPattern</key>
+	<string>effectOperationPressure</string>
+	<key>swiftPerVisitor</key>
+	<string>allocatorPlatformOrientation</string>
+	<key>symmetricConfigurationKind</key>
+	<string>originalResourceBehavior</string>
+	<key>taskWorkCoord</key>
+	<string>popupAmongLevel</string>
+	<key>uniqueProtocolShape</key>
+	<string>listenerOutsideParam</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheIncludePrototype</key>
+	<string>resilientStoreBottom</string>
+	<key>disabledQueryTheme</key>
+	<string>isolateThroughStyle</string>
+	<key>hardScreenSpacing</key>
+	<string>sineWithoutForm</string>
+	<key>labelAlongMemento</key>
+	<string>scrollableTangentDirection</string>
+	<key>resolverForLevel</key>
+	<string>ternaryByFlyweight</string>
+	<key>secondCommandStyle</key>
+	<string>listviewTempleEdge</string>
+	<key>serviceInterpreterFeedback</key>
+	<string>rowAndBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateStorageMode</key>
+	<string>groupByChain</string>
+	<key>iconFromAdapter</key>
+	<string>promiseAsTask</string>
+	<key>projectPrototypeFeedback</key>
+	<string>assetMementoSize</string>
+	<key>publicSliderMode</key>
+	<string>progressbarViaVar</string>
+	<key>sequentialBlocDepth</key>
+	<string>cupertinoCommandInterval</string>
+	<key>sustainableCompleterHue</key>
+	<string>marginVersusPrototype</string>
+</dict>
+</plist>

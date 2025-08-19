@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMediatorInset</key>
+	<string>temporaryAllocatorPosition</string>
+	<key>inactiveGramDelay</key>
+	<string>batchWithMode</string>
+	<key>lostFutureInteraction</key>
+	<string>aspectratioContainParam</string>
+	<key>mediumTimerPosition</key>
+	<string>coordinatorSinceActivity</string>
+	<key>scaleTierDistance</key>
+	<string>parallelPopupDirection</string>
+	<key>storeDecoratorTheme</key>
+	<string>retainedAspectInteraction</string>
+	<key>streamStrategyVelocity</key>
+	<string>sequentialTaskTop</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGridForce</key>
+	<string>gridActivityIndex</string>
+	<key>allocatorMementoForce</key>
+	<string>stampVarTint</string>
+	<key>completionAndComposite</key>
+	<string>finalConstraintLeft</string>
+	<key>cubePatternCenter</key>
+	<string>routerParameterVisible</string>
+	<key>precisionPhaseTag</key>
+	<string>touchAdapterDensity</string>
+	<key>reductionAgainstDecorator</key>
+	<string>textBesideScope</string>
+	<key>requestFacadeColor</key>
+	<string>pivotalServiceBound</string>
+	<key>segueJobOrientation</key>
+	<string>persistentBlocInset</string>
+	<key>storageCompositeMargin</key>
+	<string>cacheDuringStructure</string>
+	<key>tableAdapterMargin</key>
+	<string>resolverFromVariable</string>
+</dict>
+</plist>

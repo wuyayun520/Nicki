@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameSinceFlyweight</key>
+	<string>lastSegueState</string>
+	<key>lazyAllocatorBottom</key>
+	<string>independentProtocolSaturation</string>
+	<key>musicCompositeStyle</key>
+	<string>compositionMediatorSaturation</string>
+	<key>navigationBesideObserver</key>
+	<string>controllerVarInteraction</string>
+	<key>routerAmongProxy</key>
+	<string>cursorAroundState</string>
+</dict>
+</plist>

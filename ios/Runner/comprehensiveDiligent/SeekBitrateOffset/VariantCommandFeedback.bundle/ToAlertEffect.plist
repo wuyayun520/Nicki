@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesStageVisible</key>
+	<string>typicalRouterSkewy</string>
+	<key>dimensionNearVariable</key>
+	<string>publicScaleSize</string>
+	<key>flexibleModelShape</key>
+	<string>normalBorderEdge</string>
+	<key>geometricLoopSpeed</key>
+	<string>assetEnvironmentBehavior</string>
+	<key>originalInjectionVisibility</key>
+	<string>uniformInstructionForce</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerMethodStatus</key>
+	<string>lastEventFormat</string>
+	<key>desktopStreamFeedback</key>
+	<string>observerFromNumber</string>
+	<key>interpolationCommandSaturation</key>
+	<string>backwardTitleInteraction</string>
+	<key>plateInsideComposite</key>
+	<string>metadataKindAppearance</string>
+	<key>semanticEqualizationRotation</key>
+	<string>sceneActivityStyle</string>
+	<key>texturePrototypePosition</key>
+	<string>spineExceptStyle</string>
+</dict>
+</plist>

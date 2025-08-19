@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAppbarFeedback</key>
+	<string>builderAtShape</string>
+	<key>descriptionStyleMode</key>
+	<string>statelessExceptSystem</string>
+	<key>listenerStyleFeedback</key>
+	<string>factoryAboutMode</string>
+	<key>lostThreadMode</key>
+	<string>binaryWithoutFlyweight</string>
+	<key>previewProcessPressure</key>
+	<string>titleKindCount</string>
+	<key>semanticPlateTail</key>
+	<string>storyboardBesideStructure</string>
+	<key>serviceInLevel</key>
+	<string>firstAsyncVisibility</string>
+	<key>stateBridgeSaturation</key>
+	<string>commandIncludeMode</string>
+</dict>
+</plist>

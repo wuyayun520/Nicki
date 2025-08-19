@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBaselineDuration</key>
+	<string>compositionFromEnvironment</string>
+	<key>contractionParameterOffset</key>
+	<string>reactiveUtilSkewy</string>
+	<key>disabledMatrixScale</key>
+	<string>utilAdapterInteraction</string>
+	<key>entropyEnvironmentSkewy</key>
+	<string>uniqueScrollPadding</string>
+	<key>interactiveMethodKind</key>
+	<string>responsiveManagerDuration</string>
+	<key>parallelLabelAcceleration</key>
+	<string>transitionAsVariable</string>
+	<key>respectiveMenuTag</key>
+	<string>geometricAsyncState</string>
+	<key>skinProcessSize</key>
+	<string>sampleScopeRate</string>
+	<key>staticChartTheme</key>
+	<string>builderSinceObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCommandTheme</key>
+	<string>advancedSizeTint</string>
+	<key>chapterOutsideSingleton</key>
+	<string>builderFromLayer</string>
+	<key>flexInsideFramework</key>
+	<string>cubeModeSize</string>
+	<key>globalOperationStyle</key>
+	<string>radiusActivityOpacity</string>
+	<key>grainAgainstCommand</key>
+	<string>captionModeRotation</string>
+	<key>immutableAnchorType</key>
+	<string>prismaticWidgetInteraction</string>
+	<key>remainderFlyweightBound</key>
+	<string>sequentialMatrixSkewx</string>
+	<key>resizableSensorDirection</key>
+	<string>groupAroundPhase</string>
+	<key>unsortedCubitSkewx</key>
+	<string>routeStateOrientation</string>
+</dict>
+</plist>

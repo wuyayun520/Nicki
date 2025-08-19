@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentViaObserver</key>
+	<string>singletonWithStyle</string>
+	<key>bufferPatternTint</key>
+	<string>titleCommandTail</string>
+	<key>desktopSceneVisibility</key>
+	<string>synchronousViewType</string>
+	<key>dimensionProxyState</key>
+	<string>bufferAsInterpreter</string>
+	<key>reactiveDialogsLocation</key>
+	<string>crudeAnimatedcontainerVelocity</string>
+	<key>reactiveGridviewRight</key>
+	<string>rowTierStatus</string>
+	<key>sceneDecoratorForce</key>
+	<string>entitySinceChain</string>
+	<key>taskStructureSkewy</key>
+	<string>pointStageFormat</string>
+</dict>
+</plist>

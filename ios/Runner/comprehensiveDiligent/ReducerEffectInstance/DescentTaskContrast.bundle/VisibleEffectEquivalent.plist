@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModePressure</key>
+	<string>tappableRadiusVelocity</string>
+	<key>assetActivitySpacing</key>
+	<string>radiusThanWork</string>
+	<key>commandOutsideStage</key>
+	<string>smartChecklistAlignment</string>
+	<key>eventPatternOrigin</key>
+	<string>positionPlatformScale</string>
+	<key>graphOrTemple</key>
+	<string>pageviewTempleTag</string>
+	<key>parallelTaskPadding</key>
+	<string>usageExceptActivity</string>
+</dict>
+</plist>

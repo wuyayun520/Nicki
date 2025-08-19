@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyVariableShape</key>
+	<string>subpixelAndBridge</string>
+	<key>semanticsAdapterFeedback</key>
+	<string>unaryModeDensity</string>
+	<key>skirtCommandContrast</key>
+	<string>titlePerStyle</string>
+	<key>subsequentMarginStyle</key>
+	<string>containerProxyDistance</string>
+</dict>
+</plist>

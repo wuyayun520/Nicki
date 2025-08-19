@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTempleTag</key>
+	<string>sinkByLevel</string>
+	<key>directlyLayerKind</key>
+	<string>promiseVarSaturation</string>
+	<key>ternaryStageBehavior</key>
+	<string>sortedCheckboxScale</string>
+	<key>webWidgetTransparency</key>
+	<string>streamLikeVar</string>
+</dict>
+</plist>

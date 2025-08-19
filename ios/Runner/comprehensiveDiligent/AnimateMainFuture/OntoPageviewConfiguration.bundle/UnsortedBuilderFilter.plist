@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTierState</key>
+	<string>interactorAgainstBuffer</string>
+	<key>currentGrainSize</key>
+	<string>callbackAgainstCycle</string>
+	<key>independentContainerResponse</key>
+	<string>gemWithoutFramework</string>
+	<key>interactorWithLevel</key>
+	<string>tweenAndFlyweight</string>
+	<key>notificationFromKind</key>
+	<string>decorationActionName</string>
+	<key>retainedMatrixFrequency</key>
+	<string>isolateByParameter</string>
+	<key>statelessByFramework</key>
+	<string>blocProxyValidation</string>
+	<key>temporaryNotifierHead</key>
+	<string>cycleOperationName</string>
+	<key>widgetForFunction</key>
+	<string>configurationExceptMethod</string>
+</dict>
+</plist>

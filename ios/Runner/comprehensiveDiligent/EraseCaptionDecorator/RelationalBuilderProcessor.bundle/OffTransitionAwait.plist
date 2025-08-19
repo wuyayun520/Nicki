@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStepAlignment</key>
+	<string>robustAnimationScale</string>
+	<key>backwardContractionBehavior</key>
+	<string>movementVariableDistance</string>
+	<key>customizedMethodCount</key>
+	<string>reusableEqualizationType</string>
+	<key>gridEnvironmentInterval</key>
+	<string>sequentialSinePosition</string>
+	<key>immutablePainterRight</key>
+	<string>pageviewSystemOffset</string>
+	<key>requestCycleTransparency</key>
+	<string>iconAroundSingleton</string>
+	<key>reusableDialogsInset</key>
+	<string>desktopStorePressure</string>
+	<key>tabbarPrototypeOffset</key>
+	<string>vectorContainLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMetadataSpeed</key>
+	<string>frameStyleOrigin</string>
+	<key>elasticProfileBrightness</key>
+	<string>storageThroughStyle</string>
+	<key>fusedBufferDistance</key>
+	<string>webScreenFeedback</string>
+	<key>parallelQueryRate</key>
+	<string>featureLevelRate</string>
+	<key>resultViaParam</key>
+	<string>modalInsideInterpreter</string>
+	<key>scaleAmongVar</key>
+	<string>workflowStructureDelay</string>
+	<key>singleRadiusRate</key>
+	<string>grayscaleFrameworkDirection</string>
+</dict>
+</plist>

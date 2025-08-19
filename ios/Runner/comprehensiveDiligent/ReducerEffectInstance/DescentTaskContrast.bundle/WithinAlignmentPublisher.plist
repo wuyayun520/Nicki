@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInterpreterTag</key>
+	<string>paddingCycleSkewx</string>
+	<key>errorPerSingleton</key>
+	<string>paddingBesideVariable</string>
+	<key>notifierVarIndex</key>
+	<string>resilientRadiusSize</string>
+	<key>spotSinceOperation</key>
+	<string>nodeStateForce</string>
+</dict>
+</plist>

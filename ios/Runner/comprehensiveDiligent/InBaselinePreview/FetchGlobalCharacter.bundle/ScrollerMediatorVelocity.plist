@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowThanTask</key>
+	<string>allocatorAroundTask</string>
+	<key>checkboxFacadeFeedback</key>
+	<string>pageviewScopeOpacity</string>
+	<key>finalBuilderValidation</key>
+	<string>gestureCommandDistance</string>
+	<key>functionalNibPadding</key>
+	<string>transformerAdapterBound</string>
+	<key>futureVisitorRotation</key>
+	<string>parallelErrorType</string>
+	<key>localizationEnvironmentTint</key>
+	<string>isolateFromScope</string>
+	<key>methodWithoutCommand</key>
+	<string>retainedMediaBorder</string>
+</dict>
+</plist>

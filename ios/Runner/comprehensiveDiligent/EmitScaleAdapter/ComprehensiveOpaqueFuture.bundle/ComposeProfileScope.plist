@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOfMemento</key>
+	<string>asyncContainerBehavior</string>
+	<key>kernelInStrategy</key>
+	<string>storageEnvironmentMomentum</string>
+	<key>multiplicationActivityVelocity</key>
+	<string>fixedControllerShape</string>
+	<key>popupAtContext</key>
+	<string>touchOrStage</string>
+	<key>responsiveCoordinatorContrast</key>
+	<string>hardModelTransparency</string>
+	<key>signStyleBound</key>
+	<string>normViaValue</string>
+	<key>signatureFromFacade</key>
+	<string>referenceFromDecorator</string>
+	<key>textValueResponse</key>
+	<string>concurrentDecorationBound</string>
+	<key>unaryJobBound</key>
+	<string>roleLikeValue</string>
+</dict>
+</plist>

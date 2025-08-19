@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventModeShape</key>
+	<string>navigatorSingletonShade</string>
+	<key>lastVectorDistance</key>
+	<string>interfaceLikeProxy</string>
+	<key>notificationValueDuration</key>
+	<string>decorationContextDirection</string>
+	<key>progressbarTierFrequency</key>
+	<string>textSingletonFormat</string>
+</dict>
+</plist>

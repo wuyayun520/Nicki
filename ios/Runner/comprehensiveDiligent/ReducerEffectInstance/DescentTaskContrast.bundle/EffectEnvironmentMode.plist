@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageInsideStructure</key>
+	<string>missedFactoryTension</string>
+	<key>mediumBehaviorKind</key>
+	<string>hashModeBehavior</string>
+	<key>movementOfShape</key>
+	<string>entityParamState</string>
+	<key>oldActivityMode</key>
+	<string>graphicMementoStyle</string>
+	<key>remainderAtStage</key>
+	<string>dependencyDecoratorAlignment</string>
+	<key>shaderContainVariable</key>
+	<string>entityOfForm</string>
+	<key>sinkFromVar</key>
+	<string>positionDecoratorStatus</string>
+</dict>
+</plist>

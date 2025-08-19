@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInterpreterAlignment</key>
+	<string>variantThroughInterpreter</string>
+	<key>decorationFormAcceleration</key>
+	<string>spriteFrameworkFormat</string>
+	<key>functionalTweenIndex</key>
+	<string>viewAboutSingleton</string>
+	<key>indicatorOfInterpreter</key>
+	<string>lostFeatureDensity</string>
+	<key>tickerThroughDecorator</key>
+	<string>iterativeRichtextDensity</string>
+</dict>
+</plist>

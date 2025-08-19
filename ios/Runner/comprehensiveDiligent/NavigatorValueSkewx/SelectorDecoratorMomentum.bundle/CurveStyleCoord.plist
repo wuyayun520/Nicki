@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGramValidation</key>
+	<string>resilientViewForce</string>
+	<key>cartesianControllerMode</key>
+	<string>brushStyleForce</string>
+	<key>controllerOutsideFramework</key>
+	<string>layerPlatformBorder</string>
+	<key>missedCompletionDistance</key>
+	<string>kernelAtVariable</string>
+	<key>oldSkinOrigin</key>
+	<string>priorPresenterColor</string>
+	<key>optionOperationAlignment</key>
+	<string>commandFormTheme</string>
+	<key>titleAtLayer</key>
+	<string>constSwitchSpacing</string>
+	<key>titleTempleCenter</key>
+	<string>themeMediatorFlags</string>
+	<key>unactivatedPromiseEdge</key>
+	<string>transitionWithoutTemple</string>
+</dict>
+</plist>

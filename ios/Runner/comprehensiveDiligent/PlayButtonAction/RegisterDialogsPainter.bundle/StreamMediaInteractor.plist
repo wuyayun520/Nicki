@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsPhaseRate</key>
+	<string>immutablePrecisionInteraction</string>
+	<key>localResolverScale</key>
+	<string>ignoredResultValidation</string>
+	<key>playbackFromTier</key>
+	<string>reusableAwaitVelocity</string>
+	<key>stateViaLevel</key>
+	<string>gestureCycleKind</string>
+</dict>
+</plist>

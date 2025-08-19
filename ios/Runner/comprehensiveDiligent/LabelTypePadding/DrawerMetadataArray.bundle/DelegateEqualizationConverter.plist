@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncConstraintOpacity</key>
+	<string>pageviewBeyondObserver</string>
+	<key>asynchronousHeapPadding</key>
+	<string>scenePatternDuration</string>
+	<key>clipperSingletonLeft</key>
+	<string>usageInFunction</string>
+	<key>delegateDuringMethod</key>
+	<string>interfaceOperationMargin</string>
+	<key>iconThanType</key>
+	<string>equalizationParameterShade</string>
+	<key>multiplicationVisitorStyle</key>
+	<string>resolverAndCommand</string>
+	<key>sensorBridgeStyle</key>
+	<string>borderCommandFlags</string>
+	<key>spineInterpreterInteraction</key>
+	<string>concreteFeatureFeedback</string>
+	<key>uniqueStatefulPadding</key>
+	<string>uniformCurveInteraction</string>
+	<key>usecaseShapeStyle</key>
+	<string>concreteDecorationCoord</string>
+</dict>
+</plist>

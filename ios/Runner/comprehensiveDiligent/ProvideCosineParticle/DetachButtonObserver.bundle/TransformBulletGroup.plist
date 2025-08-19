@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludePhase</key>
+	<string>dependencyVersusMode</string>
+	<key>backwardProjectionTransparency</key>
+	<string>grainForBridge</string>
+	<key>permissivePrioritySpacing</key>
+	<string>singleViewSaturation</string>
+	<key>responsiveHeroTail</key>
+	<string>asyncMediatorMode</string>
+	<key>slashTypeTop</key>
+	<string>entityThroughLayer</string>
+	<key>storyboardShapeShade</key>
+	<string>dialogsInsideObserver</string>
+	<key>tensorPreviewDistance</key>
+	<string>observerVersusType</string>
+	<key>utilDuringAction</key>
+	<string>popupOperationOrigin</string>
+</dict>
+</plist>

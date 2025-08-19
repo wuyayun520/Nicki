@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSliderFlags</key>
+	<string>injectionAgainstVisitor</string>
+	<key>currentPrecisionFeedback</key>
+	<string>sliderScopeFlags</string>
+	<key>customizedSpineVisibility</key>
+	<string>usageVarMode</string>
+	<key>fusedBlocValidation</key>
+	<string>checklistStrategyScale</string>
+	<key>inactiveDescriptionVisible</key>
+	<string>protectedHeapVisibility</string>
+	<key>inactiveTableOffset</key>
+	<string>gesturedetectorAndTier</string>
+	<key>precisionAwayProcess</key>
+	<string>mobilePainterStatus</string>
+	<key>resourceProcessSkewy</key>
+	<string>slashPerInterpreter</string>
+	<key>tensorMediaqueryPadding</key>
+	<string>rapidWidgetForce</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredEqualizationForce</key>
+	<string>inkwellVarValidation</string>
+	<key>disabledBulletBorder</key>
+	<string>directSpriteInterval</string>
+	<key>multiCoordinatorTint</key>
+	<string>chartIncludeAdapter</string>
+	<key>navigatorAndStrategy</key>
+	<string>protectedTabviewOpacity</string>
+	<key>slashBufferOpacity</key>
+	<string>expandedOutsideNumber</string>
+	<key>statefulResponseRate</key>
+	<string>parallelEventRotation</string>
+	<key>subsequentCallbackTension</key>
+	<string>overlayAwayMethod</string>
+	<key>tabviewTaskBorder</key>
+	<string>priorityVisitorType</string>
+	<key>tensorButtonContrast</key>
+	<string>popupViaForm</string>
+</dict>
+</plist>

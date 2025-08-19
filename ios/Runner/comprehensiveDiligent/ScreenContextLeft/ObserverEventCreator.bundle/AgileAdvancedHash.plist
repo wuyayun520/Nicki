@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAdapterCoord</key>
+	<string>taskEnvironmentValidation</string>
+	<key>basicCardVelocity</key>
+	<string>easyAlignmentTop</string>
+	<key>declarativeRouteShape</key>
+	<string>singleScreenScale</string>
+	<key>dependencyOutsideStructure</key>
+	<string>sliderByFacade</string>
+	<key>managerKindRate</key>
+	<string>taskBufferShape</string>
+</dict>
+</plist>

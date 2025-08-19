@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitKindValidation</key>
+	<string>channelOutsideParameter</string>
+	<key>fragmentContainTier</key>
+	<string>reductionVisitorInteraction</string>
+	<key>granularGridOpacity</key>
+	<string>richtextStructureContrast</string>
+	<key>greatPlaybackSpacing</key>
+	<string>widgetInterpreterStatus</string>
+	<key>histogramProxyBrightness</key>
+	<string>alignmentIncludeBuffer</string>
+	<key>inkwellMementoSpeed</key>
+	<string>anchorMementoCoord</string>
+	<key>lastWidgetCount</key>
+	<string>difficultTimerDirection</string>
+	<key>lazyLabelCenter</key>
+	<string>blocModeSkewy</string>
+	<key>navigatorLayerBorder</key>
+	<string>presenterOperationDirection</string>
+</dict>
+</plist>

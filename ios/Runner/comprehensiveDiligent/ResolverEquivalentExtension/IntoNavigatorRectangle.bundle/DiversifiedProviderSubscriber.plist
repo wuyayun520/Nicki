@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityActivityTheme</key>
+	<string>constraintPerEnvironment</string>
+	<key>descriptionExceptComposite</key>
+	<string>interactiveColumnColor</string>
+	<key>keyServiceSpacing</key>
+	<string>subscriptionInterpreterDelay</string>
+	<key>painterAsProxy</key>
+	<string>firstSymbolBehavior</string>
+	<key>presenterTierCount</key>
+	<string>blocShapeState</string>
+	<key>sharedSizeRotation</key>
+	<string>persistentMemberState</string>
+</dict>
+</plist>

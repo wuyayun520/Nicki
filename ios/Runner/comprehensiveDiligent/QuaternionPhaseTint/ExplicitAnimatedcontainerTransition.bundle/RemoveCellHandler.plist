@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorNearPhase</key>
+	<string>gradientThanNumber</string>
+	<key>associatedManagerEdge</key>
+	<string>reusableButtonResponse</string>
+	<key>buttonUntilStructure</key>
+	<string>loopTempleBehavior</string>
+	<key>localAwaitOrientation</key>
+	<string>enabledCallbackVisibility</string>
+	<key>logAgainstActivity</key>
+	<string>timerUntilMemento</string>
+	<key>priorityAndStrategy</key>
+	<string>activatedGraphVisibility</string>
+	<key>segmentWorkType</key>
+	<string>responseVersusActivity</string>
+	<key>tweenPlatformEdge</key>
+	<string>lazyTransitionCount</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesDuringFunction</key>
+	<string>configurationPrototypeDistance</string>
+	<key>fusedBufferVisible</key>
+	<string>gramByState</string>
+	<key>interactorActionAlignment</key>
+	<string>viewFlyweightRate</string>
+	<key>newestSinkSize</key>
+	<string>positionVersusObserver</string>
+	<key>singleSinkInterval</key>
+	<string>interfaceAdapterEdge</string>
+</dict>
+</plist>

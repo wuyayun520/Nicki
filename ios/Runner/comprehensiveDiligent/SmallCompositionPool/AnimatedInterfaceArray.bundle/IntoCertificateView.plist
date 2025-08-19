@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPatternSize</key>
+	<string>routeAboutMemento</string>
+	<key>curveBufferKind</key>
+	<string>animationBufferInterval</string>
+	<key>dynamicStoreDelay</key>
+	<string>elasticTransformerInterval</string>
+	<key>intensityVarName</key>
+	<string>grayscaleAsKind</string>
+	<key>interactiveRepositoryTint</key>
+	<string>masterByMethod</string>
+	<key>tensorEntityDepth</key>
+	<string>resolverAboutShape</string>
+</dict>
+</plist>

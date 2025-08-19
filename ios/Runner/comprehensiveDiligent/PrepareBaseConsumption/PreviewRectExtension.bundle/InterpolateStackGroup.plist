@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorScopeResponse</key>
+	<string>respectiveNavigatorScale</string>
+	<key>animationByStrategy</key>
+	<string>queueScopeDistance</string>
+	<key>canvasSinceTask</key>
+	<string>allocatorCycleSkewy</string>
+	<key>cellActionContrast</key>
+	<string>durationTypeSpeed</string>
+	<key>checkboxAdapterFeedback</key>
+	<string>factoryAgainstContext</string>
+	<key>controllerChainDistance</key>
+	<string>symbolCompositeBound</string>
+	<key>resolverValueRotation</key>
+	<string>standaloneGrayscaleBottom</string>
+	<key>signPerCycle</key>
+	<string>resizableSpineInterval</string>
+	<key>specifyIsolateMargin</key>
+	<string>unactivatedOperationDepth</string>
+</dict>
+</plist>

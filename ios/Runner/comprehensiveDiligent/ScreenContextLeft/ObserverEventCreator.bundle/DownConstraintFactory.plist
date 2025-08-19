@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSinceStyle</key>
+	<string>draggableNavigatorPosition</string>
+	<key>callbackOutsideChain</key>
+	<string>apertureExceptInterpreter</string>
+	<key>displayablePlaybackSpeed</key>
+	<string>deferredGridviewColor</string>
+	<key>euclideanPositionDuration</key>
+	<string>musicFlyweightVelocity</string>
+	<key>managerOfProcess</key>
+	<string>mobileOrObserver</string>
+	<key>pointOutsidePrototype</key>
+	<string>cartesianBaselineLeft</string>
+	<key>priorLayoutOpacity</key>
+	<string>greatSliderAlignment</string>
+	<key>sharedTweenHead</key>
+	<string>visibleWorkflowDistance</string>
+	<key>taskViaWork</key>
+	<string>paddingProxyDelay</string>
+	<key>transformerParamSpeed</key>
+	<string>signatureContextMode</string>
+</dict>
+</plist>

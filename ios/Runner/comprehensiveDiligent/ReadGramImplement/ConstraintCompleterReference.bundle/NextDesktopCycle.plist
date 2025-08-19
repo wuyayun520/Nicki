@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScreenDepth</key>
+	<string>layoutPerEnvironment</string>
+	<key>controllerStageVelocity</key>
+	<string>handlerIncludeMediator</string>
+	<key>dialogsTaskForce</key>
+	<string>taskMediatorInterval</string>
+	<key>flexibleCycleTint</key>
+	<string>fragmentVersusTask</string>
+	<key>gesturePhaseBrightness</key>
+	<string>resolverWorkKind</string>
+	<key>gesturedetectorShapeForce</key>
+	<string>immutableBoxSkewx</string>
+	<key>greatServiceOpacity</key>
+	<string>delegateWorkStyle</string>
+</dict>
+</plist>

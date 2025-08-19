@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRequestTransparency</key>
+	<string>intuitiveCurveOffset</string>
+	<key>containerFacadeScale</key>
+	<string>crucialTitleInteraction</string>
+	<key>fusedLayoutStatus</key>
+	<string>graphCompositeSaturation</string>
+	<key>interactorDespiteFacade</key>
+	<string>storageJobScale</string>
+	<key>painterBesideVar</key>
+	<string>eventOutsidePhase</string>
+</dict>
+</plist>

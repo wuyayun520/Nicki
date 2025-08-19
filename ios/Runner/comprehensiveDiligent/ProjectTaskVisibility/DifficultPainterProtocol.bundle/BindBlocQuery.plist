@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludePlatform</key>
+	<string>asynchronousSpriteOpacity</string>
+	<key>challengeStrategySpeed</key>
+	<string>gateAndBridge</string>
+	<key>discardedAnimationStatus</key>
+	<string>animatedMovementTop</string>
+	<key>functionalProjectDirection</key>
+	<string>activityFrameworkPosition</string>
+	<key>grainFromSystem</key>
+	<string>heapProxyDistance</string>
+	<key>inheritedModelStyle</key>
+	<string>behaviorMediatorHead</string>
+	<key>presenterVersusFlyweight</key>
+	<string>workflowDecoratorIndex</string>
+	<key>sequentialConsumerStatus</key>
+	<string>fragmentSinceDecorator</string>
+	<key>sortedSizedboxVisibility</key>
+	<string>unsortedPaddingMode</string>
+</dict>
+</plist>

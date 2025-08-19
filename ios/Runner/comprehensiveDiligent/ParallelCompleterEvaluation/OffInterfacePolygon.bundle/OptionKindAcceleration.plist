@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeActivityVisible</key>
+	<string>workflowPerShape</string>
+	<key>fusedFragmentType</key>
+	<string>imageIncludeProxy</string>
+	<key>intensityAsVariable</key>
+	<string>alertInsideDecorator</string>
+	<key>largeParticleBehavior</key>
+	<string>modelLikeFlyweight</string>
+	<key>menuFrameworkLeft</key>
+	<string>factoryChainStatus</string>
+	<key>prismaticMultiplicationCoord</key>
+	<string>entropyStrategyInterval</string>
+	<key>shaderVersusTask</key>
+	<string>geometricNibPressure</string>
+	<key>skirtVarMomentum</key>
+	<string>promiseAndLevel</string>
+	<key>viewContextBehavior</key>
+	<string>advancedRoleCenter</string>
+</dict>
+</plist>

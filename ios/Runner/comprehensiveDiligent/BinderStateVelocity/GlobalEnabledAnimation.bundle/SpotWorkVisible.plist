@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticThroughCommand</key>
+	<string>radioContainCommand</string>
+	<key>heapNumberValidation</key>
+	<string>subpixelEnvironmentCoord</string>
+	<key>singletonValueFeedback</key>
+	<string>dedicatedHistogramBound</string>
+	<key>tweenUntilKind</key>
+	<string>characterDuringAdapter</string>
+</dict>
+</plist>

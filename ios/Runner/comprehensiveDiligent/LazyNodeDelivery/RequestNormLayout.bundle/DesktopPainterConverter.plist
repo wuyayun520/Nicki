@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAtProxy</key>
+	<string>gridSingletonSpeed</string>
+	<key>denseDescriptionCenter</key>
+	<string>stackSystemCenter</string>
+	<key>independentLabelFrequency</key>
+	<string>listenerSystemOffset</string>
+	<key>materialScreenType</key>
+	<string>otherFlexType</string>
+	<key>nextRadioBorder</key>
+	<string>reductionSinceStage</string>
+</dict>
+</plist>

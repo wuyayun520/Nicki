@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFunctionContrast</key>
+	<string>pointKindInteraction</string>
+	<key>baselineValueDelay</key>
+	<string>finalHistogramDistance</string>
+	<key>completionPerCycle</key>
+	<string>mediumSymbolCount</string>
+	<key>customizedPlateFrequency</key>
+	<string>alphaActivityColor</string>
+	<key>menuNumberTag</key>
+	<string>checkboxThroughOperation</string>
+	<key>methodByPattern</key>
+	<string>tappableUsageOrientation</string>
+	<key>normalResourceSpeed</key>
+	<string>visibleCapsuleMargin</string>
+	<key>queueOrPrototype</key>
+	<string>typicalPetSkewx</string>
+	<key>sensorAlongTask</key>
+	<string>integerThroughTemple</string>
+</dict>
+</plist>

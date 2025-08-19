@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyActionType</key>
+	<string>granularSingletonShade</string>
+	<key>getxOutsideStyle</key>
+	<string>resolverInInterpreter</string>
+	<key>giftBridgeFrequency</key>
+	<string>methodExceptPattern</string>
+	<key>gradientOrKind</key>
+	<string>unsortedWidgetPadding</string>
+	<key>monsterProcessSize</key>
+	<string>errorInMemento</string>
+	<key>sizeExceptTask</key>
+	<string>stackDespiteStyle</string>
+	<key>tabbarContainStrategy</key>
+	<string>boxshadowSystemDistance</string>
+</dict>
+</plist>

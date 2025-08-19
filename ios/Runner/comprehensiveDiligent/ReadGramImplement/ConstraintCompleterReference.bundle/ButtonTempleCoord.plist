@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerBesideAdapter</key>
+	<string>tappableListenerDirection</string>
+	<key>modulusByFunction</key>
+	<string>normalSwitchIndex</string>
+	<key>repositoryLevelType</key>
+	<string>completerFormResponse</string>
+	<key>resolverTypeTag</key>
+	<string>currentWidgetScale</string>
+	<key>statefulEnvironmentSkewy</key>
+	<string>localizationCompositeCenter</string>
+	<key>storageCommandDuration</key>
+	<string>chartStrategySkewy</string>
+	<key>synchronousResourceOrientation</key>
+	<string>chartFromMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintProcessTheme</key>
+	<string>equipmentNearCycle</string>
+	<key>decorationScopeResponse</key>
+	<string>nodeVarHead</string>
+	<key>reusablePointIndex</key>
+	<string>zoneForPlatform</string>
+	<key>riverpodIncludeBuffer</key>
+	<string>staticZoneVisibility</string>
+</dict>
+</plist>

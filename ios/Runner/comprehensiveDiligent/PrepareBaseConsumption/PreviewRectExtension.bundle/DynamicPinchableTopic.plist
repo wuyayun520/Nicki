@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDuringFacade</key>
+	<string>offsetDecoratorInterval</string>
+	<key>integerVersusCycle</key>
+	<string>shaderSingletonRate</string>
+	<key>offsetPerFlyweight</key>
+	<string>sliderAgainstAdapter</string>
+	<key>rectSystemSize</key>
+	<string>optimizerFacadeSkewy</string>
+	<key>sensorStageFlags</key>
+	<string>retainedManagerCoord</string>
+	<key>spineFacadePadding</key>
+	<string>coordinatorLikeObserver</string>
+	<key>subscriptionBridgeHead</key>
+	<string>switchFromStage</string>
+	<key>tweenPlatformAcceleration</key>
+	<string>constMediaMargin</string>
+</dict>
+</plist>

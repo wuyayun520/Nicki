@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBridgeCount</key>
+	<string>managerViaForm</string>
+	<key>allocatorOrStrategy</key>
+	<string>optionAgainstParam</string>
+	<key>completerVariableTheme</key>
+	<string>builderSinceContext</string>
+	<key>controllerFunctionTransparency</key>
+	<string>discardedLayoutTag</string>
+	<key>grayscaleNumberBound</key>
+	<string>momentumAmongPattern</string>
+	<key>heapWithKind</key>
+	<string>heapWithFacade</string>
+	<key>inkwellSingletonVisible</key>
+	<string>richtextAsAction</string>
+	<key>nibFromPlatform</key>
+	<string>repositoryPrototypeBorder</string>
+	<key>textureSingletonFormat</key>
+	<string>spriteWithoutFramework</string>
+</dict>
+</plist>

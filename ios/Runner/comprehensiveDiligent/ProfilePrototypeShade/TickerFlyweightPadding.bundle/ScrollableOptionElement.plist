@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWorkMode</key>
+	<string>scaleStateTop</string>
+	<key>mobxStrategyVisibility</key>
+	<string>commonGraphVelocity</string>
+	<key>resolverCompositeSpeed</key>
+	<string>asyncVisitorDirection</string>
+	<key>techniqueContextSpeed</key>
+	<string>reusableMobileLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActionDensity</key>
+	<string>queueLikeChain</string>
+	<key>disabledSignSpeed</key>
+	<string>bitrateStateFrequency</string>
+	<key>effectLayerOffset</key>
+	<string>mutableAnchorResponse</string>
+	<key>errorFlyweightPadding</key>
+	<string>baselineForJob</string>
+	<key>gridviewInSystem</key>
+	<string>diffableSinkDelay</string>
+	<key>imperativeDimensionDuration</key>
+	<string>currentConstraintBrightness</string>
+	<key>mediocreErrorTint</key>
+	<string>notificationVariableInterval</string>
+	<key>monsterInsideFlyweight</key>
+	<string>materialSinceMemento</string>
+	<key>utilPrototypeSkewx</key>
+	<string>alignmentFacadeTop</string>
+</dict>
+</plist>

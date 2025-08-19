@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorCycleRotation</key>
+	<string>composableInteractorCoord</string>
+	<key>getxContainValue</key>
+	<string>behaviorAndInterpreter</string>
+	<key>grainFrameworkFlags</key>
+	<string>hardTextHue</string>
+	<key>loopEnvironmentSaturation</key>
+	<string>primaryHandlerInteraction</string>
+	<key>managerUntilVar</key>
+	<string>typicalCapacitiesTint</string>
+	<key>matrixAmongParam</key>
+	<string>equipmentTypeFeedback</string>
+	<key>numericalDescriptorShade</key>
+	<string>resilientScaffoldDistance</string>
+	<key>singletonVariableDuration</key>
+	<string>permanentCubitBottom</string>
+	<key>transitionTypeFlags</key>
+	<string>titleInMode</string>
+</dict>
+</plist>

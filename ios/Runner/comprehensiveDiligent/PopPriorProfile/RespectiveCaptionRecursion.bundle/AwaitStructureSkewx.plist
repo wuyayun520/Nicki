@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCoordinatorState</key>
+	<string>liteResponseScale</string>
+	<key>directlySingletonAlignment</key>
+	<string>anchorStructureName</string>
+	<key>euclideanQueueValidation</key>
+	<string>animationAlongMediator</string>
+	<key>masterLevelFlags</key>
+	<string>cubitOrBuffer</string>
+	<key>resizableCoordinatorHue</key>
+	<string>routerBufferForce</string>
+	<key>viewDecoratorKind</key>
+	<string>granularSpriteRate</string>
+</dict>
+</plist>

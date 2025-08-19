@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightRight</key>
+	<string>smallTernaryVelocity</string>
+	<key>blocStyleDuration</key>
+	<string>listviewPerValue</string>
+	<key>consumerSingletonAlignment</key>
+	<string>configurationBufferAcceleration</string>
+	<key>decorationModeBehavior</key>
+	<string>directProviderSize</string>
+	<key>immutableTweenVelocity</key>
+	<string>gridPatternState</string>
+	<key>logCycleLocation</key>
+	<string>accordionLogKind</string>
+	<key>particleThroughFunction</key>
+	<string>topicThroughShape</string>
+	<key>positionAtProcess</key>
+	<string>intermediateCurveInset</string>
+	<key>queueKindDelay</key>
+	<string>eventOfActivity</string>
+	<key>temporaryReducerDepth</key>
+	<string>compositionalExceptionDuration</string>
+</dict>
+</plist>

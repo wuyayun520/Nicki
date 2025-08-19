@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLayoutIndex</key>
+	<string>temporaryExpandedAcceleration</string>
+	<key>deferredEntityBorder</key>
+	<string>usedProgressbarSpeed</string>
+	<key>displayableSingletonState</key>
+	<string>primaryIntensitySaturation</string>
+	<key>futureBesideState</key>
+	<string>curvePhaseSpacing</string>
+	<key>greatSubpixelState</key>
+	<string>asyncLocalizationTheme</string>
+	<key>oldEffectInteraction</key>
+	<string>dialogsFrameworkDelay</string>
+	<key>requiredControllerValidation</key>
+	<string>grainOrActivity</string>
+	<key>semanticSkinOffset</key>
+	<string>fixedCapacitiesFeedback</string>
+	<key>specifyDependencyResponse</key>
+	<string>offsetKindOpacity</string>
+</dict>
+</plist>

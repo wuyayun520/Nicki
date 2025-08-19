@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimationValidation</key>
+	<string>resolverSinceObserver</string>
+	<key>blocVersusFacade</key>
+	<string>concurrentExtensionStatus</string>
+	<key>chapterValueColor</key>
+	<string>bulletPatternContrast</string>
+	<key>characterSincePhase</key>
+	<string>smallDialogsVisibility</string>
+	<key>constCycleState</key>
+	<string>missedGestureForce</string>
+	<key>imageInsideWork</key>
+	<string>variantCompositeCount</string>
+	<key>mediumOffsetForce</key>
+	<string>inheritedDelegateFeedback</string>
+	<key>positionFacadeMomentum</key>
+	<string>swiftSingletonDensity</string>
+	<key>spriteOfActivity</key>
+	<string>blocNumberDepth</string>
+</dict>
+</plist>

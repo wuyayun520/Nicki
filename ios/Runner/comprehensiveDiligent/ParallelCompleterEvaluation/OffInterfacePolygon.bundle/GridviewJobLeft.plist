@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitThroughMethod</key>
+	<string>previewWithNumber</string>
+	<key>buttonContainComposite</key>
+	<string>menuLevelSkewy</string>
+	<key>enabledNodeDuration</key>
+	<string>skirtAtForm</string>
+	<key>mainCommandRate</key>
+	<string>arithmeticThroughCycle</string>
+	<key>responseMementoBehavior</key>
+	<string>managerInAction</string>
+	<key>scenePerOperation</key>
+	<string>navigatorExceptKind</string>
+	<key>signPerVariable</key>
+	<string>cacheChainOffset</string>
+	<key>signThroughNumber</key>
+	<string>hashInterpreterBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedUnaryName</key>
+	<string>liteSubscriptionRotation</string>
+	<key>configurationByCommand</key>
+	<string>commonImageVisible</string>
+	<key>dedicatedContractionVisible</key>
+	<string>beginnerRouteTop</string>
+	<key>persistentCommandHue</key>
+	<string>discardedRowVisible</string>
+	<key>requiredMonsterHead</key>
+	<string>decorationModeShade</string>
+	<key>subtleCursorTransparency</key>
+	<string>accessibleBatchLocation</string>
+	<key>topicObserverPosition</key>
+	<string>concurrentCubitStatus</string>
+</dict>
+</plist>

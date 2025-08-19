@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderJobStyle</key>
+	<string>queueActivityPressure</string>
+	<key>clipperStructureFlags</key>
+	<string>factoryCommandBrightness</string>
+	<key>heapFlyweightContrast</key>
+	<string>permanentViewFeedback</string>
+	<key>injectionPlatformBottom</key>
+	<string>semanticCatalystSpeed</string>
+	<key>otherMobxSaturation</key>
+	<string>gramStructureDistance</string>
+	<key>presenterActionLocation</key>
+	<string>layerIncludeType</string>
+	<key>repositoryNumberFlags</key>
+	<string>projectDuringContext</string>
+	<key>spriteFlyweightVelocity</key>
+	<string>stateMediatorBottom</string>
+</dict>
+</plist>

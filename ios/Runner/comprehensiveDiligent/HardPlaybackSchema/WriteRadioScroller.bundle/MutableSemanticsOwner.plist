@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushMediatorInteraction</key>
+	<string>usedBaselineType</string>
+	<key>crudeMethodSaturation</key>
+	<string>precisionModeTop</string>
+	<key>draggableTextfieldName</key>
+	<string>managerMethodSize</string>
+	<key>routeContextDirection</key>
+	<string>listenerFromFacade</string>
+	<key>rowForPrototype</key>
+	<string>alignmentAboutFlyweight</string>
+</dict>
+</plist>

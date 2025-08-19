@@ -1,0 +1,13 @@
+"NSUserTrackingUsageDescription" = "Prístup k informáciám o identifikátore zariadenia sa použije na ochranu transakcií vášho účtu a propagáciu prispôsobených reklamných služieb";
+
+"NSPhotoLibraryUsageDescription" = "Získajte prístup k albumu, získajte fotografie a aktualizujte titulnú fotografiu. Ak je to zakázané, titulnú fotku nie je možné aktualizovať";
+
+"NSLocationWhenInUseUsageDescription" = "Prístup k polohe na zobrazenie používateľov vo vašom okolí, ak máte zakázané zobrazovať používateľov v okol";
+
+"NSCameraUsageDescription" = "Prejdite do fotoaparátu, aby ste mohli fotografovať a aktualizovať titulnú fotografiu. Ak je to zakázané, titulná fotka sa neaktualizuje";
+
+"NSLocationAlwaysUsageDescription" = "Prístup k polohe na zobrazenie používateľov vo vašom okolí, ak máte zakázané zobrazovať používateľov v okolí";
+
+"NSPhotoLibraryAddUsageDescription" = "Prístup do knižnice fotiek na pridávanie nových fotiek";
+
+"NSMicrophoneUsageDescription" = "Prístup k mikrofónu a nahrávanie zvukových správ, ak je to zakázané, zvuk nie je možné nahrávať a odosielať";

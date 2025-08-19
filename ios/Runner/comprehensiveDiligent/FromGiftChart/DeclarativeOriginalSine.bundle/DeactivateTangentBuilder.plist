@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSinceStrategy</key>
+	<string>customizedMediaTail</string>
+	<key>effectBufferSkewx</key>
+	<string>commonEntropyTag</string>
+	<key>indicatorOutsideParameter</key>
+	<string>reusableFutureInteraction</string>
+	<key>mainZoneCoord</key>
+	<string>advancedSceneCenter</string>
+	<key>taskAmongActivity</key>
+	<string>compositionCycleDepth</string>
+	<key>uniformEntropyMode</key>
+	<string>hashPhaseCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSinceFunction</key>
+	<string>checkboxAroundFunction</string>
+	<key>elasticTransitionRotation</key>
+	<string>mobileReducerFlags</string>
+	<key>lastMetadataTint</key>
+	<string>resizableHeapIndex</string>
+	<key>presenterLevelTop</key>
+	<string>globalTextfieldForce</string>
+	<key>queryExceptSingleton</key>
+	<string>plateParamForce</string>
+	<key>repositoryTypeColor</key>
+	<string>swiftPrototypeDensity</string>
+	<key>resilientServiceMode</key>
+	<string>profileTierFrequency</string>
+	<key>sizeShapeType</key>
+	<string>tappableSizeLeft</string>
+	<key>textfieldPhaseFlags</key>
+	<string>unactivatedStateShape</string>
+</dict>
+</plist>

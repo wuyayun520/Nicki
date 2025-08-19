@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextureCenter</key>
+	<string>kernelAdapterStatus</string>
+	<key>euclideanSineMode</key>
+	<string>uniformScrollOffset</string>
+	<key>managerFlyweightContrast</key>
+	<string>adaptiveEventFormat</string>
+	<key>semanticListenerCenter</key>
+	<string>webTitleShape</string>
+	<key>techniqueDecoratorDelay</key>
+	<string>actionContainAdapter</string>
+	<key>textureStageAcceleration</key>
+	<string>deferredConstraintVisible</string>
+</dict>
+</plist>

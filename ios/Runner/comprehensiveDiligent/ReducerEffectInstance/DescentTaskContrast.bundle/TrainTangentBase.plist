@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelShapeName</key>
+	<string>entityTierVisible</string>
+	<key>constraintAgainstTier</key>
+	<string>segueVersusForm</string>
+	<key>controllerParamHue</key>
+	<string>stackActivityVelocity</string>
+	<key>mobxLayerMode</key>
+	<string>gramPhaseSkewy</string>
+	<key>particleSinceJob</key>
+	<string>arithmeticAroundSingleton</string>
+	<key>queueActionMode</key>
+	<string>sustainableCellHead</string>
+	<key>reusableContainerOrigin</key>
+	<string>directFragmentSize</string>
+	<key>themeWorkDelay</key>
+	<string>stateBridgeTail</string>
+</dict>
+</plist>

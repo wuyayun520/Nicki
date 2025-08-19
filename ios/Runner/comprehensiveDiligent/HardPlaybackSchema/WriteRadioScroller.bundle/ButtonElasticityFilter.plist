@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAroundMode</key>
+	<string>hyperbolicLocalizationDensity</string>
+	<key>asynchronousEffectFrequency</key>
+	<string>viewThroughMediator</string>
+	<key>buttonCycleSkewx</key>
+	<string>repositoryCycleEdge</string>
+	<key>completerWithStructure</key>
+	<string>nextSymbolTop</string>
+	<key>movementByMediator</key>
+	<string>methodBridgePressure</string>
+</dict>
+</plist>

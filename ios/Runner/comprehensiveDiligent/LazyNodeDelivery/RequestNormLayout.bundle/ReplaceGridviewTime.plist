@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPrototypeResponse</key>
+	<string>popupThanJob</string>
+	<key>concurrentActionContrast</key>
+	<string>multiButtonPosition</string>
+	<key>effectAgainstCommand</key>
+	<string>tickerFunctionInterval</string>
+	<key>immediateStampPadding</key>
+	<string>usageDuringComposite</string>
+	<key>inactiveResolverTint</key>
+	<string>marginSystemSaturation</string>
+	<key>temporaryHashCount</key>
+	<string>flexibleFutureCenter</string>
+</dict>
+</plist>

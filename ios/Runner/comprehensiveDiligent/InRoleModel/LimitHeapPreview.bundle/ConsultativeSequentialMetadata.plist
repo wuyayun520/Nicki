@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureForStage</key>
+	<string>permissiveQueryShape</string>
+	<key>associatedInkwellContrast</key>
+	<string>bufferActivityHue</string>
+	<key>customizedNavigationSize</key>
+	<string>mediumZonePosition</string>
+	<key>dedicatedWorkflowDelay</key>
+	<string>widgetActivityBrightness</string>
+	<key>immediateRepositoryVisibility</key>
+	<string>advancedRouterOffset</string>
+	<key>loopNumberFormat</key>
+	<string>comprehensiveBufferTheme</string>
+	<key>mainSignBound</key>
+	<string>dimensionPhasePadding</string>
+	<key>similarCapsuleFeedback</key>
+	<string>tickerThanShape</string>
+	<key>touchVarName</key>
+	<string>expandedAndVar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicChannelTransparency</key>
+	<string>dedicatedColumnTail</string>
+	<key>constraintSinceShape</key>
+	<string>cardAndStructure</string>
+	<key>curveBeyondBuffer</key>
+	<string>cubitViaFlyweight</string>
+	<key>geometricBoxshadowHue</key>
+	<string>lastInterfaceResponse</string>
+	<key>managerSystemAppearance</key>
+	<string>baseOutsideProxy</string>
+	<key>routerAlongTier</key>
+	<string>operationContainBridge</string>
+	<key>subtleSpriteInteraction</key>
+	<string>eventByTask</string>
+</dict>
+</plist>

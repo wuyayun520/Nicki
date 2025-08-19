@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringForm</key>
+	<string>paddingLikeStage</string>
+	<key>columnMementoValidation</key>
+	<string>functionalMobxMode</string>
+	<key>crudeDecorationFormat</key>
+	<string>mobileControllerRight</string>
+	<key>dependencyContainDecorator</key>
+	<string>viewPlatformAcceleration</string>
+	<key>hierarchicalTechniqueMode</key>
+	<string>eventStateCount</string>
+	<key>modalVarDepth</key>
+	<string>semanticCupertinoVisible</string>
+	<key>requiredLocalizationCount</key>
+	<string>radiusProxyMargin</string>
+	<key>taskFrameworkContrast</key>
+	<string>methodForSingleton</string>
+</dict>
+</plist>

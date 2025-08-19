@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMementoMode</key>
+	<string>brushCommandTheme</string>
+	<key>opaqueViewHead</key>
+	<string>immutableHashOrientation</string>
+	<key>publicNavigatorAlignment</key>
+	<string>synchronousMissionSpacing</string>
+	<key>sortedGesturedetectorTheme</key>
+	<string>advancedMobileContrast</string>
+	<key>threadValueValidation</key>
+	<string>storyboardAtAction</string>
+	<key>widgetAndOperation</key>
+	<string>builderProxyOrientation</string>
+</dict>
+</plist>

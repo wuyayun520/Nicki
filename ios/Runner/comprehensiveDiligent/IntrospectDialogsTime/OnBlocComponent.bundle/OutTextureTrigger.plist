@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAmongSystem</key>
+	<string>resourceCycleMode</string>
+	<key>gesturedetectorFlyweightOffset</key>
+	<string>cubeSinceStrategy</string>
+	<key>hardGramBound</key>
+	<string>enabledListviewBehavior</string>
+	<key>pointWithEnvironment</key>
+	<string>decorationUntilStyle</string>
+	<key>priorityAroundBridge</key>
+	<string>nativeResourceOpacity</string>
+	<key>radioBeyondSingleton</key>
+	<string>typicalMasterInset</string>
+	<key>riverpodAgainstFacade</key>
+	<string>storeOfAdapter</string>
+	<key>routeParameterLeft</key>
+	<string>alertLevelTheme</string>
+	<key>sessionChainTag</key>
+	<string>gridViaComposite</string>
+	<key>uniformManagerStatus</key>
+	<string>pivotalManagerSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDrawerPadding</key>
+	<string>declarativeTweenSpacing</string>
+	<key>bulletChainBottom</key>
+	<string>temporaryStateOrientation</string>
+	<key>dependencyMethodSaturation</key>
+	<string>durationParamCount</string>
+	<key>expandedLayerVelocity</key>
+	<string>presenterBufferIndex</string>
+	<key>gemCompositeColor</key>
+	<string>playbackDuringEnvironment</string>
+	<key>offsetFunctionColor</key>
+	<string>resizableVectorMomentum</string>
+	<key>presenterKindValidation</key>
+	<string>promiseJobDepth</string>
+	<key>unactivatedProviderName</key>
+	<string>otherScreenLocation</string>
+</dict>
+</plist>

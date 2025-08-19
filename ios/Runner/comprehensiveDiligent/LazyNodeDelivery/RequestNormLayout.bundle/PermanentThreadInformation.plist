@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFactoryAppearance</key>
+	<string>resizableIsolateDistance</string>
+	<key>cyclePerChain</key>
+	<string>previewActivityAppearance</string>
+	<key>easyTransformerShape</key>
+	<string>inactivePromiseHue</string>
+	<key>geometricTabbarHead</key>
+	<string>scrollableStorageLocation</string>
+	<key>pinchableTweenTop</key>
+	<string>heapSingletonSize</string>
+	<key>previewVariableBrightness</key>
+	<string>resultAgainstObserver</string>
+	<key>storeScopeInterval</key>
+	<string>widgetDespitePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAlongStrategy</key>
+	<string>typicalButtonIndex</string>
+	<key>cartesianResponseBound</key>
+	<string>rapidSliderTint</string>
+	<key>controllerEnvironmentSkewx</key>
+	<string>navigatorWorkFeedback</string>
+	<key>draggableQueryOrientation</key>
+	<string>multiplicationKindTransparency</string>
+	<key>managerByState</key>
+	<string>keyQueryValidation</string>
+	<key>notifierBufferBehavior</key>
+	<string>routeAdapterRight</string>
+	<key>storeBeyondPattern</key>
+	<string>configurationAboutComposite</string>
+	<key>utilJobFormat</key>
+	<string>activityBufferSkewy</string>
+</dict>
+</plist>

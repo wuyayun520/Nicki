@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDespiteEnvironment</key>
+	<string>geometricChecklistTransparency</string>
+	<key>kernelContainStyle</key>
+	<string>hashActionFeedback</string>
+	<key>largeIntegerStyle</key>
+	<string>requestOfLevel</string>
+	<key>normContainMemento</key>
+	<string>explicitBuilderOrigin</string>
+	<key>parallelNodeVisible</key>
+	<string>resourceVersusState</string>
+	<key>typicalExtensionColor</key>
+	<string>directClipperForce</string>
+	<key>vectorIncludeJob</key>
+	<string>zoneFrameworkOrigin</string>
+</dict>
+</plist>

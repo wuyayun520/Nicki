@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationForCycle</key>
+	<string>independentMethodFrequency</string>
+	<key>ignoredCanvasMargin</key>
+	<string>transitionTypeAcceleration</string>
+	<key>imperativeIsolatePosition</key>
+	<string>gemFormLocation</string>
+	<key>optimizerParameterAcceleration</key>
+	<string>localInterfaceSpeed</string>
+	<key>permissiveSkinInterval</key>
+	<string>reductionOutsideEnvironment</string>
+	<key>referenceProxyName</key>
+	<string>layerCompositeRotation</string>
+	<key>semanticTableHue</key>
+	<string>cubitFromState</string>
+	<key>singletonParamOrigin</key>
+	<string>discardedKernelValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSizeValidation</key>
+	<string>switchAsBridge</string>
+	<key>customSliderOpacity</key>
+	<string>menuFromObserver</string>
+	<key>dependencyDespiteMemento</key>
+	<string>spriteProxyName</string>
+	<key>futureCompositeContrast</key>
+	<string>contractionStateAppearance</string>
+	<key>immediateWidgetState</key>
+	<string>momentumPlatformOpacity</string>
+	<key>sizedboxOfStyle</key>
+	<string>checklistStateStyle</string>
+	<key>sustainableMetadataCenter</key>
+	<string>getxMethodEdge</string>
+</dict>
+</plist>

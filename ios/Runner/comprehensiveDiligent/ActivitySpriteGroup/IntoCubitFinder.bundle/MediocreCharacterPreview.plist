@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInterpreterMargin</key>
+	<string>missedTimerVisible</string>
+	<key>asynchronousPresenterType</key>
+	<string>usecaseStrategyRate</string>
+	<key>routerOrFlyweight</key>
+	<string>roleJobOrigin</string>
+	<key>transitionSincePhase</key>
+	<string>mediumSceneSpeed</string>
+</dict>
+</plist>

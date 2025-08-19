@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePlaybackIndex</key>
+	<string>notifierUntilTier</string>
+	<key>decorationUntilFunction</key>
+	<string>radiusFunctionFeedback</string>
+	<key>referenceActivityShade</key>
+	<string>heroEnvironmentRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverDelay</key>
+	<string>beginnerDecorationTheme</string>
+	<key>canvasSingletonCenter</key>
+	<string>transformerBySingleton</string>
+	<key>composableModelKind</key>
+	<string>asyncProxyVelocity</string>
+	<key>mediocreStepEdge</key>
+	<string>themeSystemTop</string>
+	<key>semanticStackSpeed</key>
+	<string>liteWidgetDensity</string>
+	<key>textParamSpeed</key>
+	<string>decorationVariableLocation</string>
+	<key>viewAwayAdapter</key>
+	<string>slashPrototypeIndex</string>
+</dict>
+</plist>

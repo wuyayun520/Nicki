@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAsActivity</key>
+	<string>controllerPatternKind</string>
+	<key>decorationPlatformBrightness</key>
+	<string>denseTangentOpacity</string>
+	<key>geometricStoreBorder</key>
+	<string>imagePhaseScale</string>
+	<key>managerThroughMemento</key>
+	<string>animationByStrategy</string>
+	<key>resilientCustompaintRate</key>
+	<string>grainObserverBrightness</string>
+	<key>routerVisitorInterval</key>
+	<string>injectionTierEdge</string>
+	<key>tableTaskSpeed</key>
+	<string>gateVariableIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStrategyCount</key>
+	<string>asynchronousChannelsMargin</string>
+	<key>desktopTickerSkewy</key>
+	<string>dynamicNavigationOrigin</string>
+	<key>localizationFrameworkState</key>
+	<string>curveThanStyle</string>
+	<key>resultPhaseTag</key>
+	<string>appbarVersusDecorator</string>
+	<key>uniqueSliderValidation</key>
+	<string>isolateCompositeFormat</string>
+</dict>
+</plist>

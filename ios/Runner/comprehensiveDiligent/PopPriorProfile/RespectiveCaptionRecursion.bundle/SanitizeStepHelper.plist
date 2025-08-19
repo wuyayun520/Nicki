@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInEnvironment</key>
+	<string>staticMomentumType</string>
+	<key>composableButtonCenter</key>
+	<string>protectedChannelBrightness</string>
+	<key>constWidgetFeedback</key>
+	<string>interpolationIncludeChain</string>
+	<key>pointPatternBehavior</key>
+	<string>loopActivityContrast</string>
+	<key>responseFormFeedback</key>
+	<string>repositoryChainTransparency</string>
+	<key>segueVisitorMargin</key>
+	<string>temporaryUnaryAcceleration</string>
+	<key>sequentialTransformerScale</key>
+	<string>logNumberVisibility</string>
+	<key>significantSliderOpacity</key>
+	<string>tweenValueTag</string>
+</dict>
+</plist>

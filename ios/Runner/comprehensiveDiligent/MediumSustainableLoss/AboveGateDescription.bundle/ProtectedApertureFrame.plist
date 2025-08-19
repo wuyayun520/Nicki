@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDespiteJob</key>
+	<string>constSingletonTop</string>
+	<key>delicateTouchState</key>
+	<string>visibleBaselineCenter</string>
+	<key>ephemeralIsolateSkewy</key>
+	<string>cosineStructureDistance</string>
+	<key>ephemeralStoreCount</key>
+	<string>tappableRectAcceleration</string>
+	<key>fixedCanvasSaturation</key>
+	<string>secondTitleLeft</string>
+	<key>geometricPositionShape</key>
+	<string>graphicCycleCount</string>
+	<key>mediocreTransformerMomentum</key>
+	<string>challengeStagePressure</string>
+	<key>methodActivityInterval</key>
+	<string>seamlessObserverTransparency</string>
+	<key>methodAmongVariable</key>
+	<string>providerPhaseVelocity</string>
+	<key>riverpodCompositeTension</key>
+	<string>directSwiftColor</string>
+</dict>
+</plist>

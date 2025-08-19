@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionVersusCycle</key>
+	<string>animationAsLayer</string>
+	<key>dropdownbuttonAndObserver</key>
+	<string>viewSinceProcess</string>
+	<key>gateTierVelocity</key>
+	<string>singletonExceptJob</string>
+	<key>ignoredServiceOrientation</key>
+	<string>progressbarForType</string>
+	<key>particleInShape</key>
+	<string>spriteAdapterKind</string>
+	<key>riverpodNearVisitor</key>
+	<string>marginProcessPosition</string>
+	<key>zoneAboutActivity</key>
+	<string>requestWithType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseWorkflowDuration</key>
+	<string>firstTabbarVisible</string>
+	<key>immutableRadioKind</key>
+	<string>expandedForForm</string>
+	<key>logarithmFunctionOpacity</key>
+	<string>commonExponentTransparency</string>
+	<key>mobileAssetBound</key>
+	<string>titleLayerSize</string>
+	<key>painterActionFrequency</key>
+	<string>statelessViaFlyweight</string>
+	<key>specifyParticleCount</key>
+	<string>mediocreTimerColor</string>
+	<key>unactivatedSceneTheme</key>
+	<string>routeOrObserver</string>
+</dict>
+</plist>

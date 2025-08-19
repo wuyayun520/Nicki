@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticUsageAlignment</key>
+	<string>ignoredReducerAlignment</string>
+	<key>hardInjectionContrast</key>
+	<string>timerCommandDirection</string>
+	<key>intermediateButtonName</key>
+	<string>reducerAroundBridge</string>
+	<key>robustPointDelay</key>
+	<string>mediumAwaitTag</string>
+	<key>semanticStampVisibility</key>
+	<string>modulusScopeLeft</string>
+	<key>transitionDespiteActivity</key>
+	<string>observerAmongTask</string>
+</dict>
+</plist>

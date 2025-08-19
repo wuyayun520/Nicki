@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertViaPlatform</key>
+	<string>routerStateBrightness</string>
+	<key>delegateKindDistance</key>
+	<string>sinkBufferLocation</string>
+	<key>effectForPattern</key>
+	<string>mobxAsEnvironment</string>
+	<key>gridviewBridgeInterval</key>
+	<string>sequentialPositionSpacing</string>
+	<key>largeFactoryPosition</key>
+	<string>channelThanBridge</string>
+	<key>queueUntilState</key>
+	<string>reactiveRouterDuration</string>
+	<key>resizableEventPosition</key>
+	<string>substantialHashLeft</string>
+	<key>zoneValueShape</key>
+	<string>awaitBesideLayer</string>
+</dict>
+</plist>

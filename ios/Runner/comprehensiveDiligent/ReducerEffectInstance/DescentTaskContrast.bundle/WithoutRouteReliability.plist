@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOperationBehavior</key>
+	<string>storyboardAmongLayer</string>
+	<key>concretePageviewDelay</key>
+	<string>heroUntilAction</string>
+	<key>marginObserverAlignment</key>
+	<string>dimensionStructureOrientation</string>
+	<key>memberContainStructure</key>
+	<string>hashWithBridge</string>
+	<key>mutableTimerVisibility</key>
+	<string>normalCallbackLocation</string>
+	<key>queueViaEnvironment</key>
+	<string>subtleBatchDelay</string>
+	<key>storageUntilCycle</key>
+	<string>grayscaleOrBridge</string>
+</dict>
+</plist>

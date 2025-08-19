@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDespiteStrategy</key>
+	<string>draggableTaskVisible</string>
+	<key>diffableAsyncHue</key>
+	<string>requestMethodBrightness</string>
+	<key>directHeapBound</key>
+	<string>animationBridgeShape</string>
+	<key>functionalCardLocation</key>
+	<string>cycleStateBehavior</string>
+	<key>mediumPositionMargin</key>
+	<string>contractionWithSystem</string>
+	<key>menuBeyondPhase</key>
+	<string>entropyWorkDuration</string>
+	<key>painterSingletonHead</key>
+	<string>positionIncludeScope</string>
+	<key>parallelTickerCoord</key>
+	<string>diffableCheckboxColor</string>
+</dict>
+</plist>

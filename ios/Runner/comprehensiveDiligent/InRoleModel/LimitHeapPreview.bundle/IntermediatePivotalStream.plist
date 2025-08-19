@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionStrategyFrequency</key>
+	<string>hyperbolicCustompaintTop</string>
+	<key>configurationLikeVariable</key>
+	<string>completionDuringComposite</string>
+	<key>descriptionBesideTask</key>
+	<string>nativeLocalizationVisible</string>
+	<key>desktopViewLocation</key>
+	<string>spriteContainJob</string>
+	<key>graphTaskCount</key>
+	<string>stateLayerAppearance</string>
+	<key>tickerOrCycle</key>
+	<string>tickerFormForce</string>
+</dict>
+</plist>

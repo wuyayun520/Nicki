@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStateTheme</key>
+	<string>immediateProviderSpacing</string>
+	<key>custompaintAgainstFramework</key>
+	<string>frameInInterpreter</string>
+	<key>delegateOrContext</key>
+	<string>logActivityState</string>
+	<key>gateContainEnvironment</key>
+	<string>usecaseOfState</string>
+	<key>immutableAwaitBorder</key>
+	<string>compositionalAccessoryStatus</string>
+	<key>logAboutBridge</key>
+	<string>actionAboutMethod</string>
+	<key>metadataPrototypeScale</key>
+	<string>callbackAtFunction</string>
+	<key>resourceInsideScope</key>
+	<string>profileSystemColor</string>
+</dict>
+</plist>

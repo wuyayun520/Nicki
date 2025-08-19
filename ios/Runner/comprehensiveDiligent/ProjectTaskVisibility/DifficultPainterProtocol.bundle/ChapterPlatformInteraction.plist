@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRepositoryInterval</key>
+	<string>spriteShapeSpeed</string>
+	<key>navigatorMethodBehavior</key>
+	<string>tappableLabelBottom</string>
+	<key>petAndBridge</key>
+	<string>cupertinoDecorationAcceleration</string>
+	<key>pointStyleType</key>
+	<string>crucialSizeSize</string>
+	<key>rectPatternTail</key>
+	<string>topicStrategyRight</string>
+	<key>singleCursorMomentum</key>
+	<string>adaptiveStampBorder</string>
+	<key>viewSinceStructure</key>
+	<string>injectionAmongForm</string>
+	<key>webNibKind</key>
+	<string>permissivePreviewMomentum</string>
+</dict>
+</plist>

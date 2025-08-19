@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorByActivity</key>
+	<string>decorationAtObserver</string>
+	<key>easyViewPosition</key>
+	<string>reusableAnimationTail</string>
+	<key>grainSystemAlignment</key>
+	<string>notificationParameterCount</string>
+	<key>gridviewForJob</key>
+	<string>reusableTickerFlags</string>
+	<key>observerPerBuffer</key>
+	<string>webStatelessSpacing</string>
+	<key>progressbarWithFlyweight</key>
+	<string>coordinatorForFacade</string>
+	<key>titlePatternFrequency</key>
+	<string>mainFactoryOrientation</string>
+</dict>
+</plist>

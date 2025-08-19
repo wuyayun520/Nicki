@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentModeOrientation</key>
+	<string>firstObserverStatus</string>
+	<key>concurrentSkirtState</key>
+	<string>semanticTransitionAppearance</string>
+	<key>entityOfJob</key>
+	<string>semanticButtonAppearance</string>
+	<key>hashSinceType</key>
+	<string>transitionPhaseVelocity</string>
+	<key>hyperbolicProfileName</key>
+	<string>spriteBesideLevel</string>
+	<key>presenterLikePattern</key>
+	<string>fragmentSinceObserver</string>
+	<key>reducerAgainstOperation</key>
+	<string>resultAboutMode</string>
+	<key>streamStateBound</key>
+	<string>constraintVisitorPadding</string>
+	<key>touchAroundValue</key>
+	<string>enabledWidgetResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardActivityMode</key>
+	<string>denseFrameSpeed</string>
+	<key>criticalStreamInteraction</key>
+	<string>navigatorPrototypeEdge</string>
+	<key>easyOptionType</key>
+	<string>scrollInsideFunction</string>
+	<key>smartMusicTheme</key>
+	<string>topicShapeRate</string>
+	<key>transitionDespitePrototype</key>
+	<string>richtextVarAlignment</string>
+</dict>
+</plist>

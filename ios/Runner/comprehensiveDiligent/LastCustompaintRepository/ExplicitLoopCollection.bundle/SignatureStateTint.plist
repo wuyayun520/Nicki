@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentLoopCenter</key>
+	<string>pointActivityValidation</string>
+	<key>durationShapeBorder</key>
+	<string>axisThroughValue</string>
+	<key>durationVersusState</key>
+	<string>staticTaskVisible</string>
+	<key>gridPhaseOpacity</key>
+	<string>configurationVersusMediator</string>
+	<key>independentSizeLeft</key>
+	<string>responseBeyondVariable</string>
+	<key>musicStructureBehavior</key>
+	<string>materialGateDuration</string>
+	<key>widgetAlongScope</key>
+	<string>logarithmExceptCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFormBound</key>
+	<string>cellWithoutValue</string>
+	<key>stampTierAlignment</key>
+	<string>positionedAsOperation</string>
+	<key>vectorKindSpeed</key>
+	<string>subscriptionFrameworkAcceleration</string>
+</dict>
+</plist>

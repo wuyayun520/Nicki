@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerThroughEnvironment</key>
+	<string>integerProcessMode</string>
+	<key>appbarIncludeVariable</key>
+	<string>currentAnimationBehavior</string>
+	<key>dedicatedLoopBottom</key>
+	<string>aspectratioSinceMode</string>
+	<key>explicitRectAlignment</key>
+	<string>titleTierSkewx</string>
+	<key>fusedConvolutionFrequency</key>
+	<string>projectionInPlatform</string>
+	<key>handlerAmongEnvironment</key>
+	<string>textFromTemple</string>
+	<key>routerJobStatus</key>
+	<string>switchModeBrightness</string>
+	<key>singletonVersusStyle</key>
+	<string>autoAccessoryVisibility</string>
+</dict>
+</plist>

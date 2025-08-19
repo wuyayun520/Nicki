@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVariableAlignment</key>
+	<string>methodFlyweightShade</string>
+	<key>builderPerSingleton</key>
+	<string>arithmeticInteractorSpeed</string>
+	<key>enabledModalInteraction</key>
+	<string>tickerEnvironmentVisible</string>
+	<key>multiplicationStyleDirection</key>
+	<string>labelAdapterSize</string>
+	<key>promiseAndParam</key>
+	<string>statefulChannelStatus</string>
+	<key>sequentialZoneState</key>
+	<string>secondAlignmentTop</string>
+	<key>utilOutsideStage</key>
+	<string>temporaryPointPosition</string>
+</dict>
+</plist>

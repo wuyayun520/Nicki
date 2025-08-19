@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstServiceDelay</key>
+	<string>cardInComposite</string>
+	<key>gesturedetectorOfLevel</key>
+	<string>variantForOperation</string>
+	<key>gramTaskForce</key>
+	<string>axisModeOrientation</string>
+	<key>operationSinceParam</key>
+	<string>delegateAdapterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAndCycle</key>
+	<string>bufferTierAppearance</string>
+	<key>materialSinceStrategy</key>
+	<string>skinEnvironmentBorder</string>
+	<key>permanentInterfaceVisibility</key>
+	<string>lastPainterStyle</string>
+	<key>transformerLikeShape</key>
+	<string>bufferBridgeHead</string>
+</dict>
+</plist>

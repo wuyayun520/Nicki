@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerCycleCoord</key>
+	<string>subpixelAboutBuffer</string>
+	<key>arithmeticTextTheme</key>
+	<string>instructionParameterTheme</string>
+	<key>difficultAnchorLocation</key>
+	<string>semanticAlignmentContrast</string>
+	<key>kernelIncludeStructure</key>
+	<string>usecaseAndStrategy</string>
+	<key>positionBridgeOffset</key>
+	<string>interpolationAdapterEdge</string>
+	<key>sampleAgainstChain</key>
+	<string>requestMediatorVisible</string>
+	<key>storyboardByShape</key>
+	<string>pageviewFlyweightSkewy</string>
+	<key>subscriptionMediatorDepth</key>
+	<string>groupAlongLayer</string>
+	<key>textFacadeResponse</key>
+	<string>sequentialDocumentLeft</string>
+	<key>textViaTemple</key>
+	<string>streamEnvironmentBrightness</string>
+</dict>
+</plist>

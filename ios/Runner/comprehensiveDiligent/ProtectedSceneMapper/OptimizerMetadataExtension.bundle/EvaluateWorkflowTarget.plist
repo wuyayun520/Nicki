@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeUsecaseInterval</key>
+	<string>indicatorTierSize</string>
+	<key>managerVersusSingleton</key>
+	<string>observerForType</string>
+	<key>scaffoldThroughMethod</key>
+	<string>capacitiesThanMethod</string>
+	<key>tangentContainVar</key>
+	<string>listenerStageDistance</string>
+</dict>
+</plist>

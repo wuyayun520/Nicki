@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTextureCoord</key>
+	<string>mobileContextForce</string>
+	<key>bufferBesidePattern</key>
+	<string>deferredResultVisible</string>
+	<key>dedicatedOverlayDirection</key>
+	<string>animationStateVisibility</string>
+	<key>labelAsProcess</key>
+	<string>streamModeBorder</string>
+	<key>storagePrototypeInterval</key>
+	<string>configurationValueDelay</string>
+	<key>storeIncludeFunction</key>
+	<string>menuDuringBridge</string>
+</dict>
+</plist>

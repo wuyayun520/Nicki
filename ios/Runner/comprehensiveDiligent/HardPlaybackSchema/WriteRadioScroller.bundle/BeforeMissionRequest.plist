@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalConfigurationBehavior</key>
+	<string>cartesianSceneColor</string>
+	<key>concurrentCubitResponse</key>
+	<string>channelsStructureTransparency</string>
+	<key>coordinatorViaScope</key>
+	<string>keyFutureAcceleration</string>
+	<key>dropdownbuttonBeyondChain</key>
+	<string>usedTouchTop</string>
+	<key>gradientIncludeComposite</key>
+	<string>isolateThroughChain</string>
+	<key>marginBridgeCenter</key>
+	<string>elasticRowVisible</string>
+	<key>nibOutsideBuffer</key>
+	<string>injectionCompositeVelocity</string>
+	<key>relationalAllocatorTransparency</key>
+	<string>tweenExceptStage</string>
+</dict>
+</plist>

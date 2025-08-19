@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryViaStage</key>
+	<string>presenterWithStrategy</string>
+	<key>buttonFromCommand</key>
+	<string>containerAgainstStrategy</string>
+	<key>curveViaActivity</key>
+	<string>unsortedGroupAcceleration</string>
+	<key>fusedAssetDepth</key>
+	<string>layerObserverHead</string>
+	<key>imageAsEnvironment</key>
+	<string>delegateProxyVisible</string>
+	<key>listviewMediatorStatus</key>
+	<string>subsequentViewTint</string>
+	<key>missedScaleHue</key>
+	<string>positionedModeFrequency</string>
+	<key>publicMenuIndex</key>
+	<string>titlePlatformCenter</string>
+</dict>
+</plist>

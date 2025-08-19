@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilShape</key>
+	<string>unsortedSamplePosition</string>
+	<key>configurationAwaySystem</key>
+	<string>presenterPatternMode</string>
+	<key>dependencyPrototypeFormat</key>
+	<string>binaryProcessFlags</string>
+	<key>eventAgainstFacade</key>
+	<string>intensityPerInterpreter</string>
+	<key>listenerFrameworkDelay</key>
+	<string>indicatorStrategyLeft</string>
+	<key>pageviewPerFunction</key>
+	<string>animationBeyondAction</string>
+	<key>responseMediatorEdge</key>
+	<string>resolverObserverIndex</string>
+	<key>secondTransformerKind</key>
+	<string>ternaryExceptType</string>
+	<key>statefulGradientValidation</key>
+	<string>materialWithoutScope</string>
+</dict>
+</plist>

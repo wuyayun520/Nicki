@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGemDelay</key>
+	<string>referenceActionBrightness</string>
+	<key>heapAmongVisitor</key>
+	<string>accessibleBitrateFeedback</string>
+	<key>movementActivitySpeed</key>
+	<string>vectorAlongProcess</string>
+	<key>nativeStorageTail</key>
+	<string>retainedCaptionDepth</string>
+	<key>rectOperationRight</key>
+	<string>entityExceptMethod</string>
+	<key>semanticsBesideLayer</key>
+	<string>screenKindEdge</string>
+	<key>standaloneLossPadding</key>
+	<string>effectThroughMethod</string>
+	<key>textfieldSingletonTag</key>
+	<string>activeInkwellResponse</string>
+</dict>
+</plist>

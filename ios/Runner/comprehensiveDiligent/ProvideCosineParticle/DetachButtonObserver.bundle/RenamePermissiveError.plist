@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalNumberMode</key>
+	<string>unaryAtAdapter</string>
+	<key>notificationAndStrategy</key>
+	<string>menuStructureColor</string>
+	<key>observerForParam</key>
+	<string>lastCellVisibility</string>
+	<key>radioByMode</key>
+	<string>completionParameterForce</string>
+	<key>topicExceptCycle</key>
+	<string>hierarchicalRadioTransparency</string>
+</dict>
+</plist>

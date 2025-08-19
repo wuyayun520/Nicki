@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonResolverTint</key>
+	<string>effectSinceActivity</string>
+	<key>listenerAdapterMode</key>
+	<string>taskBesideOperation</string>
+	<key>permissiveFactoryContrast</key>
+	<string>compositionVariableState</string>
+	<key>protectedStoreTag</key>
+	<string>movementInDecorator</string>
+	<key>routerWithBridge</key>
+	<string>effectMediatorSaturation</string>
+	<key>staticConfigurationTop</key>
+	<string>transitionAdapterInterval</string>
+	<key>widgetVersusStage</key>
+	<string>normalWorkflowForce</string>
+</dict>
+</plist>

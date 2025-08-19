@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsideChain</key>
+	<string>constRowValidation</string>
+	<key>navigatorStrategyShape</key>
+	<string>gateExceptNumber</string>
+	<key>signPhaseDistance</key>
+	<string>pinchableStackValidation</string>
+</dict>
+</plist>

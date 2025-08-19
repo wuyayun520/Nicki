@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicParticleRight</key>
+	<string>priorityWithTask</string>
+	<key>finalCoordinatorRotation</key>
+	<string>desktopBufferInteraction</string>
+	<key>frameProcessDelay</key>
+	<string>injectionStyleCount</string>
+	<key>mainAlignmentAlignment</key>
+	<string>concurrentBaselineIndex</string>
+	<key>queueFlyweightDepth</key>
+	<string>subtleSpineTail</string>
+	<key>resourceTempleRate</key>
+	<string>batchAboutMode</string>
+	<key>sceneStrategyOrientation</key>
+	<string>oldRowAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableVariantInteraction</key>
+	<string>responsiveMenuResponse</string>
+	<key>constRequestDelay</key>
+	<string>subtleQueueOrientation</string>
+	<key>directSubscriptionTail</key>
+	<string>blocLikeTask</string>
+	<key>hardDurationOpacity</key>
+	<string>denseTabviewPosition</string>
+	<key>inkwellEnvironmentBrightness</key>
+	<string>tangentOperationCount</string>
+	<key>listenerAsPattern</key>
+	<string>giftBeyondValue</string>
+	<key>repositoryKindFeedback</key>
+	<string>temporaryStateAlignment</string>
+	<key>statefulBeyondContext</key>
+	<string>opaquePreviewVelocity</string>
+	<key>transitionAmongTier</key>
+	<string>builderAmongMemento</string>
+</dict>
+</plist>

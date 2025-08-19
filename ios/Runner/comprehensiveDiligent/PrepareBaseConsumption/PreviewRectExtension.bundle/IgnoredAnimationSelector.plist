@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithStage</key>
+	<string>durationVarInterval</string>
+	<key>flexibleReducerOffset</key>
+	<string>newestPaddingCoord</string>
+	<key>prevTextureIndex</key>
+	<string>rowStateDistance</string>
+	<key>publicActionOffset</key>
+	<string>lastLabelOpacity</string>
+	<key>routePerProxy</key>
+	<string>textfieldEnvironmentInteraction</string>
+	<key>transitionUntilScope</key>
+	<string>discardedStorageStatus</string>
+</dict>
+</plist>

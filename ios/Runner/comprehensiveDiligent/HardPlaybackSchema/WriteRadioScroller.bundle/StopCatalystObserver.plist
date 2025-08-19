@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedProviderInterval</key>
+	<string>profileBesideDecorator</string>
+	<key>curveAsJob</key>
+	<string>inkwellThroughAdapter</string>
+	<key>metadataViaFacade</key>
+	<string>threadAsStrategy</string>
+	<key>touchWithAdapter</key>
+	<string>sustainableExtensionSkewx</string>
+	<key>viewWithoutObserver</key>
+	<string>signatureKindDepth</string>
+</dict>
+</plist>

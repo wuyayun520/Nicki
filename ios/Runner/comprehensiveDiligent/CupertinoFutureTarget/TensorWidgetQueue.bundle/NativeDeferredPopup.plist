@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughWork</key>
+	<string>navigationForAction</string>
+	<key>buttonScopeTop</key>
+	<string>statelessLoopPadding</string>
+	<key>commonReferenceRotation</key>
+	<string>asyncOffsetBorder</string>
+	<key>coordinatorForTier</key>
+	<string>descriptionInterpreterContrast</string>
+	<key>dedicatedChannelForce</key>
+	<string>scrollExceptStage</string>
+	<key>discardedActivitySaturation</key>
+	<string>ephemeralPromiseBorder</string>
+	<key>marginWithState</key>
+	<string>injectionBridgeTransparency</string>
+	<key>spotInsideType</key>
+	<string>descriptionAgainstActivity</string>
+	<key>tabviewAwayActivity</key>
+	<string>routerByActivity</string>
+</dict>
+</plist>

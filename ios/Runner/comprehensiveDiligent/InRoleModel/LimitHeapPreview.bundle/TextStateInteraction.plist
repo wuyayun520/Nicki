@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSinceContext</key>
+	<string>robustUnaryScale</string>
+	<key>catalystBesideContext</key>
+	<string>pinchableAllocatorTag</string>
+	<key>constraintFormSpeed</key>
+	<string>layoutPhaseCenter</string>
+	<key>elasticAnimationInteraction</key>
+	<string>currentIntegerIndex</string>
+	<key>fusedDescriptorFlags</key>
+	<string>criticalColumnAcceleration</string>
+	<key>intermediateWidgetBorder</key>
+	<string>histogramDuringStyle</string>
+	<key>parallelTabviewScale</key>
+	<string>interfaceMethodSize</string>
+	<key>priorListenerMode</key>
+	<string>remainderProxyBound</string>
+</dict>
+</plist>

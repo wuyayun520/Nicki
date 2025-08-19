@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionPatternVisibility</key>
+	<string>clipperFunctionBound</string>
+	<key>hierarchicalCharacterContrast</key>
+	<string>basicExceptionHue</string>
+	<key>logAsProcess</key>
+	<string>statelessProgressbarSkewy</string>
+	<key>notifierAsProcess</key>
+	<string>advancedDecorationSpacing</string>
+	<key>prevTangentScale</key>
+	<string>seamlessAspectPressure</string>
+	<key>resilientZoneInteraction</key>
+	<string>canvasDecoratorVisibility</string>
+	<key>sustainableMenuPadding</key>
+	<string>grayscaleAndEnvironment</string>
+</dict>
+</plist>

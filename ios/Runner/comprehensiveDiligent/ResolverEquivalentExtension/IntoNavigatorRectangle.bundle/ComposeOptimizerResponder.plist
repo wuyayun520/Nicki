@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVariableBrightness</key>
+	<string>ternaryFromParam</string>
+	<key>customSpineStyle</key>
+	<string>graphWithoutKind</string>
+	<key>interpolationIncludeTier</key>
+	<string>checklistCommandType</string>
+	<key>modelLayerCenter</key>
+	<string>geometricParticleRate</string>
+	<key>relationalDelegateBound</key>
+	<string>tableOutsideFacade</string>
+	<key>spotFacadeBorder</key>
+	<string>synchronousGetxContrast</string>
+	<key>taskObserverBound</key>
+	<string>monsterModeDistance</string>
+</dict>
+</plist>

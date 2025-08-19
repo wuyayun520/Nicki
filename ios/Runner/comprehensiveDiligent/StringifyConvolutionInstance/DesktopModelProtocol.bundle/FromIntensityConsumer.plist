@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStrategyResponse</key>
+	<string>previewAtMemento</string>
+	<key>masterAgainstPhase</key>
+	<string>gestureFunctionTag</string>
+	<key>statefulProgressbarFrequency</key>
+	<string>usecaseUntilDecorator</string>
+</dict>
+</plist>

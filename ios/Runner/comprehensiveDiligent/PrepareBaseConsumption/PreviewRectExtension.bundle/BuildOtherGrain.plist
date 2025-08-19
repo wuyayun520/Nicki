@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentViaForm</key>
+	<string>notificationFromActivity</string>
+	<key>dependencyDecoratorCount</key>
+	<string>desktopAlignmentSkewy</string>
+	<key>descriptorInPlatform</key>
+	<string>completionIncludeContext</string>
+	<key>featureAtDecorator</key>
+	<string>transitionBeyondParam</string>
+	<key>providerMethodContrast</key>
+	<string>opaqueNotificationEdge</string>
+	<key>similarRectState</key>
+	<string>imperativeMethodSkewx</string>
+	<key>sophisticatedChannelsFlags</key>
+	<string>sliderSinceBridge</string>
+	<key>sophisticatedDelegateResponse</key>
+	<string>anchorSinceMode</string>
+	<key>ternaryLikeScope</key>
+	<string>seamlessScrollVelocity</string>
+</dict>
+</plist>

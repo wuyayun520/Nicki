@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncColumnRight</key>
+	<string>dependencyStageInteraction</string>
+	<key>collectionSystemOpacity</key>
+	<string>desktopAlphaVisible</string>
+	<key>groupByParameter</key>
+	<string>gridviewSingletonTag</string>
+	<key>invisibleDecorationPressure</key>
+	<string>streamBufferDelay</string>
+	<key>mainStreamResponse</key>
+	<string>activeInterfaceVisibility</string>
+	<key>specifierProxyBehavior</key>
+	<string>subsequentPlaybackKind</string>
+	<key>taskFacadeType</key>
+	<string>indicatorAroundJob</string>
+</dict>
+</plist>

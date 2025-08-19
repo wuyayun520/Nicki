@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveManagerOpacity</key>
+	<string>borderAlongFacade</string>
+	<key>blocStrategyDistance</key>
+	<string>rowTypeHue</string>
+	<key>chartMethodKind</key>
+	<string>binaryShapeOpacity</string>
+	<key>containerAtObserver</key>
+	<string>interfaceCommandOffset</string>
+	<key>exceptionVariableSaturation</key>
+	<string>topicFacadeInteraction</string>
+	<key>factoryObserverTransparency</key>
+	<string>singletonLevelCount</string>
+	<key>gridviewCommandTension</key>
+	<string>capacitiesAdapterSkewx</string>
+	<key>mediocreInjectionKind</key>
+	<string>assetDuringParameter</string>
+	<key>movementOfStage</key>
+	<string>binaryAwayMethod</string>
+</dict>
+</plist>

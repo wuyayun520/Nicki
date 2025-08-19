@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardObserverPosition</key>
+	<string>largePageviewBrightness</string>
+	<key>marginViaDecorator</key>
+	<string>groupPerAction</string>
+	<key>offsetOutsideWork</key>
+	<string>mediaqueryWorkState</string>
+	<key>sharedBlocDuration</key>
+	<string>permissiveEffectAcceleration</string>
+	<key>statefulFutureSpacing</key>
+	<string>originalEffectVisible</string>
+	<key>workflowPatternName</key>
+	<string>petInsideFacade</string>
+</dict>
+</plist>

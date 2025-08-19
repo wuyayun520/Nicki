@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTierFrequency</key>
+	<string>layerVersusSystem</string>
+	<key>discardedDependencyBound</key>
+	<string>visibleManagerAppearance</string>
+	<key>entropySinceNumber</key>
+	<string>autoTickerAlignment</string>
+	<key>gridviewNearJob</key>
+	<string>durationMediatorState</string>
+	<key>invisibleFrameResponse</key>
+	<string>crudeEffectCenter</string>
+	<key>petBesideComposite</key>
+	<string>standaloneModalOrientation</string>
+	<key>resilientActivitySize</key>
+	<string>cursorOfVisitor</string>
+	<key>rowBeyondJob</key>
+	<string>alignmentAndObserver</string>
+	<key>visibleAlignmentContrast</key>
+	<string>pivotalWidgetOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOrComposite</key>
+	<string>observerDuringFacade</string>
+	<key>cupertinoContainStage</key>
+	<string>dropdownbuttonTierStyle</string>
+	<key>globalModelBehavior</key>
+	<string>layoutVisitorFeedback</string>
+	<key>tappableIconPressure</key>
+	<string>gestureStrategyDensity</string>
+	<key>toolThroughPrototype</key>
+	<string>sortedAwaitSaturation</string>
+</dict>
+</plist>

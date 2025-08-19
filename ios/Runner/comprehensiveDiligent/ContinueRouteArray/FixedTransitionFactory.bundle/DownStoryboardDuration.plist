@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPhasePadding</key>
+	<string>accordionControllerBorder</string>
+	<key>firstRouterOpacity</key>
+	<string>catalystModeTop</string>
+	<key>interactivePositionTransparency</key>
+	<string>featureTypeInset</string>
+	<key>labelStructureValidation</key>
+	<string>memberBridgeState</string>
+	<key>lastMarginCenter</key>
+	<string>textfieldAndContext</string>
+	<key>primaryCurveKind</key>
+	<string>positionWorkPadding</string>
+	<key>statefulLayerBrightness</key>
+	<string>observerFromAdapter</string>
+	<key>subtleFragmentBottom</key>
+	<string>blocOperationStyle</string>
+	<key>textWorkState</key>
+	<string>intuitiveReductionTransparency</string>
+	<key>tickerPerVar</key>
+	<string>textWithFacade</string>
+</dict>
+</plist>

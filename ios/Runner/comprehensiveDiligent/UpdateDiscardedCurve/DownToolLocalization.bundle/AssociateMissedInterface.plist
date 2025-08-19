@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedFragmentInterval</key>
+	<string>activeLoopOrigin</string>
+	<key>sliderInAction</key>
+	<string>actionTempleSaturation</string>
+	<key>staticVariantCount</key>
+	<string>featureContextBorder</string>
+	<key>stepBeyondLayer</key>
+	<string>marginPlatformAlignment</string>
+	<key>variantModePadding</key>
+	<string>controllerBesideDecorator</string>
+</dict>
+</plist>

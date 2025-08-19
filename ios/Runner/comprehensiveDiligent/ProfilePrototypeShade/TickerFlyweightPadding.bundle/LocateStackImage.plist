@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusProxy</key>
+	<string>screenBridgeSkewy</string>
+	<key>awaitProcessInset</key>
+	<string>scrollableContainerPressure</string>
+	<key>coordinatorTierType</key>
+	<string>coordinatorStyleFrequency</string>
+	<key>extensionAboutComposite</key>
+	<string>functionalParticleFormat</string>
+	<key>groupOrBuffer</key>
+	<string>typicalHeapRotation</string>
+	<key>priorGateOrientation</key>
+	<string>navigatorViaPhase</string>
+</dict>
+</plist>

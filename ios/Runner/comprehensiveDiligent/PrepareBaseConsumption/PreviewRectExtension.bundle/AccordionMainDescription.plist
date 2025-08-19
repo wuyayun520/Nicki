@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorJobFrequency</key>
+	<string>keyChannelDelay</string>
+	<key>isolateJobState</key>
+	<string>interfaceInsideSingleton</string>
+	<key>offsetCycleTop</key>
+	<string>invisibleSingletonOpacity</string>
+	<key>optimizerThroughFramework</key>
+	<string>flexibleFutureDistance</string>
+	<key>priorAssetOpacity</key>
+	<string>usageActionOrientation</string>
+	<key>sceneActionIndex</key>
+	<string>musicPatternContrast</string>
+	<key>singletonProcessScale</key>
+	<string>specifySceneCenter</string>
+	<key>substantialNavigationStyle</key>
+	<string>sliderThanOperation</string>
+	<key>techniqueStrategyShade</key>
+	<string>profileActionTransparency</string>
+	<key>usecaseSinceCommand</key>
+	<string>alignmentBesideSingleton</string>
+</dict>
+</plist>

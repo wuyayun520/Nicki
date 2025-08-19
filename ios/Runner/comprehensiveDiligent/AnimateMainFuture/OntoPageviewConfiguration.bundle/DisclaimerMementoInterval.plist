@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDecoratorInterval</key>
+	<string>tickerStructureSpacing</string>
+	<key>baseFacadeTheme</key>
+	<string>chartAtJob</string>
+	<key>dynamicActionInteraction</key>
+	<string>mobxKindTint</string>
+	<key>hashScopeDelay</key>
+	<string>mobxBeyondStrategy</string>
+	<key>localizationParamOrigin</key>
+	<string>explicitPopupOrigin</string>
+	<key>scaffoldJobFrequency</key>
+	<string>resizableResolverKind</string>
+	<key>textfieldNearVisitor</key>
+	<string>protectedOffsetSkewx</string>
+	<key>webPlaybackAcceleration</key>
+	<string>explicitMetadataFrequency</string>
+</dict>
+</plist>

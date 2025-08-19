@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAroundStyle</key>
+	<string>appbarAroundMethod</string>
+	<key>contractionStructureDelay</key>
+	<string>boxOutsideChain</string>
+	<key>directlySemanticsValidation</key>
+	<string>uniformResultEdge</string>
+	<key>titleAroundStrategy</key>
+	<string>utilProcessBrightness</string>
+	<key>utilAgainstProxy</key>
+	<string>imageFormVelocity</string>
+</dict>
+</plist>

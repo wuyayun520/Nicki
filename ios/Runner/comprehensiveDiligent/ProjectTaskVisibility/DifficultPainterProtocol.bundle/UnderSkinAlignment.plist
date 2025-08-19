@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPatternPadding</key>
+	<string>captionVersusVar</string>
+	<key>checklistAroundVisitor</key>
+	<string>dialogsCycleCount</string>
+	<key>finalBuilderDepth</key>
+	<string>gemUntilMode</string>
+	<key>grainMementoAppearance</key>
+	<string>smartConstraintSpacing</string>
+	<key>lazyMemberColor</key>
+	<string>declarativeEventTransparency</string>
+	<key>memberChainTint</key>
+	<string>nodeSingletonDistance</string>
+	<key>presenterAroundPhase</key>
+	<string>usecaseForFunction</string>
+	<key>richtextMementoMode</key>
+	<string>petIncludeVar</string>
+	<key>signatureBeyondMode</key>
+	<string>textFunctionContrast</string>
+</dict>
+</plist>

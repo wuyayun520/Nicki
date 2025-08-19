@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainLayerIndex</key>
+	<string>futureAwayBuffer</string>
+	<key>gridProxyAppearance</key>
+	<string>curveLevelEdge</string>
+	<key>materialOptimizerAcceleration</key>
+	<string>singletonAtFunction</string>
+	<key>priorityPerActivity</key>
+	<string>cellAmongComposite</string>
+	<key>relationalMenuOpacity</key>
+	<string>resultBesideStage</string>
+	<key>resizableTextDuration</key>
+	<string>boxshadowEnvironmentMargin</string>
+	<key>scrollableExpandedSkewx</key>
+	<string>directCapacitiesValidation</string>
+	<key>segueInterpreterBound</key>
+	<string>draggableZoneOrientation</string>
+	<key>taskActivityShade</key>
+	<string>logValueName</string>
+</dict>
+</plist>

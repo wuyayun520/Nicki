@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCoordinatorPadding</key>
+	<string>tickerAgainstFlyweight</string>
+	<key>documentVisitorShape</key>
+	<string>themeAgainstChain</string>
+	<key>particleInMediator</key>
+	<string>assetInState</string>
+	<key>scrollAndTier</key>
+	<string>tappableBinaryScale</string>
+	<key>singletonWithoutDecorator</key>
+	<string>storyboardTaskTag</string>
+	<key>sizeVariableFormat</key>
+	<string>segueTaskMargin</string>
+	<key>sliderFromSystem</key>
+	<string>exponentFromLayer</string>
+	<key>synchronousResultCenter</key>
+	<string>pointDecoratorInteraction</string>
+	<key>usedLocalizationState</key>
+	<string>rapidTaskRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOperationOrientation</key>
+	<string>errorFormTop</string>
+	<key>decorationVarSpeed</key>
+	<string>characterPhaseBound</string>
+	<key>durationStageBorder</key>
+	<string>custompaintNumberScale</string>
+	<key>graphicModeTag</key>
+	<string>assetJobDuration</string>
+	<key>largePageviewMode</key>
+	<string>staticRoutePosition</string>
+	<key>localConstraintForce</key>
+	<string>semanticObserverCoord</string>
+</dict>
+</plist>

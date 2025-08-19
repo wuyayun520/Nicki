@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerFutureBrightness</key>
+	<string>accessoryTierSpeed</string>
+	<key>firstInterpolationForce</key>
+	<string>vectorContextResponse</string>
+	<key>gateCommandIndex</key>
+	<string>tickerVariableSpacing</string>
+	<key>geometricOverlayVisibility</key>
+	<string>heroLikeStructure</string>
+	<key>secondSpriteTheme</key>
+	<string>interfaceTempleAppearance</string>
+	<key>webUsecaseAlignment</key>
+	<string>providerJobCenter</string>
+</dict>
+</plist>

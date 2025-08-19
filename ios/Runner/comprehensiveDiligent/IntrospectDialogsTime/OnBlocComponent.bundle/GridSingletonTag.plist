@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTempleSaturation</key>
+	<string>stateSinceActivity</string>
+	<key>deferredProviderInterval</key>
+	<string>dependencyOutsidePlatform</string>
+	<key>observerAwayContext</key>
+	<string>localCubeFlags</string>
+	<key>sessionAtCycle</key>
+	<string>logarithmSystemIndex</string>
+	<key>textfieldFunctionOffset</key>
+	<string>isolateLevelAppearance</string>
+</dict>
+</plist>

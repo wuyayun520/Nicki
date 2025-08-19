@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEntityVisibility</key>
+	<string>stateVarBottom</string>
+	<key>brushActivityAcceleration</key>
+	<string>geometricContainerOpacity</string>
+	<key>containerVersusJob</key>
+	<string>metadataActivityCoord</string>
+	<key>displayableSkinFlags</key>
+	<string>subpixelDuringPrototype</string>
+	<key>pinchableInteractorTag</key>
+	<string>animatedcontainerParamInset</string>
+	<key>sortedCoordinatorForce</key>
+	<string>roleAndCommand</string>
+	<key>tableAroundVariable</key>
+	<string>persistentCallbackMargin</string>
+	<key>tweenModeMomentum</key>
+	<string>statelessScrollForce</string>
+</dict>
+</plist>

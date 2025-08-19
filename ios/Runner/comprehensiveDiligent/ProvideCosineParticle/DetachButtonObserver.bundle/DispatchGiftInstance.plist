@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPlatformTension</key>
+	<string>delegateMethodOpacity</string>
+	<key>bulletPlatformFrequency</key>
+	<string>immutableSubpixelRate</string>
+	<key>cursorPlatformMomentum</key>
+	<string>listenerParamRight</string>
+	<key>deferredOffsetOpacity</key>
+	<string>grainShapeStyle</string>
+	<key>durationBesideContext</key>
+	<string>durationFromVar</string>
+	<key>listenerNumberScale</key>
+	<string>keyAlphaFrequency</string>
+	<key>modelInCycle</key>
+	<string>statelessFacadeRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSingletonSize</key>
+	<string>currentNavigatorVisibility</string>
+	<key>grainStageEdge</key>
+	<string>boxAlongFunction</string>
+	<key>listviewOutsideComposite</key>
+	<string>mobileAccessoryForce</string>
+	<key>resourceWithKind</key>
+	<string>sliderPrototypeDistance</string>
+	<key>responseParameterStatus</key>
+	<string>metadataKindType</string>
+	<key>specifyPositionedOrigin</key>
+	<string>specifyTransitionPressure</string>
+	<key>storageForFacade</key>
+	<string>staticMediaqueryAppearance</string>
+	<key>taskContextTheme</key>
+	<string>transitionTempleKind</string>
+</dict>
+</plist>

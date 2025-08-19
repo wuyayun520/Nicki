@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectIncludeAction</key>
+	<string>samplePatternDensity</string>
+	<key>factoryActionState</key>
+	<string>lastLogarithmOrientation</string>
+	<key>projectContextBottom</key>
+	<string>tabviewWithParam</string>
+	<key>resultAndFunction</key>
+	<string>stateOutsideFramework</string>
+	<key>storeFlyweightKind</key>
+	<string>popupOfFacade</string>
+	<key>storyboardObserverSaturation</key>
+	<string>statefulAlongParam</string>
+</dict>
+</plist>

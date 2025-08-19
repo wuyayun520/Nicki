@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightSkewx</key>
+	<string>inheritedContainerDelay</string>
+	<key>backwardRouterSkewy</key>
+	<string>standaloneLayerMomentum</string>
+	<key>clipperAroundMediator</key>
+	<string>opaqueCatalystFeedback</string>
+	<key>easyCapsuleTransparency</key>
+	<string>dialogsStrategyEdge</string>
+	<key>oldCurveDirection</key>
+	<string>offsetWithoutMode</string>
+	<key>subscriptionStrategyOrigin</key>
+	<string>eagerMenuKind</string>
+	<key>transitionMementoEdge</key>
+	<string>spotVarShade</string>
+</dict>
+</plist>

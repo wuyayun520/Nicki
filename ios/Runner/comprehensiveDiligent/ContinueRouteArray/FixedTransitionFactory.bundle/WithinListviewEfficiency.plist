@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTaskSpacing</key>
+	<string>beginnerTextfieldTheme</string>
+	<key>aspectratioSinceSingleton</key>
+	<string>notificationBufferMode</string>
+	<key>euclideanTextfieldSkewy</key>
+	<string>arithmeticFormPadding</string>
+	<key>hardTimerSize</key>
+	<string>commonModulusIndex</string>
+	<key>loopOrSingleton</key>
+	<string>managerFrameworkHead</string>
+	<key>queryMethodIndex</key>
+	<string>effectEnvironmentAppearance</string>
+	<key>segueActivityFeedback</key>
+	<string>cursorInsideEnvironment</string>
+	<key>sizedboxCycleAcceleration</key>
+	<string>intuitiveSizedboxFlags</string>
+	<key>uniformCoordinatorValidation</key>
+	<string>buttonChainFlags</string>
+</dict>
+</plist>

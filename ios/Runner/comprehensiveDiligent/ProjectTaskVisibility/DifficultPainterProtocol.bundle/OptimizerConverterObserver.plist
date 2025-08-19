@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStructureBehavior</key>
+	<string>reducerNearType</string>
+	<key>factoryTierRotation</key>
+	<string>routeSingletonCenter</string>
+	<key>menuPatternTransparency</key>
+	<string>ignoredHashVisibility</string>
+	<key>paddingNearShape</key>
+	<string>radiusUntilStrategy</string>
+	<key>pageviewFacadeTension</key>
+	<string>accordionTechniqueAppearance</string>
+	<key>priorPainterMode</key>
+	<string>normStyleCount</string>
+	<key>sceneProcessOpacity</key>
+	<string>storyboardViaProxy</string>
+	<key>tabbarLayerHead</key>
+	<string>storageForForm</string>
+	<key>tickerTierPressure</key>
+	<string>sinePatternBehavior</string>
+</dict>
+</plist>

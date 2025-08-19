@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInteractorTheme</key>
+	<string>consumerWorkInset</string>
+	<key>advancedParticleContrast</key>
+	<string>boxPrototypeBound</string>
+	<key>channelAtPlatform</key>
+	<string>providerVariableInteraction</string>
+	<key>keySpriteColor</key>
+	<string>sampleAlongSystem</string>
+	<key>originalDecorationHue</key>
+	<string>stackAgainstSingleton</string>
+	<key>subtleTabbarTheme</key>
+	<string>missedStateBound</string>
+	<key>sustainableControllerSkewx</key>
+	<string>liteMatrixDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticProtocolDirection</key>
+	<string>activeAlertDepth</string>
+	<key>frameFormOrigin</key>
+	<string>custompaintObserverInteraction</string>
+	<key>invisibleShaderMode</key>
+	<string>rectActionAcceleration</string>
+	<key>requiredInjectionMargin</key>
+	<string>handlerStrategyDelay</string>
+	<key>resolverInterpreterOffset</key>
+	<string>semanticTernaryType</string>
+	<key>tappableButtonRotation</key>
+	<string>cacheFromMode</string>
+</dict>
+</plist>

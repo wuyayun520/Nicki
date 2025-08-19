@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExceptStyle</key>
+	<string>menuFrameworkMargin</string>
+	<key>arithmeticOutsideStyle</key>
+	<string>sequentialDescriptionBound</string>
+	<key>frameIncludeBuffer</key>
+	<string>unsortedEffectOrigin</string>
+	<key>invisibleAxisOrientation</key>
+	<string>petActivityPressure</string>
+	<key>layoutValueForce</key>
+	<string>loopKindDuration</string>
+	<key>localizationTaskResponse</key>
+	<string>deferredRepositoryMode</string>
+	<key>mapCycleInterval</key>
+	<string>graphDecoratorVisibility</string>
+	<key>paddingWithMemento</key>
+	<string>sizeCommandBehavior</string>
+	<key>usecaseValueCoord</key>
+	<string>boxValueShade</string>
+</dict>
+</plist>

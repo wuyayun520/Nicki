@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionResponse</key>
+	<string>basicIconTension</string>
+	<key>behaviorPatternFrequency</key>
+	<string>iterativeStateType</string>
+	<key>commonActionSize</key>
+	<string>composableClipperSize</string>
+	<key>movementModeSkewx</key>
+	<string>associatedConstraintResponse</string>
+	<key>temporaryScreenVisibility</key>
+	<string>tabbarForScope</string>
+</dict>
+</plist>

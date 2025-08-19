@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistWithOperation</key>
+	<string>metadataInParam</string>
+	<key>draggableTextFeedback</key>
+	<string>stateVarRotation</string>
+	<key>futureFacadeLocation</key>
+	<string>fixedSignatureLeft</string>
+	<key>progressbarBridgeBrightness</key>
+	<string>assetFrameworkBehavior</string>
+	<key>textLevelSkewy</key>
+	<string>bufferAroundStructure</string>
+	<key>topicChainFeedback</key>
+	<string>chartBesideActivity</string>
+	<key>widgetFromStyle</key>
+	<string>tensorMetadataLocation</string>
+</dict>
+</plist>

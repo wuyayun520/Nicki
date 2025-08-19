@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveConfigurationStyle</key>
+	<string>pointContainStage</string>
+	<key>deferredGemResponse</key>
+	<string>axisThroughFramework</string>
+	<key>delegateContextBorder</key>
+	<string>customAllocatorTheme</string>
+	<key>indicatorTypeMomentum</key>
+	<string>threadThanComposite</string>
+	<key>mobxIncludeNumber</key>
+	<string>sinkAsMethod</string>
+	<key>projectBeyondSingleton</key>
+	<string>sequentialPageviewEdge</string>
+	<key>resizableRowAlignment</key>
+	<string>eventInMode</string>
+	<key>uniqueRepositoryTheme</key>
+	<string>delegateAroundScope</string>
+</dict>
+</plist>

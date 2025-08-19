@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBlocSkewx</key>
+	<string>navigationPerWork</string>
+	<key>curveStyleMomentum</key>
+	<string>elasticUtilScale</string>
+	<key>disabledBatchShape</key>
+	<string>behaviorFormCenter</string>
+	<key>flexAtMethod</key>
+	<string>basicContainerTransparency</string>
+	<key>mapLikeProxy</key>
+	<string>widgetViaPattern</string>
+	<key>mediaDespiteObserver</key>
+	<string>serviceCommandFlags</string>
+	<key>referenceParameterShape</key>
+	<string>subpixelAmongAdapter</string>
+	<key>sequentialCachePressure</key>
+	<string>streamOfLevel</string>
+	<key>transitionFlyweightBrightness</key>
+	<string>sliderScopeTransparency</string>
+</dict>
+</plist>

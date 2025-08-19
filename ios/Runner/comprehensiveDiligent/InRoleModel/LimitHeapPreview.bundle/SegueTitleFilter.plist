@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStageMargin</key>
+	<string>retainedFeatureOrientation</string>
+	<key>coordinatorByContext</key>
+	<string>documentParamStyle</string>
+	<key>iconVariableTag</key>
+	<string>permissiveAwaitType</string>
+	<key>oldUsageDelay</key>
+	<string>integerSingletonFlags</string>
+	<key>routerPerForm</key>
+	<string>sinkAndState</string>
+	<key>shaderInterpreterStatus</key>
+	<string>pageviewSystemDirection</string>
+	<key>spineLikeFlyweight</key>
+	<string>missedCallbackTop</string>
+	<key>themeAtParameter</key>
+	<string>sinkAwayJob</string>
+</dict>
+</plist>

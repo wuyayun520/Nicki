@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLabelMargin</key>
+	<string>concreteTaskContrast</string>
+	<key>factoryPhaseFeedback</key>
+	<string>keyPopupBorder</string>
+	<key>gridviewEnvironmentContrast</key>
+	<string>behaviorAgainstAdapter</string>
+	<key>isolateStructureVelocity</key>
+	<string>spriteBesideFunction</string>
+	<key>largeGrainStyle</key>
+	<string>switchBeyondProxy</string>
+	<key>opaqueServiceCoord</key>
+	<string>mediumBlocType</string>
+	<key>significantRadioBrightness</key>
+	<string>callbackDespiteBridge</string>
+</dict>
+</plist>

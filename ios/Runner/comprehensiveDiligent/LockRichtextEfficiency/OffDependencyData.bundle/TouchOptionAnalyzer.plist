@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisParameterMargin</key>
+	<string>nextPresenterMode</string>
+	<key>cellSingletonInset</key>
+	<string>checkboxLevelBottom</string>
+	<key>navigationInsideInterpreter</key>
+	<string>crudeAccessoryEdge</string>
+	<key>originalBulletDuration</key>
+	<string>tickerScopeOpacity</string>
+	<key>parallelHandlerDepth</key>
+	<string>swiftViaType</string>
+	<key>rectAwayKind</key>
+	<string>observerLayerOffset</string>
+	<key>rowMethodBound</key>
+	<string>nodeAndInterpreter</string>
+	<key>seamlessScaffoldShape</key>
+	<string>skinCycleOrientation</string>
+	<key>segmentAgainstJob</key>
+	<string>interfaceExceptPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormRotation</key>
+	<string>pinchableCommandTheme</string>
+	<key>exceptionUntilMethod</key>
+	<string>elasticWidgetDelay</string>
+	<key>sinkInsideStage</key>
+	<string>bufferAsChain</string>
+	<key>skinPhaseSkewy</key>
+	<string>menuAtMode</string>
+	<key>vectorNearPhase</key>
+	<string>unactivatedActivityMomentum</string>
+	<key>visibleQueueMode</key>
+	<string>alphaScopeTop</string>
+</dict>
+</plist>

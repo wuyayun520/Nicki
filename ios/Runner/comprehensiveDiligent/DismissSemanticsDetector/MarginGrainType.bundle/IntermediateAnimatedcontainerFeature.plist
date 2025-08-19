@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrBridge</key>
+	<string>compositionBeyondNumber</string>
+	<key>listenerPrototypeVisibility</key>
+	<string>semanticsFromKind</string>
+	<key>logModeInterval</key>
+	<string>lostIndicatorOffset</string>
+	<key>mapSystemIndex</key>
+	<string>groupOrInterpreter</string>
+	<key>requestIncludeChain</key>
+	<string>publicBaseTag</string>
+	<key>secondTabviewSpacing</key>
+	<string>similarBrushBrightness</string>
+	<key>storeForChain</key>
+	<string>exceptionDecoratorShade</string>
+	<key>viewAtOperation</key>
+	<string>associatedPresenterInteraction</string>
+</dict>
+</plist>

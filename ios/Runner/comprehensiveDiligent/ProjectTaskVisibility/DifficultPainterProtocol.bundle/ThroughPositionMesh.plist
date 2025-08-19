@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseVisibility</key>
+	<string>sliderLikeEnvironment</string>
+	<key>decorationProxyFormat</key>
+	<string>immutableProjectDensity</string>
+	<key>layerViaScope</key>
+	<string>isolateAsKind</string>
+	<key>popupOperationRate</key>
+	<string>mediaquerySingletonColor</string>
+	<key>stampOrTier</key>
+	<string>prevAnimationBrightness</string>
+</dict>
+</plist>

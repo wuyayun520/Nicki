@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsVariablePadding</key>
+	<string>prevMarginDirection</string>
+	<key>momentumCycleBound</key>
+	<string>tensorCallbackFrequency</string>
+	<key>multiplicationFromScope</key>
+	<string>actionModeInteraction</string>
+	<key>reusablePreviewTail</key>
+	<string>gesturedetectorParamName</string>
+	<key>textureChainBehavior</key>
+	<string>concurrentSingletonTop</string>
+</dict>
+</plist>

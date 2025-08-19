@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTextfieldCoord</key>
+	<string>labelBufferOffset</string>
+	<key>criticalGradientContrast</key>
+	<string>cacheAlongProcess</string>
+	<key>effectOutsideSingleton</key>
+	<string>keyRouterInterval</string>
+	<key>isolateInsideInterpreter</key>
+	<string>hashPlatformDuration</string>
+	<key>isolateOfPhase</key>
+	<string>behaviorStageOrientation</string>
+	<key>iterativeResponseSpacing</key>
+	<string>arithmeticMatrixTop</string>
+	<key>referenceMethodStyle</key>
+	<string>numericalErrorOrientation</string>
+	<key>richtextExceptLayer</key>
+	<string>alignmentFacadeScale</string>
+	<key>seamlessServiceAppearance</key>
+	<string>disparateDurationDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customToolBehavior</key>
+	<string>storeVersusPattern</string>
+	<key>independentSignAppearance</key>
+	<string>taskContextColor</string>
+	<key>labelAroundContext</key>
+	<string>rectEnvironmentRight</string>
+	<key>requiredMarginSkewx</key>
+	<string>eventWithoutState</string>
+</dict>
+</plist>

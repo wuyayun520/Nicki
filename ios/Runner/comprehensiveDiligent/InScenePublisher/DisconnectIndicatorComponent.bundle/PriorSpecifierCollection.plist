@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithCommand</key>
+	<string>difficultHandlerScale</string>
+	<key>asynchronousIntegerSpacing</key>
+	<string>intermediateCubitFrequency</string>
+	<key>documentBeyondTask</key>
+	<string>particleTypeFeedback</string>
+	<key>gridAgainstStrategy</key>
+	<string>profileActivityColor</string>
+	<key>interpolationUntilInterpreter</key>
+	<string>rectLikeContext</string>
+	<key>logSingletonVelocity</key>
+	<string>gramFunctionStatus</string>
+	<key>methodOrPlatform</key>
+	<string>extensionInterpreterFlags</string>
+</dict>
+</plist>

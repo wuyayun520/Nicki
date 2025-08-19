@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBesideProcess</key>
+	<string>nodeJobAppearance</string>
+	<key>lazyTabviewKind</key>
+	<string>concurrentAwaitVisible</string>
+	<key>mobileZoneInterval</key>
+	<string>menuVersusValue</string>
+	<key>positionInterpreterShade</key>
+	<string>reductionObserverVisibility</string>
+	<key>positionedAboutPattern</key>
+	<string>consultativeLayoutPadding</string>
+	<key>visiblePopupMomentum</key>
+	<string>bufferContainFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTypeAcceleration</key>
+	<string>mobxWithPlatform</string>
+	<key>cubeExceptProcess</key>
+	<string>disabledPromiseCount</string>
+	<key>petSingletonTail</key>
+	<string>pinchableGesturedetectorBehavior</string>
+</dict>
+</plist>

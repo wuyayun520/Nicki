@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelExceptBridge</key>
+	<string>disabledModelKind</string>
+	<key>channelsModeContrast</key>
+	<string>offsetAndMemento</string>
+	<key>flexibleTickerFrequency</key>
+	<string>iterativeAccessoryInteraction</string>
+	<key>gestureLikeCommand</key>
+	<string>isolateLayerForce</string>
+	<key>gesturedetectorSingletonSkewx</key>
+	<string>desktopSkirtResponse</string>
+	<key>managerViaPlatform</key>
+	<string>cartesianFlexInset</string>
+	<key>specifyBuilderTint</key>
+	<string>materialTernaryVelocity</string>
+	<key>viewStateLeft</key>
+	<string>commonModelFormat</string>
+</dict>
+</plist>

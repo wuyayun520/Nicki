@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStateBrightness</key>
+	<string>shaderModeTheme</string>
+	<key>gesturedetectorContextPadding</key>
+	<string>constAnimatedcontainerDelay</string>
+	<key>mapAroundOperation</key>
+	<string>usedButtonRotation</string>
+	<key>methodFlyweightCoord</key>
+	<string>callbackLevelTint</string>
+	<key>swiftAsParameter</key>
+	<string>entityPatternLocation</string>
+	<key>textStageTop</key>
+	<string>painterFromProxy</string>
+	<key>timerFormLocation</key>
+	<string>containerThanSingleton</string>
+</dict>
+</plist>

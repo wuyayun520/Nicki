@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAroundMemento</key>
+	<string>textExceptAction</string>
+	<key>containerOperationRight</key>
+	<string>segueOperationRight</string>
+	<key>delegateAboutVariable</key>
+	<string>graphDuringWork</string>
+	<key>exceptionFlyweightStyle</key>
+	<string>mapWithPlatform</string>
+	<key>functionalRoutePadding</key>
+	<string>anchorPlatformOffset</string>
+	<key>layoutBeyondState</key>
+	<string>zoneVisitorAppearance</string>
+	<key>providerWithFacade</key>
+	<string>coordinatorVarHead</string>
+</dict>
+</plist>

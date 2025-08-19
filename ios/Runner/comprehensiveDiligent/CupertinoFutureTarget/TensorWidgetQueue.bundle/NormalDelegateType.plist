@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyWidgetType</key>
+	<string>awaitUntilKind</string>
+	<key>equalizationVarColor</key>
+	<string>constFutureContrast</string>
+	<key>extensionPerParam</key>
+	<string>queryContextOrientation</string>
+	<key>multiCubitShape</key>
+	<string>easyNodeDensity</string>
+	<key>mutableDelegateDelay</key>
+	<string>metadataNearBridge</string>
+	<key>taskBridgeDuration</key>
+	<string>animationVarVisibility</string>
+</dict>
+</plist>

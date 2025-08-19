@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFacadeKind</key>
+	<string>beginnerOptimizerInteraction</string>
+	<key>effectOperationName</key>
+	<string>lostSpriteScale</string>
+	<key>integerProcessPosition</key>
+	<string>observerScopeBehavior</string>
+	<key>materialObserverScale</key>
+	<string>publicGridColor</string>
+	<key>permanentCubitAppearance</key>
+	<string>activeTweenSkewx</string>
+</dict>
+</plist>

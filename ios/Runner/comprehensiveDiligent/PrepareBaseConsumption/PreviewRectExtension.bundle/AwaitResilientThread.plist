@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeTier</key>
+	<string>unaryMediatorRotation</string>
+	<key>descriptionActivityOrientation</key>
+	<string>reactiveChapterVisibility</string>
+	<key>dynamicGradientEdge</key>
+	<string>rectValueHue</string>
+	<key>enabledSinkCenter</key>
+	<string>boxViaSingleton</string>
+	<key>missionVersusMemento</key>
+	<string>lazyCubitTension</string>
+	<key>spriteOutsideMode</key>
+	<string>errorAwayContext</string>
+	<key>statefulAndStructure</key>
+	<string>topicContainStructure</string>
+	<key>webSinkHue</key>
+	<string>projectAsVariable</string>
+</dict>
+</plist>

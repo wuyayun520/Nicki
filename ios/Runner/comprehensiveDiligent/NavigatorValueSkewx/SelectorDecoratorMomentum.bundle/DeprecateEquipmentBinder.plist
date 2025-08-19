@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAlongPhase</key>
+	<string>getxAgainstPrototype</string>
+	<key>pinchableBorderKind</key>
+	<string>positionedScopeTransparency</string>
+	<key>swiftBufferShape</key>
+	<string>referenceBufferForce</string>
+	<key>swiftSingletonPosition</key>
+	<string>immutableReferenceContrast</string>
+	<key>taskTempleScale</key>
+	<string>buttonFunctionBehavior</string>
+</dict>
+</plist>

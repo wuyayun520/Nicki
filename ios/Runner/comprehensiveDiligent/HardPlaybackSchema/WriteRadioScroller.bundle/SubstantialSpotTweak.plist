@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicPopupShape</key>
+	<string>statelessConfigurationTint</string>
+	<key>notificationMethodFlags</key>
+	<string>responseOutsideForm</string>
+	<key>numericalDimensionInteraction</key>
+	<string>metadataDespiteJob</string>
+	<key>positionMediatorAlignment</key>
+	<string>staticMediaquerySaturation</string>
+	<key>resolverContextSaturation</key>
+	<string>mutableEquipmentBottom</string>
+</dict>
+</plist>

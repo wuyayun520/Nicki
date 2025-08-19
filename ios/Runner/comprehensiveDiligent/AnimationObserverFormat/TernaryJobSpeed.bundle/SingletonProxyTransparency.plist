@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChartTint</key>
+	<string>responsiveAlphaRight</string>
+	<key>agileChapterKind</key>
+	<string>queueParameterPosition</string>
+	<key>baseMediatorBrightness</key>
+	<string>directlyCheckboxOrientation</string>
+	<key>modelOutsideFacade</key>
+	<string>fixedCurveVisibility</string>
+	<key>prevSessionOrigin</key>
+	<string>paddingFacadeOpacity</string>
+	<key>previewValueDepth</key>
+	<string>mobileTangentPosition</string>
+	<key>stampPerScope</key>
+	<string>lossJobStatus</string>
+</dict>
+</plist>

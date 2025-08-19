@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAmongState</key>
+	<string>robustStackColor</string>
+	<key>groupViaActivity</key>
+	<string>inheritedTextureScale</string>
+	<key>independentMapBottom</key>
+	<string>persistentCoordinatorCoord</string>
+	<key>nextCupertinoBottom</key>
+	<string>rapidZoneBrightness</string>
+	<key>plateMethodInset</key>
+	<string>stampWorkSaturation</string>
+	<key>semanticsBufferPosition</key>
+	<string>mobileOverlayAppearance</string>
+	<key>sessionFacadeDensity</key>
+	<string>viewParameterSkewx</string>
+	<key>usedRepositorySaturation</key>
+	<string>requiredBoxScale</string>
+</dict>
+</plist>

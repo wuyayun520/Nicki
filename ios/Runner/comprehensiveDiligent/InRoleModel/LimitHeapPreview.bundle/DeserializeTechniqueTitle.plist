@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAgainstJob</key>
+	<string>integerPerStructure</string>
+	<key>builderForVar</key>
+	<string>stepOutsideActivity</string>
+	<key>collectionChainStyle</key>
+	<string>providerFunctionInterval</string>
+	<key>dependencyAsPrototype</key>
+	<string>permanentSemanticsTag</string>
+	<key>elasticAnimationAppearance</key>
+	<string>injectionWithoutFlyweight</string>
+	<key>equalizationFromStage</key>
+	<string>nativeAppbarSkewy</string>
+	<key>storageJobDuration</key>
+	<string>apertureExceptPhase</string>
+	<key>themeStrategyType</key>
+	<string>permissiveProjectKind</string>
+</dict>
+</plist>

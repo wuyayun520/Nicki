@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLayerOffset</key>
+	<string>synchronousInterpolationIndex</string>
+	<key>interactorExceptMode</key>
+	<string>alertViaChain</string>
+	<key>largeRowDepth</key>
+	<string>storeByComposite</string>
+	<key>movementStateStatus</key>
+	<string>eagerAwaitColor</string>
+	<key>nextSpriteAppearance</key>
+	<string>animationAlongBridge</string>
+	<key>robustHandlerFormat</key>
+	<string>menuNearMode</string>
+	<key>symmetricReducerResponse</key>
+	<string>plateObserverName</string>
+</dict>
+</plist>

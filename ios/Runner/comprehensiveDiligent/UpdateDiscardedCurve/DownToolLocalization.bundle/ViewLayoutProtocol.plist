@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeLocation</key>
+	<string>asyncWorkLeft</string>
+	<key>aspectratioOfMemento</key>
+	<string>hardBatchState</string>
+	<key>fusedArithmeticKind</key>
+	<string>optionOrStage</string>
+	<key>titleOutsideProxy</key>
+	<string>buttonPerProcess</string>
+</dict>
+</plist>

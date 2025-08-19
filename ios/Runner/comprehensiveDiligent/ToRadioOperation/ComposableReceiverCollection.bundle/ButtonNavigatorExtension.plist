@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOperationMode</key>
+	<string>customizedSignSkewy</string>
+	<key>descriptionDecoratorCount</key>
+	<string>hierarchicalImageDistance</string>
+	<key>gemProcessRight</key>
+	<string>resourceAsForm</string>
+</dict>
+</plist>

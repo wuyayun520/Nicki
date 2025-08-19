@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFacadeKind</key>
+	<string>musicCompositeKind</string>
+	<key>commandWithPlatform</key>
+	<string>asynchronousDurationStatus</string>
+	<key>customizedLoopCenter</key>
+	<string>webTabviewState</string>
+	<key>localizationModeBehavior</key>
+	<string>crudeAssetFeedback</string>
+	<key>parallelLoopBound</key>
+	<string>diffableInjectionDistance</string>
+	<key>queueLikeJob</key>
+	<string>mobxStyleContrast</string>
+	<key>resolverMediatorHue</key>
+	<string>threadAwayProcess</string>
+	<key>routeLayerResponse</key>
+	<string>previewInsideTask</string>
+	<key>serviceLikeAction</key>
+	<string>seamlessRouterLeft</string>
+</dict>
+</plist>

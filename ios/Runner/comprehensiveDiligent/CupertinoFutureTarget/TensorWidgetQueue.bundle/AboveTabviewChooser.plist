@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionProcessContrast</key>
+	<string>titleStageCoord</string>
+	<key>ignoredMarginStyle</key>
+	<string>accessibleThemeVelocity</string>
+	<key>layoutInsideStructure</key>
+	<string>routerVarCenter</string>
+	<key>reductionWorkDelay</key>
+	<string>gradientVersusStructure</string>
+	<key>routeInStructure</key>
+	<string>displayableResponseAlignment</string>
+	<key>singletonMethodHue</key>
+	<string>scrollableIsolateDelay</string>
+	<key>smallLocalizationTension</key>
+	<string>persistentLayoutForce</string>
+</dict>
+</plist>

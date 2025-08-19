@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProviderCount</key>
+	<string>sizeForCommand</string>
+	<key>completionFlyweightTransparency</key>
+	<string>axisParameterIndex</string>
+	<key>constraintVariableInset</key>
+	<string>cardContextSpeed</string>
+	<key>numericalLocalizationRate</key>
+	<string>symmetricTangentAcceleration</string>
+	<key>parallelInteractorResponse</key>
+	<string>serviceMethodMomentum</string>
+	<key>providerCycleFormat</key>
+	<string>completionKindCenter</string>
+	<key>uniformConfigurationDuration</key>
+	<string>momentumParameterIndex</string>
+</dict>
+</plist>

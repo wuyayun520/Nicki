@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystNumberState</key>
+	<string>basicBoxFlags</string>
+	<key>fragmentForLayer</key>
+	<string>masterShapeVisible</string>
+	<key>loopCompositeShade</key>
+	<string>transitionInterpreterPosition</string>
+	<key>optimizerAboutActivity</key>
+	<string>crucialProviderShade</string>
+	<key>seamlessViewFrequency</key>
+	<string>resilientButtonAppearance</string>
+</dict>
+</plist>

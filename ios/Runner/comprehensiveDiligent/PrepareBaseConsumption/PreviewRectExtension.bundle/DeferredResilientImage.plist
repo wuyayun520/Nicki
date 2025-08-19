@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBridgeSize</key>
+	<string>primaryLossScale</string>
+	<key>exceptionAgainstObserver</key>
+	<string>animatedNavigatorVisible</string>
+	<key>ignoredUsecaseBehavior</key>
+	<string>axisProcessCount</string>
+	<key>lostOffsetFormat</key>
+	<string>anchorMediatorSkewy</string>
+	<key>profileNumberFormat</key>
+	<string>rowVariableTail</string>
+	<key>skirtFrameworkLocation</key>
+	<string>utilVisitorRight</string>
+</dict>
+</plist>

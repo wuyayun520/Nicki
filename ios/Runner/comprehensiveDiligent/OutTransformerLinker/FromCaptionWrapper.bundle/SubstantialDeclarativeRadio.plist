@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEntityDirection</key>
+	<string>descriptorOrStage</string>
+	<key>accordionTextfieldSize</key>
+	<string>effectParameterFlags</string>
+	<key>controllerAboutSingleton</key>
+	<string>symbolKindTheme</string>
+	<key>ephemeralTitleOrientation</key>
+	<string>builderMethodStatus</string>
+	<key>masterIncludeJob</key>
+	<string>listenerAndKind</string>
+	<key>momentumIncludeObserver</key>
+	<string>tweenJobDuration</string>
+	<key>nextBoxTransparency</key>
+	<string>methodInTier</string>
+</dict>
+</plist>

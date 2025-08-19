@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPatternInterval</key>
+	<string>temporaryGradientResponse</string>
+	<key>gridviewOutsideMethod</key>
+	<string>compositionStrategyIndex</string>
+	<key>intensityCompositeRate</key>
+	<string>denseViewTop</string>
+	<key>labelInterpreterStatus</key>
+	<string>litePointInset</string>
+	<key>tappableRadioIndex</key>
+	<string>futureVariableVisible</string>
+</dict>
+</plist>

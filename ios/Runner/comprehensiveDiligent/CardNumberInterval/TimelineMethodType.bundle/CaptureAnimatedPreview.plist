@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAdapterIndex</key>
+	<string>isolatePerProcess</string>
+	<key>descriptionBesideLevel</key>
+	<string>sliderAgainstShape</string>
+	<key>eagerSampleAlignment</key>
+	<string>callbackAndCycle</string>
+	<key>firstWidgetSize</key>
+	<string>coordinatorCycleResponse</string>
+	<key>getxScopeScale</key>
+	<string>controllerVisitorOrigin</string>
+	<key>navigatorWithoutOperation</key>
+	<string>ternaryFunctionCount</string>
+	<key>presenterStateTop</key>
+	<string>tangentParameterMode</string>
+	<key>subpixelNumberBound</key>
+	<string>completionBridgeType</string>
+	<key>textfieldAboutComposite</key>
+	<string>interpolationContextOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedQueueScale</key>
+	<string>subscriptionPlatformInteraction</string>
+	<key>asyncMapSpacing</key>
+	<string>lossDuringActivity</string>
+	<key>cubitMediatorTint</key>
+	<string>cubitInStyle</string>
+	<key>disparateRiverpodRotation</key>
+	<string>opaqueAsyncFeedback</string>
+	<key>eventPerParam</key>
+	<string>animatedcontainerAboutCommand</string>
+	<key>expandedCycleRotation</key>
+	<string>resizableGrainInteraction</string>
+	<key>matrixAdapterPressure</key>
+	<string>accessibleLossSaturation</string>
+	<key>roleJobState</key>
+	<string>priorSegmentSpeed</string>
+	<key>sliderOrFramework</key>
+	<string>futureStateDirection</string>
+</dict>
+</plist>

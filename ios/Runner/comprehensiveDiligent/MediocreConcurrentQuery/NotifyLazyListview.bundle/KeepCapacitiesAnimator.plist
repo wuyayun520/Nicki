@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAboutObserver</key>
+	<string>opaqueGridviewSaturation</string>
+	<key>alphaCompositeState</key>
+	<string>interfaceFromProcess</string>
+	<key>containerBeyondCommand</key>
+	<string>respectiveTabviewDelay</string>
+	<key>interpolationActivityAppearance</key>
+	<string>marginAndStrategy</string>
+	<key>routeAndContext</key>
+	<string>nodeFrameworkForce</string>
+	<key>routeModeFeedback</key>
+	<string>activityOperationShade</string>
+</dict>
+</plist>

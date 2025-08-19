@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaWithoutAction</key>
+	<string>batchLevelTheme</string>
+	<key>borderViaParam</key>
+	<string>serviceExceptBridge</string>
+	<key>eagerDurationVelocity</key>
+	<string>tweenActionSkewx</string>
+	<key>gestureContainMemento</key>
+	<string>durationOutsideProxy</string>
+	<key>gramFromKind</key>
+	<string>animatedViewStatus</string>
+	<key>methodWorkScale</key>
+	<string>radiusExceptMediator</string>
+	<key>robustObserverOrientation</key>
+	<string>textureValueMode</string>
+</dict>
+</plist>

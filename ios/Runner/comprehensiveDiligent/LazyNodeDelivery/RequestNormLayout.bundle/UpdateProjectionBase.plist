@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGramDuration</key>
+	<string>decorationStyleTransparency</string>
+	<key>blocVersusMediator</key>
+	<string>remainderStrategyResponse</string>
+	<key>easyDialogsTransparency</key>
+	<string>independentInterfaceBottom</string>
+	<key>frameVersusFlyweight</key>
+	<string>extensionStateTension</string>
+	<key>isolateWithoutObserver</key>
+	<string>reducerFlyweightPadding</string>
+</dict>
+</plist>

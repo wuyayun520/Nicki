@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLocalizationCenter</key>
+	<string>indicatorStrategyInteraction</string>
+	<key>layoutInsideTask</key>
+	<string>stateBesideTier</string>
+	<key>layoutPrototypeShape</key>
+	<string>reducerProxyPadding</string>
+	<key>scrollableAnchorFrequency</key>
+	<string>skirtLayerStyle</string>
+</dict>
+</plist>

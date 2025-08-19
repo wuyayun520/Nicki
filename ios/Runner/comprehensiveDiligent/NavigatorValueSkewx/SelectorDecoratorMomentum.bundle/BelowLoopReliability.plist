@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBufferState</key>
+	<string>signAgainstContext</string>
+	<key>commonBufferInteraction</key>
+	<string>toolInterpreterValidation</string>
+	<key>containerIncludeBuffer</key>
+	<string>priorFrameDistance</string>
+	<key>eventInScope</key>
+	<string>borderViaCommand</string>
+	<key>groupPerType</key>
+	<string>denseObserverHead</string>
+	<key>subscriptionProcessMargin</key>
+	<string>granularStoryboardRotation</string>
+</dict>
+</plist>

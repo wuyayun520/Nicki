@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveTransformerOrientation</key>
+	<string>symbolPrototypeDuration</string>
+	<key>resolverAtFunction</key>
+	<string>appbarDecoratorMode</string>
+	<key>rowStateFeedback</key>
+	<string>menuThroughDecorator</string>
+	<key>vectorCompositeVisible</key>
+	<string>assetTierFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExtensionFlags</key>
+	<string>elasticViewBound</string>
+	<key>cacheLikeState</key>
+	<string>completerByActivity</string>
+	<key>logarithmParamTint</key>
+	<string>custompaintProxyCount</string>
+	<key>permissiveStatefulFrequency</key>
+	<string>constPageviewFeedback</string>
+</dict>
+</plist>

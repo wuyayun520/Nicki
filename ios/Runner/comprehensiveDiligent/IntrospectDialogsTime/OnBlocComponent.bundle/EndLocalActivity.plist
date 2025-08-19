@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFormBorder</key>
+	<string>gridDespiteAdapter</string>
+	<key>immutableTouchInset</key>
+	<string>statelessPositionBehavior</string>
+	<key>lossParamFlags</key>
+	<string>graphWithInterpreter</string>
+	<key>respectiveSubscriptionSpacing</key>
+	<string>alignmentVarShade</string>
+	<key>serviceOfState</key>
+	<string>observerProcessRate</string>
+	<key>spriteFlyweightOffset</key>
+	<string>usageTierType</string>
+	<key>uniqueScreenResponse</key>
+	<string>sizeBesideStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorContainVariable</key>
+	<string>riverpodOperationCenter</string>
+	<key>numericalFutureSpacing</key>
+	<string>sensorIncludeNumber</string>
+	<key>particleTypeRotation</key>
+	<string>elasticExponentTransparency</string>
+	<key>projectInsideValue</key>
+	<string>largeChannelResponse</string>
+</dict>
+</plist>

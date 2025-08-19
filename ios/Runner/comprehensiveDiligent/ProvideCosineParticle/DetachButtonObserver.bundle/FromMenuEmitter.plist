@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVarOrigin</key>
+	<string>extensionParameterCount</string>
+	<key>batchAwayState</key>
+	<string>missedDelegateFrequency</string>
+	<key>completionLevelShade</key>
+	<string>remainderOutsideState</string>
+	<key>cupertinoCompositeKind</key>
+	<string>retainedSignHue</string>
+	<key>dynamicResourceState</key>
+	<string>serviceLevelHue</string>
+	<key>immediateAlphaBottom</key>
+	<string>significantCompositionPadding</string>
+	<key>priorAsyncName</key>
+	<string>commandAmongContext</string>
+	<key>roleForAction</key>
+	<string>discardedEffectOrientation</string>
+	<key>utilChainDuration</key>
+	<string>protectedCommandTint</string>
+</dict>
+</plist>

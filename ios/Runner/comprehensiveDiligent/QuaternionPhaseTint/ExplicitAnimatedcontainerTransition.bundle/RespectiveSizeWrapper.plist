@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVersusTask</key>
+	<string>entityOrCommand</string>
+	<key>basicGraphTransparency</key>
+	<string>frameFlyweightStyle</string>
+	<key>labelActivityOpacity</key>
+	<string>oldDocumentValidation</string>
+	<key>typicalPreviewContrast</key>
+	<string>capsuleSinceContext</string>
+</dict>
+</plist>

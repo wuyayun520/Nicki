@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProviderOrigin</key>
+	<string>keyGraphFeedback</string>
+	<key>custompaintThroughOperation</key>
+	<string>characterContainShape</string>
+	<key>descriptorThroughFlyweight</key>
+	<string>modulusAndFunction</string>
+	<key>dynamicLossOffset</key>
+	<string>tabbarDecoratorContrast</string>
+	<key>easyStatefulFlags</key>
+	<string>sizeVersusFramework</string>
+	<key>entityActivityOrigin</key>
+	<string>granularGestureAlignment</string>
+	<key>missionWorkState</key>
+	<string>graphVersusAdapter</string>
+	<key>radiusSingletonShade</key>
+	<string>webBulletEdge</string>
+	<key>slashValueContrast</key>
+	<string>sliderForTemple</string>
+</dict>
+</plist>

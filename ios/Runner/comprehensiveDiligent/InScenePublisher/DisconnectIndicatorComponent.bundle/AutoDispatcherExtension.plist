@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCellLocation</key>
+	<string>cubitThroughEnvironment</string>
+	<key>factoryNearMethod</key>
+	<string>singletonMethodIndex</string>
+	<key>granularAlignmentBound</key>
+	<string>layerThroughBuffer</string>
+	<key>kernelParameterRate</key>
+	<string>persistentPetKind</string>
+	<key>lastUsageColor</key>
+	<string>consultativeLabelDuration</string>
+	<key>missedSliderVisibility</key>
+	<string>repositoryWithoutEnvironment</string>
+	<key>queueAsFacade</key>
+	<string>descriptionFromVar</string>
+	<key>tensorGridVelocity</key>
+	<string>functionalSemanticsTail</string>
+</dict>
+</plist>

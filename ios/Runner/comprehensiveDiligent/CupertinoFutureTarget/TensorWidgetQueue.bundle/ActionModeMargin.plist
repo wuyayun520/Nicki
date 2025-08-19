@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDuringAdapter</key>
+	<string>axisPlatformValidation</string>
+	<key>directlyHistogramRate</key>
+	<string>requestSinceState</string>
+	<key>gateForBuffer</key>
+	<string>customizedCellShape</string>
+	<key>interfaceExceptFlyweight</key>
+	<string>aspectEnvironmentStatus</string>
+	<key>oldParticleHue</key>
+	<string>requiredGrainMargin</string>
+	<key>persistentDecorationTransparency</key>
+	<string>localizationAtInterpreter</string>
+	<key>priorServiceTransparency</key>
+	<string>paddingSinceNumber</string>
+	<key>resourceInsideType</key>
+	<string>zoneStageLocation</string>
+	<key>reusableArithmeticOrigin</key>
+	<string>resilientStorageVisibility</string>
+	<key>uniformMapSaturation</key>
+	<string>persistentUsecaseShape</string>
+</dict>
+</plist>

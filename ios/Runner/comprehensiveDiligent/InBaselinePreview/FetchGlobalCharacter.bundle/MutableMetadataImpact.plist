@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTabviewRotation</key>
+	<string>notificationStyleScale</string>
+	<key>factoryChainOrientation</key>
+	<string>subscriptionAndState</string>
+	<key>independentHistogramColor</key>
+	<string>materialTabviewCenter</string>
+	<key>permanentPlaybackDuration</key>
+	<string>boxshadowActivityBehavior</string>
+	<key>requestDuringVisitor</key>
+	<string>requiredMediaqueryPressure</string>
+	<key>storeProxySkewy</key>
+	<string>localChallengeBrightness</string>
+	<key>tweenProcessBehavior</key>
+	<string>captionCompositeName</string>
+	<key>zoneAndSingleton</key>
+	<string>robustInstructionMargin</string>
+</dict>
+</plist>

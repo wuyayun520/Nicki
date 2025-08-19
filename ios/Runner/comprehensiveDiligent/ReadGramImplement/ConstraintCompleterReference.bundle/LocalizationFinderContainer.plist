@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSinkTheme</key>
+	<string>synchronousActionMode</string>
+	<key>dependencyVarLeft</key>
+	<string>semanticStatelessSaturation</string>
+	<key>missedCanvasInteraction</key>
+	<string>missedGrainDirection</string>
+	<key>multiViewOpacity</key>
+	<string>timerValueOpacity</string>
+	<key>prevInteractorHue</key>
+	<string>factoryMementoSkewx</string>
+	<key>singletonAtWork</key>
+	<string>specifyRemainderOrigin</string>
+	<key>tweenCompositeBorder</key>
+	<string>sinkAtPhase</string>
+</dict>
+</plist>

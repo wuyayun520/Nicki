@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAmongPhase</key>
+	<string>sceneOrPlatform</string>
+	<key>boxAndAction</key>
+	<string>eagerCallbackBound</string>
+	<key>localizationDecoratorValidation</key>
+	<string>globalHashShape</string>
+	<key>particleAgainstFlyweight</key>
+	<string>descriptionPlatformDuration</string>
+	<key>precisionKindDuration</key>
+	<string>inactiveIntensityVisible</string>
+	<key>sliderNearFunction</key>
+	<string>newestChannelOrigin</string>
+	<key>streamOrWork</key>
+	<string>subscriptionFrameworkRate</string>
+</dict>
+</plist>

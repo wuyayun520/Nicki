@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteOptionBehavior</key>
+	<string>nodeInJob</string>
+	<key>listenerPerBridge</key>
+	<string>labelShapeBrightness</string>
+	<key>positionModePosition</key>
+	<string>cycleSingletonTint</string>
+	<key>richtextBeyondAction</key>
+	<string>equalizationSingletonVisible</string>
+</dict>
+</plist>

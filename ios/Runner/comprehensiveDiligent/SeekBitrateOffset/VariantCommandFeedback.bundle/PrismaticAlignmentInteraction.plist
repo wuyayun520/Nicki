@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAgainstPattern</key>
+	<string>heroParamDistance</string>
+	<key>canvasInsideParameter</key>
+	<string>granularBoxRate</string>
+	<key>managerModeBrightness</key>
+	<string>signBesideForm</string>
+	<key>paddingFrameworkMode</key>
+	<string>imageCompositeInterval</string>
+	<key>resizableSemanticsDirection</key>
+	<string>criticalSizeRate</string>
+	<key>scaleInterpreterDistance</key>
+	<string>protectedNodeForce</string>
+</dict>
+</plist>

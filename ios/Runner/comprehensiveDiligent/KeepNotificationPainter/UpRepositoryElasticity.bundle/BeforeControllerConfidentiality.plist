@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPopupTint</key>
+	<string>providerCompositeTheme</string>
+	<key>cursorLevelInterval</key>
+	<string>otherFactoryHue</string>
+	<key>instructionFromAction</key>
+	<string>resizableSizedboxFormat</string>
+	<key>normalCycleOrigin</key>
+	<string>tickerContainChain</string>
+	<key>sessionStageCenter</key>
+	<string>rowWithoutProxy</string>
+</dict>
+</plist>

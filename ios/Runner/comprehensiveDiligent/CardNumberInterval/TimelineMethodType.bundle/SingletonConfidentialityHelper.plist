@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMatrixTint</key>
+	<string>specifierVarVisibility</string>
+	<key>exceptionActivityMode</key>
+	<string>boxProcessCenter</string>
+	<key>navigatorStructureTheme</key>
+	<string>exceptionSinceSystem</string>
+	<key>originalPrecisionVelocity</key>
+	<string>euclideanAsyncTint</string>
+	<key>providerSystemShade</key>
+	<string>smallAnchorAppearance</string>
+	<key>rapidUtilBehavior</key>
+	<string>controllerAndForm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleErrorFrequency</key>
+	<string>resultAtMediator</string>
+	<key>arithmeticActionKind</key>
+	<string>toolAboutAdapter</string>
+	<key>commandFromOperation</key>
+	<string>smartArithmeticCount</string>
+	<key>mediumTechniqueValidation</key>
+	<string>sortedStampResponse</string>
+	<key>playbackFacadeTag</key>
+	<string>hardStateMode</string>
+	<key>projectOrVar</key>
+	<string>blocSingletonHue</string>
+	<key>ternaryContextLocation</key>
+	<string>callbackFormMargin</string>
+</dict>
+</plist>

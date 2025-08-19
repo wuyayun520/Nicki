@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePlateStyle</key>
+	<string>newestBatchOffset</string>
+	<key>appbarActionSpacing</key>
+	<string>callbackMethodEdge</string>
+	<key>constraintExceptComposite</key>
+	<string>momentumChainTail</string>
+	<key>explicitTitleLeft</key>
+	<string>transformerAlongTask</string>
+	<key>graphLayerInterval</key>
+	<string>animationAsPattern</string>
+	<key>profileByStrategy</key>
+	<string>tensorCharacterBehavior</string>
+	<key>tabviewAlongStructure</key>
+	<string>sizeFormShape</string>
+	<key>toolWithInterpreter</key>
+	<string>constraintFunctionIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUntilComposite</key>
+	<string>unsortedIntegerBorder</string>
+	<key>characterContextDelay</key>
+	<string>allocatorDuringSingleton</string>
+	<key>convolutionActivityBorder</key>
+	<string>smallBufferFormat</string>
+	<key>greatGesturePadding</key>
+	<string>priorityTypeHead</string>
+	<key>parallelExceptionPadding</key>
+	<string>cardAlongMode</string>
+	<key>pinchableAlertBrightness</key>
+	<string>cubitLayerColor</string>
+	<key>subtleMenuShape</key>
+	<string>synchronousActivityTension</string>
+	<key>tappableCardColor</key>
+	<string>geometricChannelTop</string>
+</dict>
+</plist>

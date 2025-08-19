@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphLevelMode</key>
+	<string>allocatorModeAcceleration</string>
+	<key>interactorOutsideKind</key>
+	<string>tickerParamRate</string>
+	<key>layoutChainVisible</key>
+	<string>containerPlatformShape</string>
+	<key>projectionEnvironmentPosition</key>
+	<string>layerJobVelocity</string>
+	<key>serviceAndWork</key>
+	<string>callbackAlongWork</string>
+</dict>
+</plist>

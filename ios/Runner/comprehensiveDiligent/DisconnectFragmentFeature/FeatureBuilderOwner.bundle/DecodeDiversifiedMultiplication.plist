@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerActivityRight</key>
+	<string>consultativeCheckboxSize</string>
+	<key>crudeTimerKind</key>
+	<string>catalystAtContext</string>
+	<key>declarativeServiceFeedback</key>
+	<string>activeLayerInteraction</string>
+	<key>firstControllerFormat</key>
+	<string>textExceptFacade</string>
+	<key>threadAsPlatform</key>
+	<string>popupStyleAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianWorkflowRight</key>
+	<string>mobileTransitionLeft</string>
+	<key>finalTextValidation</key>
+	<string>customizedRowName</string>
+	<key>ignoredSymbolMode</key>
+	<string>granularReducerValidation</string>
+	<key>imageInTemple</key>
+	<string>granularDecorationRight</string>
+	<key>positionProxyDensity</key>
+	<string>explicitBatchOrientation</string>
+	<key>resourceVersusLayer</key>
+	<string>permissiveConvolutionContrast</string>
+</dict>
+</plist>

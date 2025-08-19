@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonParameterBehavior</key>
+	<string>statelessSystemInset</string>
+	<key>columnKindFeedback</key>
+	<string>transitionCycleSpacing</string>
+	<key>independentCanvasAppearance</key>
+	<string>progressbarPlatformDensity</string>
+	<key>observerFlyweightInterval</key>
+	<string>navigatorVersusWork</string>
+	<key>sequentialStatelessBound</key>
+	<string>activityLikeShape</string>
+	<key>storePerPlatform</key>
+	<string>indicatorFrameworkTail</string>
+	<key>streamIncludeStructure</key>
+	<string>viewOperationAppearance</string>
+</dict>
+</plist>

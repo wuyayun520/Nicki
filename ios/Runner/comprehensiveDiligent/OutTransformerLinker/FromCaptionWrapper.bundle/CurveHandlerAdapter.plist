@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletWithoutMode</key>
+	<string>sceneStrategyTransparency</string>
+	<key>decorationModeShade</key>
+	<string>sizeAboutComposite</string>
+	<key>diffableViewIndex</key>
+	<string>streamAtShape</string>
+	<key>heroActionScale</key>
+	<string>brushFacadePadding</string>
+	<key>primarySpecifierBottom</key>
+	<string>controllerAmongSingleton</string>
+	<key>referenceBufferTheme</key>
+	<string>hardProviderCoord</string>
+	<key>transformerOrScope</key>
+	<string>customBorderOffset</string>
+</dict>
+</plist>

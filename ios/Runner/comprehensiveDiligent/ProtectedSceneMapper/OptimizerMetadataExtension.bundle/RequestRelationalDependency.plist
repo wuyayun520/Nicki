@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCheckboxOrientation</key>
+	<string>challengeMediatorTheme</string>
+	<key>alertFunctionInteraction</key>
+	<string>checklistDecoratorTheme</string>
+	<key>brushInMethod</key>
+	<string>documentVarFeedback</string>
+	<key>mobileGridKind</key>
+	<string>reusableDescriptionStyle</string>
+	<key>riverpodAtScope</key>
+	<string>fusedSizedboxResponse</string>
+	<key>sampleBufferFlags</key>
+	<string>significantShaderFrequency</string>
+	<key>scaffoldStyleSaturation</key>
+	<string>signatureAroundStyle</string>
+	<key>sinkVarHue</key>
+	<string>associatedServiceShade</string>
+	<key>topicAtFramework</key>
+	<string>drawerEnvironmentMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTaskBehavior</key>
+	<string>iconPerActivity</string>
+	<key>decorationOutsidePhase</key>
+	<string>aspectratioLikeType</string>
+	<key>durationPhaseFeedback</key>
+	<string>dynamicRadioResponse</string>
+	<key>layerFromFacade</key>
+	<string>ignoredRequestAlignment</string>
+	<key>navigationLevelSize</key>
+	<string>projectSystemType</string>
+	<key>titleFacadeTransparency</key>
+	<string>sophisticatedDurationTail</string>
+	<key>vectorPatternLocation</key>
+	<string>activeLayoutCount</string>
+</dict>
+</plist>

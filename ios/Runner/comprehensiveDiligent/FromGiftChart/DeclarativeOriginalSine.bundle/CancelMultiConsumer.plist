@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAllocatorName</key>
+	<string>capacitiesOrStrategy</string>
+	<key>animatedcontainerTempleBehavior</key>
+	<string>otherSkinContrast</string>
+	<key>appbarValueTransparency</key>
+	<string>hardCompleterHead</string>
+	<key>asyncWidgetScale</key>
+	<string>iterativeInkwellAppearance</string>
+	<key>imageTypeVelocity</key>
+	<string>buttonBufferDistance</string>
+	<key>reducerWithMemento</key>
+	<string>promiseThroughMode</string>
+	<key>skirtContextIndex</key>
+	<string>comprehensiveBitrateTension</string>
+</dict>
+</plist>

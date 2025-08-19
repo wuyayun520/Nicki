@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromMode</key>
+	<string>routerVersusSingleton</string>
+	<key>equalizationKindOffset</key>
+	<string>hardTextPosition</string>
+	<key>greatEntropyKind</key>
+	<string>visibleTangentVelocity</string>
+	<key>menuWithoutPattern</key>
+	<string>seamlessGrainTint</string>
+	<key>momentumBridgePadding</key>
+	<string>stackOutsideMemento</string>
+	<key>sceneAroundFlyweight</key>
+	<string>directlyPrecisionTension</string>
+	<key>seamlessAspectPressure</key>
+	<string>responsiveScrollAlignment</string>
+	<key>storageOfOperation</key>
+	<string>previewVisitorStyle</string>
+	<key>uniqueOptimizerDensity</key>
+	<string>criticalEffectTheme</string>
+</dict>
+</plist>

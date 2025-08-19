@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryForPlatform</key>
+	<string>parallelSignName</string>
+	<key>optimizerTaskPosition</key>
+	<string>asyncMethodFeedback</string>
+	<key>publicQueueDuration</key>
+	<string>dedicatedPositionMargin</string>
+	<key>timerAwayParam</key>
+	<string>rectShapeMargin</string>
+</dict>
+</plist>

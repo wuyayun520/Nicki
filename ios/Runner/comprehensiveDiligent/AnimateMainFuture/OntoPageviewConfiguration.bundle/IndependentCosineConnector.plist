@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoColumnPadding</key>
+	<string>functionalLocalizationTheme</string>
+	<key>dependencyLikeVisitor</key>
+	<string>completionThroughFramework</string>
+	<key>discardedSymbolBehavior</key>
+	<string>handlerStageEdge</string>
+	<key>globalGraphType</key>
+	<string>gateSinceType</string>
+	<key>groupBesideVar</key>
+	<string>animatedcontainerBufferCenter</string>
+	<key>subtleMetadataResponse</key>
+	<string>segueDuringTask</string>
+	<key>visibleMenuSize</key>
+	<string>reusableGrainAlignment</string>
+</dict>
+</plist>

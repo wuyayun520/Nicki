@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByMethod</key>
+	<string>delegateLevelResponse</string>
+	<key>contractionVersusFramework</key>
+	<string>eagerFrameVisibility</string>
+	<key>customizedAspectratioFormat</key>
+	<string>builderThroughTask</string>
+	<key>entityVersusStyle</key>
+	<string>isolateVersusLevel</string>
+	<key>getxChainSaturation</key>
+	<string>cubitFacadeAcceleration</string>
+	<key>notifierExceptProcess</key>
+	<string>metadataKindTheme</string>
+	<key>pivotalLocalizationCoord</key>
+	<string>entropyAwayVisitor</string>
+	<key>statefulSingletonDensity</key>
+	<string>cubitDecoratorOrientation</string>
+	<key>variantMementoOffset</key>
+	<string>protectedSliderOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInsideFramework</key>
+	<string>popupCompositeValidation</string>
+	<key>matrixViaMode</key>
+	<string>priorLogPosition</string>
+	<key>musicStateLocation</key>
+	<string>webGraphScale</string>
+	<key>presenterForChain</key>
+	<string>gesturedetectorWithoutChain</string>
+	<key>protectedQueueDistance</key>
+	<string>directlyAllocatorTransparency</string>
+	<key>rowInsideFlyweight</key>
+	<string>statelessMobileDensity</string>
+	<key>semanticConfigurationSkewx</key>
+	<string>methodVarDistance</string>
+	<key>uniformDurationPadding</key>
+	<string>criticalPointPosition</string>
+	<key>workflowStageLocation</key>
+	<string>retainedPositionedStyle</string>
+</dict>
+</plist>

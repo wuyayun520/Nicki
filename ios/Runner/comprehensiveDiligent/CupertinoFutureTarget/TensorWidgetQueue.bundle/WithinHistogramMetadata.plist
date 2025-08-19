@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableDimensionAcceleration</key>
+	<string>asynchronousActivityDelay</string>
+	<key>positionEnvironmentDensity</key>
+	<string>modalContainType</string>
+	<key>rapidTabviewSize</key>
+	<string>granularGramFeedback</string>
+	<key>reductionWithoutPattern</key>
+	<string>radiusBeyondJob</string>
+	<key>singleProfileInterval</key>
+	<string>momentumSinceParameter</string>
+	<key>sizeSingletonRate</key>
+	<string>positionLevelFrequency</string>
+	<key>textfieldNearShape</key>
+	<string>fusedRowOrigin</string>
+</dict>
+</plist>

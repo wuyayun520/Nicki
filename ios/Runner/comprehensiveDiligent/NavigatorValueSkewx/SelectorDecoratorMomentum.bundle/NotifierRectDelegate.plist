@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularProtocolFeedback</key>
+	<string>taskFacadeRate</string>
+	<key>mapWithStyle</key>
+	<string>iterativeTextBorder</string>
+	<key>statefulSensorDensity</key>
+	<string>indicatorObserverForce</string>
+	<key>textureVarShade</key>
+	<string>descriptionStageTag</string>
+	<key>timerThroughTier</key>
+	<string>asynchronousPreviewFormat</string>
+</dict>
+</plist>
